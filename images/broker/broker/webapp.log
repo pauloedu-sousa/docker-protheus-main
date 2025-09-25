@@ -1,0 +1,69 @@
+[Thread 134475797027840] [INFO] Creating Temporary directories...
+[Thread 134475797027840] [INFO] Skipped mapping /webapp. Reason: Legacy MPP mapping.
+[Thread 134475797027840] [INFO] Server not protected, using non encrypted data
+[Thread 134475797027840] ***  TOTVS S. A.  ***
+[Thread 134475797027840] *** www.totvs.com ***
+[Thread 134475797027840] TOTVS WebApp
+[Thread 134475797027840] Build 7.00.240223P
+[Thread 134475797027840] Version 10.0.15
+[Thread 134475797027840] Press Ctrl+C to terminate.
+[Thread 134475797027840] *** RELEASE VERSION ***
+[Thread 134475797027840] [INFO] Root Path is "/totvs/appserver/webapp/".
+[Thread 134475797027840] [INFO] WebApp HTTP Server started on port 8080.
+[Thread 134475797027840] [INFO] Using WebSocket communication protocol.
+[Thread 126288575093760] [INFO] Creating Temporary directories...
+[Thread 126288575093760] [INFO] Skipped mapping /webapp. Reason: Legacy MPP mapping.
+[Thread 126288575093760] [INFO] Server not protected, using non encrypted data
+[Thread 126288575093760] ***  TOTVS S. A.  ***
+[Thread 126288575093760] *** www.totvs.com ***
+[Thread 126288575093760] TOTVS WebApp
+[Thread 126288575093760] Build 7.00.240223P
+[Thread 126288575093760] Version 10.0.15
+[Thread 126288575093760] Press Ctrl+C to terminate.
+[Thread 126288575093760] *** RELEASE VERSION ***
+[Thread 126288575093760] [INFO] Root Path is "/totvs/appserver/webapp/".
+[Thread 126288575093760] [INFO] WebApp HTTP Server started on port 8080.
+[Thread 126288575093760] [INFO] Using WebSocket communication protocol.
+[Thread 130218314251264] [INFO] Creating Temporary directories...
+[Thread 130218314251264] [INFO] Skipped mapping /webapp. Reason: Legacy MPP mapping.
+[Thread 130218314251264] [INFO] Server not protected, using non encrypted data
+[Thread 130218314251264] ***  TOTVS S. A.  ***
+[Thread 130218314251264] *** www.totvs.com ***
+[Thread 130218314251264] TOTVS WebApp
+[Thread 130218314251264] Build 7.00.240223P
+[Thread 130218314251264] Version 10.0.15
+[Thread 130218314251264] Press Ctrl+C to terminate.
+[Thread 130218314251264] *** RELEASE VERSION ***
+[Thread 130218314251264] [INFO] Root Path is "/totvs/appserver/webapp/".
+[Thread 130218314251264] [INFO] WebApp HTTP Server started on port 8080.
+[Thread 130218314251264] [INFO] Using WebSocket communication protocol.
+[Thread 130217561556736] JSON_Session::postMessageToBrowser: CONTEXT_TO_RUN failed. reason: CER_CONTEXT_MANAGER_STOPPED
+[Thread 130217561556736] [FATAL] Communication error: Sync error on /data/packages/backend/src/main/cpp/remote/common/lib_comm/msgmanager.cpp at 472
+[Thread 131127839763456] [INFO] Creating Temporary directories...
+[Thread 131127839763456] [INFO] Skipped mapping /webapp. Reason: Legacy MPP mapping.
+[Thread 131127839763456] [INFO] Server not protected, using non encrypted data
+[Thread 131127839763456] ***  TOTVS S. A.  ***
+[Thread 131127839763456] *** www.totvs.com ***
+[Thread 131127839763456] TOTVS WebApp
+[Thread 131127839763456] Build 7.00.240223P
+[Thread 131127839763456] Version 10.0.15
+[Thread 131127839763456] Press Ctrl+C to terminate.
+[Thread 131127839763456] *** RELEASE VERSION ***
+[Thread 131127839763456] [INFO] Root Path is "/totvs/appserver/webapp/".
+[Thread 131127839763456] [INFO] WebApp HTTP Server started on port 8080.
+[Thread 131127839763456] [INFO] Using WebSocket communication protocol.
+[Thread 131126557411072] JSON_Session::postMessageToBrowser: CONTEXT_TO_RUN failed. reason: CER_CONTEXT_MANAGER_STOPPED
+[Thread 131126557411072] [FATAL] Communication error: Sync error on /data/packages/backend/src/main/cpp/remote/common/lib_comm/msgmanager.cpp at 472
+[Thread 136381185977344] [INFO] Creating Temporary directories...
+[Thread 136381185977344] [INFO] Skipped mapping /webapp. Reason: Legacy MPP mapping.
+[Thread 136381185977344] [INFO] Server not protected, using non encrypted data
+[Thread 136381185977344] ***  TOTVS S. A.  ***
+[Thread 136381185977344] *** www.totvs.com ***
+[Thread 136381185977344] TOTVS WebApp
+[Thread 136381185977344] Build 7.00.240223P
+[Thread 136381185977344] Version 10.0.15
+[Thread 136381185977344] Press Ctrl+C to terminate.
+[Thread 136381185977344] *** RELEASE VERSION ***
+[Thread 136381185977344] [INFO] Root Path is "/totvs/appserver/webapp/".
+[Thread 136381185977344] [INFO] WebApp HTTP Server started on port 8080.
+[Thread 136381185977344] [INFO] Using WebSocket communication protocol.

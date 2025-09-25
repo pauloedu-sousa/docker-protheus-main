@@ -1,0 +1,400 @@
+{
+  "totvs": "TOTVS",
+  "appserver": "Application Server",
+  "smartclient": "SmartClient",
+  "smartclienthtml": "TOTVS SmartClient HTML",
+  "protheus": "Protheus",
+  "attention": "Aten\u00E7\u00E3o!",
+  "click": "Clique",
+  "here": "aqui",
+  "seconds": "segundos",
+  "browserdialogbox": "Caixa de Diálogo do Navegador",
+  "startpage": {
+    "build": "Build",
+    "version": "Vers\u00e3o",
+    "program": {
+      "caption": "Programa Inicial",
+      "title": "Digite o Programa Inicial"
+    },
+    "communication": {
+      "caption": "Comunica\u00E7\u00e3o no cliente",
+      "title": "Digite a comunica\u00E7\u00e3o no cliente"
+    },
+    "environment": {
+      "caption": "Ambiente no servidor",
+      "title": "Digite o ambiente no servidor"
+    },
+    "localAgent": {
+      "caption": "Agente Local",
+      "title": "Habilita/Desabilita o Agente Local",
+      "port": "Porta",
+      "setup": "Digite a porta do Agente Local"
+    },
+    "updates": {
+      "caption": "Atualiza\u00E7\u00F5es",
+      "enabled": "Procurar por atualiza\u00E7\u00F5es ao iniciar",
+      "channel": {
+        "title": "Canal de atualiza\u00E7\u00e3o",
+        "latest": "Est\u00E1vel",
+        "rc": "Release Candidates",
+        "alpha": "Builds Noturnos e Snapshots"
+      }
+    },
+    "button": {
+      "setup": "Bot\u00E3o configura\u00E7\u00E3o",
+      "confirm": "Bot\u00E3o confirmar",
+      "bcancel": "Bot\u00E3o cancelar",
+      "up": "Mover para cima",
+      "down": "Mover para baixo",
+      "add": "Adicionar",
+      "remove": "Remover",
+      "ok": "Ok",
+      "cancel": "Cancelar"
+    },
+    "language": {
+      "caption": "Interface",
+      "language": "Idioma",
+      "title": "Selecione o Idioma",
+      "portuguese": "Portugu&ecirc;s",
+      "spanish": "Espanhol",
+      "english": "Ingl&ecirc;s",
+      "russian": "Russo"
+    },
+    "rotation": {
+      "caption": "Rotacione seu dispositivo",
+      "message": "O TOTVS SmartClient HTML deve ser operado somente na horizontal."
+    },
+    "compatibility": {
+      "msg": "Seu navegador est&aacute; sendo executado no modo de compatibilidade. ",
+      "msg1": "&Eacute; recomend&aacute;vel desativar esta op&ccedil;&atilde;o.",
+      "msg2": "Para saber mais, clique "
+    },
+    "homologated": {
+      "msg": "Seu navegador n&atilde;o &eacute; homologado pela TOTVS, podendo apresentar comportamento inesperado.",
+      "msg1": "Para saber mais sobre os navegadores suportados, clique "
+    },
+    "about": {
+      "caption": "Sobre",
+      "information": "Informa&ccedil;&otilde;es do Servidor",
+      "help": "Ajuda",
+      "zendesk": "Informar um problema",
+      "tdn": "Página no TDN",
+      "slack": "Slack TOTVS Developers"
+    },
+    "osName": "OS AppServer",
+    "operatingSystem": "Sistema operacional",
+    "versionHTML": "Vers&atilde;o HTML",
+    "appserver": {
+      "build": "Build AppServer"
+    },
+    "listcollection": {
+      "remove": "Remover",
+      "reorder": "Reordenar itens"
+    },
+    "settings": "Configura&ccedil;&otilde;es",
+    "general": "Geral",
+    "viewmode": {
+      "caption": "Modo de Visualiza&ccedil;&atilde;o",
+      "title": "Selecione o Modo de Visualiza&ccedil;&atilde;o",
+      "tabletmode": "Modo Tablet",
+      "desktopmode": "Modo Desktop",
+      "autodetect": "Auto Detectar"
+    }
+  },
+  "downloadpool": {
+    "todownload": "para baixar."
+  },
+  "colorpicker": {
+    "title": "Selecione uma cor"
+  },
+  "sbutton": {
+    "hint": {
+      "ok": "OK",
+      "cancel": "Cancelar",
+      "delete": "Excluir",
+      "add": "Incluir",
+      "parameters": "Par&acirc;metros",
+      "print": "Imprimir",
+      "printsuspend": "Suspender impress&atilde;o",
+      "printcancel": "Cancela impress&atilde;o",
+      "order": "Ordem",
+      "priority": "Prioridade",
+      "edit": "Editar",
+      "listen": "Ouvir",
+      "save": "Salvar",
+      "open": "Abrir",
+      "view": "Visualizar",
+      "condition_neg": "Condi&ccedil;&atilde;o negociada",
+      "filter": "Filtrar",
+      "financing": "Financiamento",
+      "next": "Avan&ccedil;ar",
+      "previous": "Voltar",
+      "chart": "Gr&aacute;fico"
+    },
+    "caption": {
+      "printsuspend": "Susp.Impr.",
+      "printcancel": "Canc.Impr.",
+      "condition_neg": "Cond.Neg.",
+      "financing": "Financ."
+    }
+  },
+  "tmsgrunhook": {
+    "text": {
+      "default": "Por favor, aguarde..."
+    }
+  },
+  "tmediaplayer": {
+    "errormessage": {
+      "line1": "Formato de arquivo n&atilde;o suportado pelo Smartclient HTML.",
+      "line2": "Clique aqui para fazer o download do arquivo."
+    }
+  },
+  "tmscalendar": {
+    "weekdays": {
+      "sunday": "Dom.",
+      "monday": "Seg.",
+      "tuesday": "Ter.",
+      "wednesday": "Qua.",
+      "thursday": "Qui.",
+      "friday": "Sex.",
+      "saturday": "Sáb."
+    },
+    "months": {
+      "january": "Janeiro",
+      "february": "Fevereiro",
+      "march": "Mar&ccedil;o",
+      "april": "Abril",
+      "may": "Maio",
+      "june": "Junho",
+      "july": "Julho",
+      "august": "Agosto",
+      "september": "Setembro",
+      "october": "Outubro",
+      "november": "Novembro",
+      "december": "Dezembro"
+    },
+    "backYear": "voltar ano",
+    "backMonth": "voltar m&ecirc;s",
+    "nextYear": "avan&ccedil;a ano",
+    "nextMonth": "avan&ccedil;a m&ecirc;s",
+    "today": "Hoje"
+  },
+  "connerr": {
+    "disabled": "Erro de comunica&ccedil;&atilde;o: Servidor desabilitado",
+    "version": "Erro de comunica&ccedil;&atilde;o: Incompatibilidade de vers&atilde;o",
+    "noresponse": "Erro de comunica&ccedil;&atilde;o: Sem resposta do client",
+    "invalidprotocol": "Erro de comunica&ccedil;&atilde;o: Windows 95/98 n&atilde;o suporta PIPE no servidor",
+    "unknownprotocol": "Erro de comunica&ccedil;&atilde;o: Protocolo inv&aacute;lido",
+    "invalidos": "Erro de comunica&ccedil;&atilde;o: Sistema operacional n&atilde;o suportado",
+    "syncfail": "Erro de comunica&ccedil;&atilde;o: Erro de sincronismo",
+    "memoryfail": "Erro de comunica&ccedil;&atilde;o: Protocolo de mem&oacute;ria n&atilde;o mais suportado",
+    "unabletoconnect": "Erro de comunica&ccedil;&atilde;o: Erro ao se conectar",
+    "jobmessage": "Erro de comunica&ccedil;&atilde;o: Tentativa de comunica&ccedil;&atilde;o em programa rodando como job.",
+    "conndisabled": "Erro de comunica&ccedil;&atilde;o: Perda da conex&atilde;o ou desabilitada pelo Administrador.",
+    "fsremote": "Erro de comunica&ccedil;&atilde;o: Remote File System n&atilde;o suporta compila&ccedil;&atilde;o / depura&ccedil;&atilde;o.",
+    "inactive": "Desconex&atilde;o por inatividade",
+    "receive_data": "Erro de comunica&ccedil;&atilde;o: Protheus Server n&atilde;o retornou dados v&aacute;lidos no tempo m&iacute;nimo de espera (TIMEOUT).",
+    "killed": "Interrompida pelo administrador",
+    "default": "Erro de comunica&ccedil;&atilde;o: Indefinido",
+    "noerror2": "Conex&atilde;o entre Protheus Remote e Protheus Server encerrada pelo Protheus Server (Interrompida pelo administrador).",
+    "unabletoconnect2": "Protheus Remote conectou com Protheus Server mas houve erro no in&iacute;cio de valida&ccedil;&atilde;o de conex&atilde;o.",
+    "version2": "Incompatibilidade de vers&atilde;o entre Protheus Remote e Protheus Server. Contate o administrador do sistema.",
+    "undefined": "Conex&atilde;o entre Protheus Remote e Protheus Server interrompida. Contate o administrador do sistema.",
+    "offline": "N&atilde;o foi poss&iacute;vel conectar-se &agrave; Internet. Verifique suas configura&ccedil;&otilde;es.",
+    "invalidserver": "O endere&ccedil;o informado n&atilde;o &eacute; de um SmartClient HTML."
+  },
+  "notSupported": "O componente n&atilde;o &eacute; suportado pelo SmartClient HTML ou foi descontinuado.",
+  "label": {
+    "problem": "Problema",
+    "solution": "Solu&ccedil;&atilde;o"
+  },
+  "tmscalendargrid": {
+    "weekdays": {
+      "sunday": "Domingo",
+      "monday": "Segunda",
+      "tuesday": "Terça",
+      "wednesday": "Quarta",
+      "thursday": "Quinta",
+      "friday": "Sexta",
+      "saturday": "Sábado"
+    },
+    "topMessage": {
+      "minutes": "minuto(s)",
+      "hours": "horas",
+      "day": "dia",
+      "interval": "Intervalo de"
+    }
+  },
+  "tpageview": {
+    "btnZoomUp": "Ampliar (+)",
+    "btnZoomDown": "Reduzir (-)",
+    "btnPriorPage": "Página anterior",
+    "btnGoTo": "Ir para a página",
+    "btnNextPage": "Próxima página",
+    "btnMaximize": "Maximizar",
+    "btnMinimize": "Minimizar"
+  },
+  "tremoteopensave": {
+    "FileName": "Nome do Arquivo",
+    "localFile": "Arquivos locais: clique aqui",
+    "dir": "Diret&oacute;rios",
+    "server": "SERVIDOR",
+    "backward": "Recua um n&iacute;vel",
+    "backAll": "Recua tudo",
+    "updateFiles": "Atualizar Arquivos",
+    "typeFiles": "Listar apenas arquivos do tipo",
+    "size": "Tamanho",
+    "datehour": "Data/Hora",
+    "upload": "Transferindo arquivo para o Web Server",
+    "uploadcomplete": "Upload Completo",
+    "filenotfound": "Arquivo n&atilde;o encontrado!",
+    "fileisnotreadable": "O arquivo n&atilde;o \u00e9 leg\u00edvel",
+    "errorreading": "Ocorreu um erro ao ler este arquivo.",
+    "readcancelled": "Leitura do arquivo cancelada"
+  },
+  "error": {
+    "caption": "O SmartClient HTML encontrou um erro e n&atilde;o pode prosseguir.",
+    "message": "Se o problema persistir, por favor entre em contato com o suporte informando o erro abaixo."
+  },
+  "window": {
+    "title": "Par\u00e2metros Iniciais",
+    "unload": "O TOTVS SmartClient ser&aacute; encerrado!"
+  },
+  "twebviewerror": "N&atilde;o foi poss&iacute;vel carregar",
+  "inactiveWarning": {
+    "title": "Sua sess&atilde;o ser&aacute; desconectada por inatividade!",
+    "text1": "Devido ao intervalo de tempo de inatividade configurado no TOTVS Application Server, ",
+    "text2": "sua sess&atilde;o ser&aacute; desconectada em",
+    "text3": "para renovar sua sess&atilde;o!",
+    "text4": "para voltar ao in&iacute;cio."
+  },
+  "reconnector": {
+    "caption": "Falha na comunica&ccedil;&atilde;o!",
+    "processing": "Por favor, aguarde enquanto reestabelecemos a conex&atilde;o com o servidor.",
+    "retry1": "Reconectando...",
+    "retry2": "Tentando novamente em",
+    "retry3": "Tentativa",
+    "error": "N&atilde;o foi poss&iacute;vel reestabelecer a conex&atilde;o.",
+    "retry4": "para tentar novamente."
+  },
+  "camera": "Camera",
+  "tcolortriangle": {
+    "red": "Vermelho",
+    "green": "Verde",
+    "blue": "Azul",
+    "notSupported": "Seu browser n&atilde;o suporta a tag canvas"
+  },
+  "tget": {
+    "ok": "OK",
+    "cancel": "Cancelar"
+  },
+  "couldnotload": "N&atilde;o foi poss&iacute;vel carregar",
+  "tmessagebox": {
+    "ok": "Ok",
+    "cancel": "Cancelar",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "helpballoon": {
+    "help": "Ajuda",
+    "validation": "Validação"
+  },
+  "tparseprint": {
+    "documentname": "Protheus Remote Printer Document"
+  },
+  "config": {
+    "caption": "",
+    "message1": "Por favor, aguarde enquanto o ambiente est&aacute; sendo carregado.",
+    "message2": "Esse processo pode demorar alguns minutos."
+  },
+  "agent": {
+    "dialog": {
+      "title": "TOTVS WebAgent",
+      "desc": [
+        [
+          "O WebAgent permitirá integração segura do seu dispositivo com aplicativos como o Microsoft Office, saiba mais ",
+          {
+            "text": "aqui",
+            "link": "https://tdn.totvs.com/display/tec/2.+WebApp+-+WebAgent",
+            "target": "_blank"
+          },
+          "."
+        ],
+        [
+          "Consulte o Administrador de Sistemas da sua empresa para instalação da ferramenta."
+        ]
+      ],
+      "doNotShowAgain": "Não mostrar novamente",
+      "buttons": {
+        "showInstallOptions": "Exibir opções de instalação",
+        "moreOptions": "Mais opções",
+        "install": "Instalar",
+        "installFor": {
+          "windows": "Instalar para Windows",
+          "darwin": "Instalar para Mac",
+          "linux": "Instalar para Linux"
+        }
+      }
+    },
+    "installer": {
+      "windows_x64": "Windows (64 bits)",
+      "windows_x86": "Windows (32 bits)",
+      "windows_arm64": "Windows (ARM 64)",
+      "linux_x64": "Linux (64 bits)",
+      "linux_arm": "Linux (ARM)",
+      "linux_arm64": "Linux (ARM 64)",
+      "linux_x64_deb": "Linux (64 bits) .deb",
+      "linux_arm_deb": "Linux (ARM) .deb",
+      "linux_arm64_deb": "Linux (ARM 64) .deb",
+      "linux_x64_rpm": "Linux (64 bits) .rpm",
+      "linux_arm_rpm": "Linux (ARM) .rpm",
+      "linux_arm64_rpm": "Linux (ARM 64) .rpm",
+      "darwin_x64": "Mac (Intel Chip)",
+      "darwin_arm64": "Mac (Apple Silicon)",
+      "darwin_universal": "Mac (Universal)"
+    },
+    "connect-error": {
+      "title": "Falha ao conectar com o WebAgent!",
+      "desc": "Verifique se ele foi instalado corretamente no seu sistema, e se foi autorizado a abertura dele quando solicitado."
+    },
+    "agentDisable": {
+      "title": "WebAgent Desabilitado!",
+      "desc": "Sistema Operacional não Homologado para uso do webAgent."
+    },
+    "reconnect": "Tentando se reconectar ao WebAgent.",
+    "connect": "Tentando se conectar ao WebAgent.",
+    "update": {
+      "title": "Nova vers\u00e3o do WebAgent!",
+      "desc": "Iniciando atualiza\u00E7\u00e3o autom\u00E1tica do WebAgent.\n\n Por favor, aguarde..."
+    },
+    "updateExtras": {
+      "title": "Nova vers\u00e3o do WebAgent Extras!",
+      "desc": "Iniciando atualiza\u00E7\u00e3o autom\u00E1tica do arquivo Extras.\n\n Por favor, aguarde..."
+    },
+    "updated": {
+      "title": "Sucesso!",
+      "desc": "Instalador executado com sucesso, aguarde a sua finaliza\u00E7\u00e3o."
+    },
+    "updatedExtras": {
+      "title": "Sucesso!",
+      "desc": "Arquivo Extras instalado com sucesso, aguarde a sua finaliza\u00E7\u00e3o."
+    },
+    "updateError": {
+      "title": "Falha na atualiza\u00E7\u00e3o!",
+      "desc": "Ocorreu um erro durante a atualiza\u00E7\u00e3o."
+    },
+    "updateErrorExtras": {
+      "title": "Falha na atualiza\u00E7\u00e3o!",
+      "desc": "Ocorreu um erro durante a atualiza\u00E7\u00e3o do arquivo Extras."
+    }
+  },
+  "contextmenu": {
+    "undo": "Desfazer",
+    "redo": "Refazer",
+    "cut": "Recortar",
+    "copy": "Copiar",
+    "paste": "Colar",
+    "clear": "Limpar",
+    "selectAll": "Selecionar Tudo"
+  }
+}

@@ -1,0 +1,107 @@
+services:
+  postgres:
+    image: registry.gitlab.com/protheus4/protheus-docker/postgres:0.0.1
+    container_name: protheus-postgres
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_volume:/var/lib/postgresql/data
+      - ascendra_volume:/postgres/pgdata/ascendra/
+    networks:
+      - protheus_network
+
+  license:
+    image: registry.gitlab.com/protheus4/protheus-docker/license:0.0.1 
+    container_name: license
+    restart: always 
+    ports:
+      - "5555:5555"
+    networks:
+      - protheus_network
+  
+  dbaccess:
+    image: registry.gitlab.com/protheus4/protheus-docker/dbaccess:0.0.2
+    container_name: dbaccess
+    restart: always 
+    env_file:
+      - .env
+    ports:
+      - "7890:7890"
+    networks:
+      - protheus_network
+    depends_on:
+      - postgres
+      - license
+  
+  appserver:
+    image: registry.gitlab.com/protheus4/protheus-docker/appserver:0.0.1
+    container_name: appserver
+    restart: always
+    volumes:
+      - ./appserver/appserver.ini:/totvs/appserver/appserver.ini
+    ports:
+      - "8181:8181"
+      - "8485:8485"
+    networks:
+      - protheus_network
+    depends_on:
+      - dbaccess
+      - license
+
+  appserver2:
+    image: registry.gitlab.com/protheus4/protheus-docker/appserver:0.0.1
+    container_name: appserver2
+    restart: always
+    volumes:
+      - ./appserver/appserver2.ini:/totvs/appserver/appserver.ini
+    ports:
+      - "8282:8282"
+      - "9495:9495"
+    networks:
+      - protheus_network
+    depends_on:
+      - dbaccess
+      - license
+    
+
+  broker:
+    image: registry.gitlab.com/protheus4/protheus-docker/broker:0.0.2
+    container_name: broker
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    networks:
+      - protheus_network
+    depends_on:
+      - appserver
+      - appserver2
+   
+
+  # nginx-proxy:
+  #   image: "jc21/nginx-proxy-manager:latest"
+  #   container_name: nginx-proxy
+  #   restart: unless-stopped
+  #   ports:
+  #     - "80:80"     
+  #     - "443:443"   
+  #     - "81:81"     
+  #   environment:
+  #     DB_SQLITE_FILE: "/data/database.sqlite"
+  #   volumes:
+  #     - ./nginx-proxy/data:/data
+  #     - ./nginx-proxy/letsencrypt:/etc/letsencrypt
+  #   networks:
+  #     - protheus_network
+
+volumes:
+  postgres_volume:
+  ascendra_volume:
+  
+networks:
+  protheus_network:
+    driver: bridge

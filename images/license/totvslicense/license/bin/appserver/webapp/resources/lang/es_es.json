@@ -1,0 +1,388 @@
+{
+  "totvs": "TOTVS",
+  "appserver": "Application Server",
+  "smartclient": "SmartClient",
+  "smartclienthtml": "TOTVS SmartClient HTML",
+  "protheus": "Protheus",
+  "attention": "¡Atenci&oacute;n!",
+  "click": "haga clic",
+  "here": "aqu&iacute;",
+  "seconds": "segundos",
+  "browserdialogbox": "Cuadro de di&aacute;logo del navegador",
+  "startpage": {
+    "build": "Build",
+    "version": "Versi\u00f3n",
+    "program": {
+      "caption": "Programa Inicial",
+      "title": "Incluya el Programa Inicial"
+    },
+    "communication": {
+      "caption": "Comunicaci\u00f3n en el cliente",
+      "title": "Informe la comunicaci\u00f3n en el cliente"
+    },
+    "environment": {
+      "caption": "Entorno en el servidor",
+      "title": "Informe el entorno en el servidor"
+    },
+    "localAgent": {
+      "caption": "Agente Local",
+      "title": "Activar/Desactivar el Agente Local",
+      "port": "Puerto",
+      "setup": "Informe el puerto del Agente Local"
+    },
+    "updates": {
+      "caption": "Actualizaciones ",
+      "enabled": "Buscar por actualizaciones al iniciar",
+      "channel": {
+        "title": "Canal de actualizaci\u00f3n",
+        "latest": "Estable",
+        "rc": "Release Candidates",
+        "alpha": "Builds Noturnos e Snapshots"
+      }
+    },
+    "button": {
+      "setup": "Bot\u00f3n de configuraci\u00f3n",
+      "confirm": "Bot\u00f3n para confirmar",
+      "bcancel": "Bot\u00f3n anular",
+      "up": "Mover hacia arriba",
+      "down": "Mover hacia abajo",
+      "add": "Agregar",
+      "remove": "Eliminar",
+      "ok": "Ok",
+      "cancel": "Anular"
+    },
+    "language": {
+      "caption": "Interface",
+      "language": "Idioma",
+      "title": "Seleccione el Idioma",
+      "portuguese": "Portugu&eacute;s",
+      "spanish": "Espa&ntilde;ol",
+      "english": "Ingl&eacute;s",
+      "russian": "Ruso"
+    },
+    "rotation": {
+      "caption": "Gire el dispositivo",
+      "message": "El TOTVS SmartClient HTML solo debe utilizarse en posici\u00f3n horizontal."
+    },
+    "compatibility": {
+      "msg": "Su navegador se est&aacute; ejecutando en el modo de compatibilidad. ",
+      "msg1": "Se recomienda desactivar esta opci&oacute;n.",
+      "msg2": "Para saber m&aacute;s, haga clic "
+    },
+    "homologated": {
+      "msg": "Su navegador no est&aacute; homologado por TOTVS, por ello, puede presentar un comportamiento inesperado.",
+      "msg1": "Para obtener m&aacute;s informaci&oacute;n acerca de los exploradores compatibles, haga clic "
+    },
+    "about": {
+      "caption": "Sobre",
+      "information": "Informaciones del servidor",
+      "help": "Ayuda",
+      "zendesk": "Informar un problema",
+      "tdn": "Página no TDN",
+      "slack": "Slack TOTVS Developers"
+    },
+    "osName": "OS AppServer",
+    "operatingSystem": "Sistema operativo",
+    "versionHTML": "Versi\u00f3n HTML",
+    "appserver": {
+      "build": "Build AppServer"
+    },
+    "listcollection": {
+      "remove": "Eliminar",
+      "reorder": "Reordenar itens"
+    },
+    "settings": "Configuraci&oacute;n",
+    "general": "General",
+    "viewmode": {
+      "caption": "Modo de visualizaci&oacute;n",
+      "title": "Seleccione el modo de visualizaci&oacute;n",
+      "tabletmode": "Modo Tablet",
+      "desktopmode": "Modo Desktop",
+      "autodetect": "Autodetectar"
+    }
+  },
+  "downloadpool": {
+    "todownload": "para bajar."
+  },
+  "colorpicker": {
+    "title": "Seleccione un color"
+  },
+  "sbutton": {
+    "hint": {
+      "ok": "OK",
+      "cancel": "Anular",
+      "delete": "Borrar",
+      "add": "Incluir",
+      "parameters": "Par&aacute;metros",
+      "print": "Imprimir",
+      "printsuspend": "Suspender impresi&oacute;n",
+      "printcancel": "Anula impresi&oacute;n",
+      "order": "Orden",
+      "priority": "Prioridad",
+      "edit": "Editar",
+      "listen": "O&iacute;r",
+      "save": "Grabar",
+      "open": "Abrir",
+      "view": "Visualizar",
+      "condition_neg": "Condici&oacute;n negociada",
+      "filter": "Filtrar",
+      "financing": "Financiaci&oacute;n",
+      "next": "Avanzar",
+      "previous": "Volver",
+      "chart": "Gr&aacute;fico"
+    },
+    "caption": {
+      "printsuspend": "Susp.Impr.",
+      "printcancel": "Anula Impr",
+      "condition_neg": "Cond.Neg.",
+      "financing": "Financ."
+    }
+  },
+  "tmsgrunhook": {
+    "text": {
+      "default": "Por favor, espere..."
+    }
+  },
+  "tmediaplayer": {
+    "errormessage": {
+      "line1": "Formato de archivo incompatible con el SmartClient HTML.",
+      "line2": "Haga clic aqu&iacute; para descargar el archivo."
+    }
+  },
+  "tmscalendar": {
+    "weekdays": {
+      "sunday": "Dom.",
+      "monday": "Lun.",
+      "tuesday": "Mar.",
+      "wednesday": "Mié.",
+      "thursday": "Jue.",
+      "friday": "Vie.",
+      "saturday": "Sáb."
+    },
+    "months": {
+      "january": "Enero",
+      "february": "Febrero",
+      "march": "Marzo",
+      "april": "Abril",
+      "may": "Mayo",
+      "june": "Junio",
+      "july": "Julio",
+      "august": "Agosto",
+      "september": "Septiembre",
+      "october": "Octubre",
+      "november": "Noviembre",
+      "december": "Diciembre"
+    },
+    "backYear": "volver a&ntilde;o",
+    "backMonth": "volver mes",
+    "nextYear": "avanza a&ntilde;o",
+    "nextMonth": "avanza mes",
+    "today": "Hoy"
+  },
+  "connerr": {
+    "disabled": "Error de comunicaci&oacute;n: Servidor desactivado",
+    "version": "Error de comunicaci&oacute;n: Versi&oacute;n incompatible",
+    "noresponse": "Error de comunicaci&oacute;n: No hay respuesta del client",
+    "invalidprotocol": "Error de comunicaci&oacute;n: Windows 95/98 no admite PIPE en el servidor",
+    "unknownprotocol": "Error de comunicaci&oacute;n: Protocolo inv&aacute;lido",
+    "invalidos": "Error de comunicaci&oacute;n: Sistema operativo incompatible",
+    "syncfail": "Error de comunicaci&oacute;n: Error de sincronizaci&oacute;n",
+    "memoryfail": "Error de comunicaci&oacute;n: Protocolo de memoria ya no es compatible",
+    "unabletoconnect": "Error de comunicaci&oacute;n: Error al conectar",
+    "jobmessage": "Error de comunicaci&oacute;n: Intento de ejecutar el programa de comunicaci&oacute;n como un job.",
+    "conndisabled": "Error de comunicaci&oacute;n: P&eacute;rdida de la conexi&oacute;n o el administrador la desactiv&oacute;.",
+    "fsremote": "Error de comunicaci&oacute;n: Remote File System no soporta compilaci&oacute;n / depuraci&oacute;n.",
+    "inactive": "Desconexi&oacute;n por inactividad",
+    "receive_data": "Error de comunicaci&oacute;n: Protheus Server no devolvi&oacute; datos v&aacute;lidos en el tiempo m&iacute;nimo (TIMEOUT).",
+    "killed": "Interrumpido por el administrador",
+    "default": "Error de comunicaci&oacute;n: Indefinido",
+    "noerror2": "Se interrumpi&oacute; la conexi&oacute;n entre Protheus Remote y Protheus Server (Administrador del sistema).",
+    "unabletoconnect2": "Protheus Remote se conect&oacute; con Protheus Server, pero hubo un error al iniciar la validaci&oacute;n de la conexi&oacute;n.",
+    "version2": "Incompatibilidad de versiones entre Protheus Remote y Protheus Server. Notifique al Administrador del sistema.",
+    "undefined": "Se interrumpi&oacute; la conexi&oacute;n entre Protheus Remote y Protheus Server. Comunique al Administrador del sistema.",
+    "offline": "No se pudo conectar a Internet. Comprueba tu configuraci&oacute;n.",
+    "invalidserver": "La direcci&oacute;n que ingres&oacute; no es de un SmartClient HTML."
+  },
+  "notSupported": "El componente no es compatible con el SmartClient HTML o está en desuso.",
+  "label": {
+    "problem": "Problema",
+    "solution": "Soluci&oacute;n"
+  },
+  "tmscalendargrid": {
+    "weekdays": {
+      "sunday": "Domingo",
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado"
+    },
+    "topMessage": {
+      "minutes": "minuto(s)",
+      "hours": "horas",
+      "day": "d&iacute;a",
+      "interval": "Intervalo de"
+    }
+  },
+  "tpageview": {
+    "btnZoomUp": "Ampliar (+)",
+    "btnZoomDown": "Reducir (-)",
+    "btnPriorPage": "Página anterior",
+    "btnGoTo": "Ir a la página",
+    "btnNextPage": "Página Siguiente",
+    "btnMaximize": "Maximizar",
+    "btnMinimize": "Minimizar"
+  },
+  "tremoteopensave": {
+    "FileName": "Nombre del archivo",
+    "localFile": "Archivos locales: Haga clic aqu&iacute;",
+    "dir": "Directorios",
+    "server": "SERVIDOR",
+    "backward": "Retrocede un nivel",
+    "backAll": "Retrocede todo",
+    "updateFiles": "Actualizar archivos",
+    "typeFiles": "Listar solo los archivos del tipo",
+    "size": "Tama&ntilde;o",
+    "datehour": "Fecha/Hora",
+    "upload": "Transferencia de archivos al Web Server",
+    "uploadcomplete": "Upload Completo",
+    "filenotfound": "¡Archivo no encontrado!",
+    "fileisnotreadable": "Archivo no es legible",
+    "errorreading": "Se produjo un error al leer este archivo.",
+    "readcancelled": "Lectura del archivo anulada"
+  },
+  "error": {
+    "caption": "SmartClient HTML ha encontrado un error y no puede continuar.",
+    "message": "Si el problema continua, por favor, p&oacute;ngase en contacto con el soporte informando el siguiente error."
+  },
+  "window": {
+    "title": "Par\u00e1metros iniciales",
+    "unload": "¡El TOTVS SmartClient finalizar\u00e1!"
+  },
+  "twebviewerror": "No se pudo cargar",
+  "inactiveWarning": {
+    "title": "¡Su sesi&oacute;n se desconectará por inactividad!",
+    "text1": "Debido al intervalo de tiempo de inactividad configurado en el TOTVS Application Server, ",
+    "text2": "su sesi&oacute;n se desconectar&aacute; en",
+    "text3": "para renovar su sesi&oacute;n.",
+    "text4": "para volver al inicio."
+  },
+  "reconnector": {
+    "caption": "¡Falla en la comunicaci&oacute;n!",
+    "processing": "Por favor, espere mientras el TOTVS SmartClient HTML intenta restablecer la conexi&oacute;n con el servidor.",
+    "retry1": "Reconectando...",
+    "retry2": "Intentando de nuevo en",
+    "retry3": "Tentativa",
+    "error": "No se pudo restablecer la conexi&oacute;n.",
+    "retry4": "para intentar de nuevo"
+  },
+  "camera": "C&aacute;mara",
+  "tcolortriangle": {
+    "red": "Rojo",
+    "green": "Verde",
+    "blue": "Azul",
+    "notSupported": "Su navegador no soporta la etiqueta canvas"
+  },
+  "tget": {
+    "ok": "OK",
+    "cancel": "Anular"
+  },
+  "couldnotload": "No se pudo cargar",
+  "tmessagebox": {
+    "ok": "Ok",
+    "cancel": "Anular",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "helpballoon": {
+    "help": "Ayuda",
+    "validation": "Validación"
+  },
+  "tparseprint": {
+    "documentname": "Protheus Remote Printer Document"
+  },
+  "config": {
+    "caption": "",
+    "message1": "Por favor, espere mientras el entorno se está cargando",
+    "message2": "Este proceso puede demorar algunos minutos"
+  },
+  "agent": {
+    "dialog": {
+      "title": "TOTVS WebAgent",
+      "desc": [
+        [
+          "El WebAgent permitirá la integración segura de su dispositivo con aplicaciones como el Microsoft Office, sepa más",
+          {
+            "text": "aquí",
+            "link": "https://tdn.totvs.com/display/tec/2.+WebApp+-+WebAgent",
+            "target": "_blank"
+          },
+          "."
+        ],
+        [
+          "Consulte al Administrador de sistemas de su empresa para la instalación de la herramienta."
+        ]
+      ],
+      "doNotShowAgain": "No volver a mostrar",
+      "buttons": {
+        "showInstallOptions": "Mostrar opciones de instalación",
+        "moreOptions": "Más opciones",
+        "install": "Instalar",
+        "installFor": {
+          "windows": "Instalar para Windows",
+          "darwin": "Instalar para Mac",
+          "linux": "Instalar para Linux"
+        }
+      }
+    },
+    "installer": {
+      "windows_x64": "Windows (64 bits)",
+      "windows_x86": "Windows (32 bits)",
+      "windows_arm64": "Windows (ARM 64)",
+      "linux_x64": "Linux (64 bits)",
+      "linux_arm": "Linux (ARM)",
+      "linux_arm64": "Linux (ARM 64)",
+      "linux_x64_deb": "Linux (64 bits) .deb",
+      "linux_arm_deb": "Linux (ARM) .deb",
+      "linux_arm64_deb": "Linux (ARM 64) .deb",
+      "linux_x64_rpm": "Linux (64 bits) .rpm",
+      "linux_arm_rpm": "Linux (ARM) .rpm",
+      "linux_arm64_rpm": "Linux (ARM 64) .rpm",
+      "darwin_x64": "Mac (Intel Chip)",
+      "darwin_arm64": "Mac (Apple Silicon)",
+      "darwin_universal": "Mac (Universal)"
+    },
+    "connect-error": {
+      "title": "¡Falla en la conexión con el WebAgent!",
+      "desc": "Verifique si este se instaló correctamente en su sistema, y si fue autorizada su apertura cuando se solicitó."
+    },
+    "agentDisable": {
+      "title": "¡WebAgent Desactivado!",
+      "desc": "Sistema operativo no homologado para uso de webAgent."
+    },
+    "reconnect": "Intentando volver a conectar con WebAgent",
+    "connect": "Intentando conectarse a WebAgent.",
+    "update": {
+      "title": "¡Nueva versi\u00F3n de WebAgent!",
+      "desc": "Iniciando la actualizaci\u00F3n autom\u00E1tica de WebAgent.\n\n Por favor, Espere..."
+    },
+    "updated": {
+      "title": "¡\u00C9xito!",
+      "desc": "Instalador ejecutado con \u00E9xito, espere a su finalizaci\u00F3n."
+    },
+    "updateError": {
+      "title": "¡Error en la actualizaci\u00F3n!",
+      "desc": "Se produjo un error durante la actualizaci\u00F3n."
+    }
+  },
+  "contextmenu": {
+    "undo": "Anular",
+    "redo": "Rehacer",
+    "cut": "Cortar",
+    "copy": "Copiar",
+    "paste": "Pegar",
+    "clear": "Limpiar",
+    "selectAll": "Seleccionar Todo"
+  }
+}

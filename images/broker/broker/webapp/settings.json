@@ -1,0 +1,9 @@
+{
+	"websocket":	true,
+	"httpPingInterval":	90,
+	"ack":	true,
+	"environments":	[],
+	"programs":	[],
+	"osName":	"Linux",
+	"architecture_build":	"64"
+}

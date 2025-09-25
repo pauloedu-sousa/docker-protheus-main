@@ -1,0 +1,2002 @@
+2025-03-19T14:41:12.297584+00:00 23|
+[INFO ][SERVER] BTMonitor start time: 1742395136.297580 sec
+2025-03-19T14:41:12.300264+00:00 23|
+[INFO ][SERVER] Loading translate file (/totvs/appserver/appserver_en_en). 
+
+2025-03-19T14:41:12.302410+00:00 23|
+[WARN ][SERVER] [Thread 23] Monitored Calls - No records found.
+2025-03-19T14:41:12.303430+00:00 23|Starting (totvs | appserver 12)...
+Please wait...
+2025-03-19T14:41:12.304623+00:00 23|Operating System - maximum open files: 32767
+2025-03-19T14:41:12.305484+00:00 23|Current process  - maximum open files: 1048576
+2025-03-19T14:41:12.306890+00:00 23|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2025-03-19T14:41:12.307686+00:00 23|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2025-03-19T14:41:12.308503+00:00 23|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2025-03-19T14:41:12.309324+00:00 23|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2025-03-19T14:41:12.310736+00:00 23|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2025-03-19T14:41:12.311582+00:00 23|*** DEFAULT SOCKET BIND IS IPV4 
+2025-03-19T14:41:12.312525+00:00 23|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2025-03-19T14:41:12.313511+00:00 23|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2025-03-19T14:41:12.314924+00:00 23|
+2025-03-19T14:41:12.317541+00:00 23|
+---------------- OS System Info -----------------------------------------------
+Linux Distribution: Oracle Linux Server 8.10
+GLIBC Version: 2.28
+Kernel Version: Linux version 6.8.0-52-generic (buildd@lcy02-amd64-046) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:25 UTC 2025
+Version ID: 8.10
+ID: ol
+Version Codename: 
+Home page: https://linux.oracle.com/
+Support URL: 
+Error: Power scheme information is unavailable.
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+MemTotal:       16289852 kB		MemFree:         1162876 kB		
+Active:          9037892 kB		Inactive:        4693392 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+-------------------------------------------------------------------------------
+
+
+---------------- OS Environment Limits ----------------------------------------
+Maximum processes .......:  UNLIMITED	Maximum open files ......:  1048576
+CPU time in seconds .....:  UNLIMITED	Maximum core file size ..:  UNLIMITED
+Maximum filesize ........:  UNLIMITED	Maximum data size .......:  UNLIMITED
+Maximum resident size ...:  UNLIMITED	Maximum locked memory ...:  8.00 MB.
+Address Space (v) limit .:  UNLIMITED	Maximum stack size ......:  8.00 MB.
+*** WARNING : Maximum stack size TOO HIGH. Adjust ulimit -s to 1024 (1.0 Mb).
+2025-03-19T14:41:12.419638+00:00 23|
+[INFO ][SERVER] [Thread 23] APP Virtual Address Allocation Limit .... 32768.00 MB.
+2025-03-19T14:41:12.420737+00:00 23|
+[INFO ][SERVER] [Thread 23] Memory Monitor Virtual Address LIMIT .... 32768.00  MB.
+2025-03-19T14:41:12.435629+00:00 28|
+[WARN ][SERVER] [POWERSCHEMES] [Thread 28] [19/03/2025 14:41:12] 
+The current power scheme in cpu 0 (1/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 1 (2/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 2 (3/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 3 (4/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 4 (5/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 5 (6/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 6 (7/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 7 (8/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 8 (9/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 9 (10/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 10 (11/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 11 (12/12) is 'schedutil' - 'performance' is recommended.
+2025-03-19T14:41:12.522658+00:00 23|
+[INFO ][SSL] SSL global initialization
+2025-03-19T14:41:12.523743+00:00 23|
+[INFO ][SSL] OpenSSL 3.0.13 30 Jan 2024
+2025-03-19T14:41:12.628515+00:00 23|
+[INFO ][SERVER] [WEBMONITOR] - Starting Appserver WebMonitor
+2025-03-19T14:41:12.882897+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP server WEBMONITOR, port: 46661, started on ID: 1
+2025-03-19T14:41:12.884011+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP Server - WEBMONITOR, started on port:  46661.
+2025-03-19T14:41:12.895169+00:00 23|
+[INFO ][SERVER] Server not found, ID: '/webmonitor'
+2025-03-19T14:41:12.896974+00:00 23|
+[INFO ][SERVER] [WEBMONITOR] - Started Appserver WebMonitor on port 46661 on URI /webmonitor
+2025-03-19T14:41:12.898080+00:00 23|
+[INFO ][SERVER] [APPMON] - Starting Application Monitor
+2025-03-19T14:41:13.012937+00:00 23|[APPMON] starting on port 32033
+2025-03-19T14:41:13.584328+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP server APP_MONITOR_SERVER, port: 32033, started on ID: 2
+2025-03-19T14:41:13.585841+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP Server - APP_MONITOR_SERVER, started on port:  32033.
+2025-03-19T14:41:13.587614+00:00 23|[APPMON] Started on port: 32033 on /api
+2025-03-19T14:41:13.598443+00:00 23|
+[INFO ][SERVER] Server not found, ID: '/api'
+2025-03-19T14:41:13.600973+00:00 23|
+[INFO ][SERVER] [APPMON] - Started Application Monitor on port 32033 on URI /api
+2025-03-19T14:41:13.602259+00:00 23|
+[INFO ][SERVER] *** N_MAX_FILES=1048576 FD_SETSIZE=131073
+2025-03-19T14:41:13.603558+00:00 23|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 55643
+2025-03-19T14:41:13.604325+00:00 23|
+[INFO ][SERVER] [MPPORT] Multi Protocol Port using: port 1234
+2025-03-19T14:41:13.605169+00:00 23|
+[WARN ][SERVER] [MPPORT] Incomplete SSL values. Ignoring Method 'TLSV1.2', using default
+2025-03-19T14:41:13.606260+00:00 23|
+[INFO ][SERVER] [MPPORT] Multi Protocol using default SSL: (totvs_certificate.crt | totvs_certificate_key.pem | -)
+2025-03-19T14:41:13.607263+00:00 23|
+[INFO ][SERVER] [MPPORT] Default Rest environment not configured. To enable: [general]app_environment=environment
+2025-03-19T14:41:13.609581+00:00 48|
+[INFO ][SERVER] [MPPORT] Starting Multi Protocol Port Server
+2025-03-19T14:41:13.617491+00:00 48|[VDRPORT] * 
+2025-03-19T14:41:13.618996+00:00 48|[VDRPORT] * 
+2025-03-19T14:41:13.619834+00:00 48|[VDRPORT] 250319_144113 7A4E0B20 SGB0725 N balance table with 4 servers
+2025-03-19T14:41:13.709698+00:00 23|
+[INFO ][SERVER] [MPPORT] [Thread 23] Application Server started on internal port
+2025-03-19T14:41:14.020320+00:00 23|
+[INFO ][SERVER] [Thread 23] WebApp started on http port  8080.
+2025-03-19T14:41:14.022149+00:00 23|
+----------- Services Start Time  ----------
+2025-03-19T14:41:14.022890+00:00 23|         JOB MANAGER	0.101 s	
+2025-03-19T14:41:14.023627+00:00 23|          WebMonitor	0.270 s	
+2025-03-19T14:41:14.024340+00:00 23|         APP Monitor	0.704 s	
+2025-03-19T14:41:14.025653+00:00 23|                 TCP	0.211 s	
+2025-03-19T14:41:14.026413+00:00 23|         LOCK SERVER	0.000 s	
+2025-03-19T14:41:14.027233+00:00 23|              WEBAPP	0.209 s	
+2025-03-19T14:41:14.028013+00:00 23|  HTTPSERVER - VADER	0.000 s	
+2025-03-19T14:41:14.029382+00:00 23|
+--- Application Server Start Time: 1.495 s
+2025-03-19T14:41:14.030194+00:00 23|
+[19/03/2025 14:41:14] Totvs Application Server is running
+2025-03-19T14:41:14.535069+00:00 29|
+Starting Job [108AB7CFBD844B11892A16B14AC45DB5APP_MONITOR_THREADPOOL]
+2025-03-19T14:41:14.536111+00:00 29|
+Starting Job [5F8A1A8EB4FA4267808407F0FAFBB8FAWEBMONITOR_THREADPOOL]
+2025-03-19T14:41:51.559309+00:00 23|Wait....
+2025-03-19T14:41:51.560833+00:00 23|
+[INFO ][SERVER] [Thread 23] Application Server Abort Signal (2) Received...
+2025-03-19T14:41:51.562097+00:00 23|
+[INFO ][SERVER] [Thread 23] Application Server (UNIX version) in shutdown....
+2025-03-19T14:41:51.563053+00:00 23|
+[INFO ][SERVER] [Thread 23] * ---------------------------------------------------------------------- *
+2025-03-19T14:41:51.564156+00:00 23|
+[INFO ][SERVER] [Thread 23] [socksrvint.cpp:10660] Stopping all HTTP servers
+2025-03-19T14:41:51.565340+00:00 23|
+[INFO ][SERVER] [Thread 23] Thread Pool WEBMONITOR_THREADPOOL stopping (5F8A1A8EB4FA4267808407F0FAFBB8FA)
+2025-03-19T14:41:51.566936+00:00 23|
+[INFO ][SERVER] [Thread 23] Deleting jobs from Threadpool WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T14:41:51.567921+00:00 23|
+[INFO ][SERVER] [Thread 23] Thread Pool WEBMONITOR_THREADPOOL stopped
+2025-03-19T14:41:51.568792+00:00 23|
+[INFO ][SERVER] [Thread 23] Thread Pool APP_MONITOR_THREADPOOL stopping (108AB7CFBD844B11892A16B14AC45DB5)
+2025-03-19T14:41:51.570004+00:00 23|
+[INFO ][SERVER] [Thread 23] Deleting jobs from Threadpool APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T14:41:51.571598+00:00 23|
+[INFO ][SERVER] [Thread 23] Thread Pool APP_MONITOR_THREADPOOL stopped
+2025-03-19T14:41:51.573114+00:00 23|
+[ERROR][SERVER] [Thread 23] deleting thread Pool, WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T14:41:51.574624+00:00 23|
+[ERROR][SERVER] [Thread 23] deleting thread Pool, APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T14:41:51.576173+00:00 23|
+[INFO ][SERVER] [Thread 23] stopping HTTP server on ID 1
+2025-03-19T14:41:51.577429+00:00 23|
+[INFO ][SERVER] [Thread 23] stopping HTTP server on ID 2
+2025-03-19T14:41:51.578596+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP server stopped on ID 1
+2025-03-19T14:41:51.579544+00:00 23|
+[ERROR][SERVER] [Thread 23] deleting server, WEBMONITOR
+2025-03-19T14:41:51.581081+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP server stopped on ID 2
+2025-03-19T14:41:51.582315+00:00 23|
+[ERROR][SERVER] [Thread 23] deleting server, APP_MONITOR_SERVER
+2025-03-19T14:41:51.583549+00:00 23|
+[INFO ][SERVER] [Thread 23] HTTP servers Stopped
+2025-03-19T14:41:51.584464+00:00 23|
+[INFO ][SERVER] [Thread 23] [socksrvint.cpp:10841] All HTTP servers have been stopped
+2025-03-19T14:41:51.585566+00:00 23|
+[INFO ][SERVER] [Thread 23] * ---------------------------------------------------------------------- *
+
+2025-03-19T14:41:51.586765+00:00 23|
+[INFO ][SERVER] [Thread 23][19/03/2025 14:41:51] Application SHUTDOWN in progress...
+2025-03-19T14:41:51.589253+00:00 23|
+-------------- Build Version --------------
+Application Server: 24.3.0.4
+
+
+-------------- APO Map List ---------------
+*** EMPTY ***
+
+----------- Total Thread Count ------------
+                 Total Threads ... 15
+                        Thread ... 4
+                       WThread ... 10
+                    SockServer ... 1
+
+----------- Detailed Process List ---- (*1)
+[        27][       0.000 Kb][         Thread][tLicenseManagerThread][]
+[        28][       0.000 Kb][         Thread][ tMemoryMonitor][]
+[        29][       0.000 Kb][         Thread][    tJobManager][]
+[        48][       0.000 Kb][         Thread][tMultiPortServer][]
+[        57][       0.000 Kb][     SockServer][    tMainServer][]
+[        58][       0.000 Kb][        WThread][   tWThreadBase][]
+[        59][       0.000 Kb][        WThread][   tWThreadBase][]
+[        61][       0.000 Kb][        WThread][   tWThreadBase][]
+[        74][       0.000 Kb][        WThread][   tWThreadBase][]
+[        75][       0.000 Kb][        WThread][   tWThreadBase][]
+[        76][       0.000 Kb][        WThread][   tWThreadBase][]
+[        77][       0.000 Kb][        WThread][   tWThreadBase][]
+[        78][       0.000 Kb][        WThread][   tWThreadBase][]
+[        79][       0.000 Kb][        WThread][   tWThreadBase][]
+[        81][       0.000 Kb][        WThread][   tWThreadBase][]
+
+[     TOTAL][       0.000 Kb][Num: 15        ][               ][]
+
+----------- Global List Info --------------
+                 IMAP Glb List ...        0.000 kB. Count 0
+             Variable Glb List ...        0.000 kB. Count 0
+              Session Glb List ...        0.000 kB. Count 0
+                   SymTab List ...       14.314 kB. Count 1183 Hits 5114
+                  TCP Glb List ... Count 0
+
+----------- Global Stack Info --------------
+
+----------- Global Queue Info --------------
+
+----------- Global File Queue Info --------------
+
+----------- Global Table and Hash Map Info --------------
+                Global Table X ...        0.556 Kb.	Keys X: 13
+                Global Table A ...        0.000 Kb.	Keys A: 0
+        Total (X + A + extras) ...      140.556 Kb.	Num Tables: 2
+
+                      Hash Map ...        0.000 Kb.
+
+----------- Multi Protocol Port - Allocation --------------
+------
+
+*** Message Pool Info ***
+Free             :0
+Posted In Accept :1
+Posted           :0
+Handled          :0
+Total            :1
+Buffer Memory    :20480bytes
+------
+
+*** Handle Pool Info ***
+Listen     = 1
+Accepting  = 1
+Total      = 2
+------
+                 IntClass List ...        0.000 Kb. Count 117
+                  IntFunc List ...        0.000 Kb. Count 2136
+                  APPMAP Array ...        0.000 Kb. Count 0
+
+
+----------- SmartHeap Pools Info ----------
+                   pooltString ...      320.00 kB. Count      8 Ok
+                  poolrContent ...      256.00 kB. Count     28 Ok
+                 pooltInstrVar ...      192.00 kB. Count     28 Ok
+                pooltClassData ...      256.00 kB. Count    430 Ok
+                  pooltVarList ...      128.00 kB. Count      8 Ok
+                   pooltMethod ...      256.00 kB. Count    847 Ok
+                  poolMemLists ...     1408.00 kB. Count    236 Ok
+                 poolMemStrRef ...     1920.00 kB. Count   2543 Ok
+                 poolMemStream ...      320.00 kB. Count      2 Ok
+           Default Memory Pool ...     8960.00 kB. Count  12748 Ok
+
+           TOTAL POOLED MEMORY ...    16896.00 kB.
+
+
+----------- OS Memory Summary -------------
+MemTotal:       16289852 kB		MemFree:         1019372 kB		
+Active:          9095844 kB		Inactive:        4761976 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+
+----------- APP Memory Summary ------------
+        Server Memory Capacity ...    32768.000 MB.
+      Service Addressed Memory ...      698.875 MB.
+       Service Resident Memory ...       99.789 MB.
+
+
+ (Turn on DebugThreadUsedMemory to see more detailed information of allocation)
+2025-03-19T14:41:51.590610+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority 20] Stopping Threads...
+2025-03-19T14:41:51.591888+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority 20] Notified finalization for 10 Live Threads 10
+2025-03-19T14:41:51.627026+00:00 48|
+[INFO ][SERVER] [MPPORT] quitting multi protocol port server
+2025-03-19T14:41:51.628222+00:00 48|[VDRPORT] 250319_144151 7A4E0B20 APP0376 W stopping context manager...
+2025-03-19T14:41:51.629317+00:00 48|
+[INFO ][SERVER] [MPPORT] stopped multi protocol port server ret=0
+2025-03-19T14:41:52.093250+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority 20] Notified finalization for 0 Live Threads 4
+2025-03-19T14:41:52.463476+00:00 28|
+[INFO ][SERVER] [Thread 28] Memory Monitor END
+2025-03-19T14:41:52.594836+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority 20] Notified finalization for 0 Live Threads 0
+2025-03-19T14:41:53.096303+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority 20] Stopped Successfully
+2025-03-19T14:41:53.097853+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Stopping All Other Threads...
+2025-03-19T14:41:53.099043+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T14:41:53.599972+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T14:41:54.101224+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:54.602833+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:55.104111+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:55.606009+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:56.107269+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:56.609056+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:57.110330+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:41:57.611989+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Notified finalization for 2 Live Threads 0
+2025-03-19T14:41:58.113209+00:00 23|
+[INFO ][SERVER] [Thread 23][Thread Priority XX] Stopped Successfully
+2025-03-19T14:41:58.114415+00:00 23|
+[INFO ][SERVER] [Thread 23] All Threads Stopped Successfully 
+2025-03-19T14:41:58.115829+00:00 23|
+[INFO ][SSL] SSL global finalization
+2025-03-19T14:43:41.648941+00:00 19|
+[INFO ][SERVER] BTMonitor start time: 1742395392.648937 sec
+2025-03-19T14:43:41.650565+00:00 19|
+[INFO ][SERVER] Loading translate file (/totvs/appserver/appserver_en_en). 
+
+2025-03-19T14:43:41.651816+00:00 19|
+[WARN ][SERVER] [Thread 19] Monitored Calls - No records found.
+2025-03-19T14:43:41.652792+00:00 19|Starting (totvs | appserver 12)...
+Please wait...
+2025-03-19T14:43:41.654014+00:00 19|Operating System - maximum open files: 32767
+2025-03-19T14:43:41.655400+00:00 19|Current process  - maximum open files: 1048576
+2025-03-19T14:43:41.656195+00:00 19|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2025-03-19T14:43:41.656915+00:00 19|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2025-03-19T14:43:41.657634+00:00 19|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2025-03-19T14:43:41.658960+00:00 19|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2025-03-19T14:43:41.659793+00:00 19|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2025-03-19T14:43:41.660541+00:00 19|*** DEFAULT SOCKET BIND IS IPV4 
+2025-03-19T14:43:41.661348+00:00 19|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2025-03-19T14:43:41.662804+00:00 19|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2025-03-19T14:43:41.664248+00:00 19|
+2025-03-19T14:43:41.666915+00:00 19|
+---------------- OS System Info -----------------------------------------------
+Linux Distribution: Oracle Linux Server 8.10
+GLIBC Version: 2.28
+Kernel Version: Linux version 6.8.0-52-generic (buildd@lcy02-amd64-046) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:25 UTC 2025
+Version ID: 8.10
+ID: ol
+Version Codename: 
+Home page: https://linux.oracle.com/
+Support URL: 
+Error: Power scheme information is unavailable.
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+MemTotal:       16289852 kB		MemFree:         1037764 kB		
+Active:          9094572 kB		Inactive:        4766696 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+-------------------------------------------------------------------------------
+
+
+---------------- OS Environment Limits ----------------------------------------
+Maximum processes .......:  UNLIMITED	Maximum open files ......:  1048576
+CPU time in seconds .....:  UNLIMITED	Maximum core file size ..:  UNLIMITED
+Maximum filesize ........:  UNLIMITED	Maximum data size .......:  UNLIMITED
+Maximum resident size ...:  UNLIMITED	Maximum locked memory ...:  8.00 MB.
+Address Space (v) limit .:  UNLIMITED	Maximum stack size ......:  8.00 MB.
+*** WARNING : Maximum stack size TOO HIGH. Adjust ulimit -s to 1024 (1.0 Mb).
+2025-03-19T14:43:41.770060+00:00 19|
+[INFO ][SERVER] [Thread 19] APP Virtual Address Allocation Limit .... 32768.00 MB.
+2025-03-19T14:43:41.771443+00:00 19|
+[INFO ][SERVER] [Thread 19] Memory Monitor Virtual Address LIMIT .... 32768.00  MB.
+2025-03-19T14:43:41.778364+00:00 24|
+[WARN ][SERVER] [POWERSCHEMES] [Thread 24] [19/03/2025 14:43:41] 
+The current power scheme in cpu 0 (1/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 1 (2/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 2 (3/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 3 (4/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 4 (5/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 5 (6/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 6 (7/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 7 (8/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 8 (9/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 9 (10/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 10 (11/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 11 (12/12) is 'schedutil' - 'performance' is recommended.
+2025-03-19T14:43:41.872416+00:00 19|
+[INFO ][SSL] SSL global initialization
+2025-03-19T14:43:41.873477+00:00 19|
+[INFO ][SSL] OpenSSL 3.0.13 30 Jan 2024
+2025-03-19T14:43:41.977020+00:00 19|
+[INFO ][SERVER] [WEBMONITOR] - Starting Appserver WebMonitor
+2025-03-19T14:43:42.193418+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP server WEBMONITOR, port: 45759, started on ID: 1
+2025-03-19T14:43:42.194894+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP Server - WEBMONITOR, started on port:  45759.
+2025-03-19T14:43:42.205924+00:00 19|
+[INFO ][SERVER] Server not found, ID: '/webmonitor'
+2025-03-19T14:43:42.207905+00:00 19|
+[INFO ][SERVER] [WEBMONITOR] - Started Appserver WebMonitor on port 45759 on URI /webmonitor
+2025-03-19T14:43:42.209072+00:00 19|
+[INFO ][SERVER] [APPMON] - Starting Application Monitor
+2025-03-19T14:43:42.324413+00:00 19|[APPMON] starting on port 32033
+2025-03-19T14:43:42.976595+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP server APP_MONITOR_SERVER, port: 32033, started on ID: 2
+2025-03-19T14:43:42.977944+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP Server - APP_MONITOR_SERVER, started on port:  32033.
+2025-03-19T14:43:42.979899+00:00 19|[APPMON] Started on port: 32033 on /api
+2025-03-19T14:43:42.990702+00:00 19|
+[INFO ][SERVER] Server not found, ID: '/api'
+2025-03-19T14:43:42.993477+00:00 19|
+[INFO ][SERVER] [APPMON] - Started Application Monitor on port 32033 on URI /api
+2025-03-19T14:43:42.994724+00:00 19|
+[INFO ][SERVER] *** N_MAX_FILES=1048576 FD_SETSIZE=131073
+2025-03-19T14:43:42.996016+00:00 19|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 50937
+2025-03-19T14:43:42.996981+00:00 19|
+[INFO ][SERVER] [MPPORT] Multi Protocol Port using: port 1234
+2025-03-19T14:43:42.997839+00:00 19|
+[WARN ][SERVER] [MPPORT] Incomplete SSL values. Ignoring Method 'TLSV1.2', using default
+2025-03-19T14:43:42.999000+00:00 19|
+[INFO ][SERVER] [MPPORT] Multi Protocol using default SSL: (totvs_certificate.crt | totvs_certificate_key.pem | -)
+2025-03-19T14:43:43.000042+00:00 19|
+[INFO ][SERVER] [MPPORT] Default Rest environment not configured. To enable: [general]app_environment=environment
+2025-03-19T14:43:43.000980+00:00 44|
+[INFO ][SERVER] [MPPORT] Starting Multi Protocol Port Server
+2025-03-19T14:43:43.007666+00:00 44|[VDRPORT] * 
+2025-03-19T14:43:43.009678+00:00 44|[VDRPORT] * 
+2025-03-19T14:43:43.011151+00:00 44|[VDRPORT] 250319_144343 72DBCEA0 SGB0725 N balance table with 4 servers
+2025-03-19T14:43:43.101066+00:00 19|
+[INFO ][SERVER] [MPPORT] [Thread 19] Application Server started on internal port
+2025-03-19T14:43:43.432487+00:00 19|
+[INFO ][SERVER] [Thread 19] WebApp started on http port  8080.
+2025-03-19T14:43:43.434470+00:00 19|
+----------- Services Start Time  ----------
+2025-03-19T14:43:43.435196+00:00 19|         JOB MANAGER	0.101 s	
+2025-03-19T14:43:43.435940+00:00 19|          WebMonitor	0.232 s	
+2025-03-19T14:43:43.436946+00:00 19|         APP Monitor	0.786 s	
+2025-03-19T14:43:43.437968+00:00 19|                 TCP	0.211 s	
+2025-03-19T14:43:43.438696+00:00 19|         LOCK SERVER	0.000 s	
+2025-03-19T14:43:43.439478+00:00 19|              WEBAPP	0.228 s	
+2025-03-19T14:43:43.440499+00:00 19|  HTTPSERVER - VADER	0.000 s	
+2025-03-19T14:43:43.441617+00:00 19|
+--- Application Server Start Time: 1.558 s
+2025-03-19T14:43:43.442415+00:00 19|
+[19/03/2025 14:43:43] Totvs Application Server is running
+2025-03-19T14:43:43.881137+00:00 25|
+Starting Job [D81CF7DCFD204409B0132DC0C1D2F7D0APP_MONITOR_THREADPOOL]
+2025-03-19T14:43:43.882405+00:00 25|
+Starting Job [E6CF7C31001C479D925C41918702868EWEBMONITOR_THREADPOOL]
+2025-03-19T14:43:56.421300+00:00 71|
+ *********** RPO file (/totvs/protheus/apo/tttm120.rpo) not found. Creating... ***********
+2025-03-19T14:43:56.423067+00:00 71|
+[FATAL][SERVER] 19/03/2025 14:43:56[Thread 71] [THROW] 
+Failed to load APPMAP - Environment Error opening repository file /totvs/protheus/apo/tttm120.rpo
+ (The system cannot find the file specified.) - baselinux  RPO DEFAULT at file /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/advpl/application.cpp line 461
+2025-03-19T14:44:29.990150+00:00 71|
+[WARN ][SERVER] [Thread 71] [19/03/2025 14:44:29] Error ending thread (, 0fb2941c8146) 
+Failed to load APPMAP - Environment Error opening repository file /totvs/protheus/apo/tttm120.rpo
+ (The system cannot find the file specified.) - baselinux  RPO DEFAULT
+2025-03-19T14:44:52.539092+00:00 19|Wait....
+2025-03-19T14:44:52.540582+00:00 19|
+[INFO ][SERVER] [Thread 19] Application Server Abort Signal (2) Received...
+2025-03-19T14:44:52.541827+00:00 19|
+[INFO ][SERVER] [Thread 19] Application Server (UNIX version) in shutdown....
+2025-03-19T14:44:52.542801+00:00 19|
+[INFO ][SERVER] [Thread 19] * ---------------------------------------------------------------------- *
+2025-03-19T14:44:52.543661+00:00 19|
+[INFO ][SERVER] [Thread 19] [socksrvint.cpp:10660] Stopping all HTTP servers
+2025-03-19T14:44:52.544845+00:00 19|
+[INFO ][SERVER] [Thread 19] Thread Pool WEBMONITOR_THREADPOOL stopping (E6CF7C31001C479D925C41918702868E)
+2025-03-19T14:44:52.546544+00:00 19|
+[INFO ][SERVER] [Thread 19] Deleting jobs from Threadpool WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T14:44:52.548320+00:00 19|
+[INFO ][SERVER] [Thread 19] Thread Pool WEBMONITOR_THREADPOOL stopped
+2025-03-19T14:44:52.549873+00:00 19|
+[INFO ][SERVER] [Thread 19] Thread Pool APP_MONITOR_THREADPOOL stopping (D81CF7DCFD204409B0132DC0C1D2F7D0)
+2025-03-19T14:44:52.551526+00:00 19|
+[INFO ][SERVER] [Thread 19] Deleting jobs from Threadpool APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T14:44:52.552961+00:00 19|
+[INFO ][SERVER] [Thread 19] Thread Pool APP_MONITOR_THREADPOOL stopped
+2025-03-19T14:44:52.553898+00:00 19|
+[ERROR][SERVER] [Thread 19] deleting thread Pool, WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T14:44:52.554867+00:00 19|
+[ERROR][SERVER] [Thread 19] deleting thread Pool, APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T14:44:52.556107+00:00 19|
+[INFO ][SERVER] [Thread 19] stopping HTTP server on ID 1
+2025-03-19T14:44:52.557420+00:00 19|
+[INFO ][SERVER] [Thread 19] stopping HTTP server on ID 2
+2025-03-19T14:44:52.558462+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP server stopped on ID 1
+2025-03-19T14:44:52.559368+00:00 19|
+[ERROR][SERVER] [Thread 19] deleting server, WEBMONITOR
+2025-03-19T14:44:52.560841+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP server stopped on ID 2
+2025-03-19T14:44:52.562809+00:00 19|
+[ERROR][SERVER] [Thread 19] deleting server, APP_MONITOR_SERVER
+2025-03-19T14:44:52.564073+00:00 19|
+[INFO ][SERVER] [Thread 19] HTTP servers Stopped
+2025-03-19T14:44:52.564973+00:00 19|
+[INFO ][SERVER] [Thread 19] [socksrvint.cpp:10841] All HTTP servers have been stopped
+2025-03-19T14:44:52.566228+00:00 19|
+[INFO ][SERVER] [Thread 19] * ---------------------------------------------------------------------- *
+
+2025-03-19T14:44:52.567395+00:00 19|
+[INFO ][SERVER] [Thread 19][19/03/2025 14:44:52] Application SHUTDOWN in progress...
+2025-03-19T14:44:52.569915+00:00 19|
+-------------- Build Version --------------
+Application Server: 24.3.0.4
+
+
+-------------- APO Map List ---------------
+*** EMPTY ***
+
+----------- Total Thread Count ------------
+                 Total Threads ... 15
+                        Thread ... 4
+                       WThread ... 10
+                    SockServer ... 1
+
+----------- Detailed Process List ---- (*1)
+[        23][       0.000 Kb][         Thread][tLicenseManagerThread][]
+[        24][       0.000 Kb][         Thread][ tMemoryMonitor][]
+[        25][       0.000 Kb][         Thread][    tJobManager][]
+[        44][       0.000 Kb][         Thread][tMultiPortServer][]
+[        53][       0.000 Kb][     SockServer][    tMainServer][]
+[        84][       0.000 Kb][        WThread][   tWThreadBase][]
+[        86][       0.000 Kb][        WThread][   tWThreadBase][]
+[        57][       0.000 Kb][        WThread][   tWThreadBase][]
+[        58][       0.000 Kb][        WThread][   tWThreadBase][]
+[        72][       0.000 Kb][        WThread][   tWThreadBase][]
+[        82][       0.000 Kb][        WThread][   tWThreadBase][]
+[        74][       0.000 Kb][        WThread][   tWThreadBase][]
+[        76][       0.000 Kb][        WThread][   tWThreadBase][]
+[        77][       0.000 Kb][        WThread][   tWThreadBase][]
+[        83][       0.000 Kb][        WThread][   tWThreadBase][]
+
+[     TOTAL][       0.000 Kb][Num: 15        ][               ][]
+
+----------- Global List Info --------------
+                 IMAP Glb List ...        0.000 kB. Count 0
+             Variable Glb List ...        0.000 kB. Count 0
+              Session Glb List ...        0.000 kB. Count 0
+                   SymTab List ...       14.314 kB. Count 1183 Hits 6124
+                  TCP Glb List ... Count 0
+
+----------- Global Stack Info --------------
+
+----------- Global Queue Info --------------
+
+----------- Global File Queue Info --------------
+
+----------- Global Table and Hash Map Info --------------
+                Global Table X ...        0.556 Kb.	Keys X: 13
+                Global Table A ...        0.000 Kb.	Keys A: 0
+        Total (X + A + extras) ...      140.556 Kb.	Num Tables: 2
+
+                      Hash Map ...        0.000 Kb.
+
+----------- Multi Protocol Port - Allocation --------------
+------
+
+*** Message Pool Info ***
+Free             :0
+Posted In Accept :1
+Posted           :0
+Handled          :0
+Total            :1
+Buffer Memory    :20480bytes
+------
+
+*** Handle Pool Info ***
+Listen     = 1
+Accepting  = 1
+Total      = 2
+------
+                 IntClass List ...        0.000 Kb. Count 117
+                  IntFunc List ...        0.000 Kb. Count 2136
+                  APPMAP Array ...        0.000 Kb. Count 0
+
+
+----------- SmartHeap Pools Info ----------
+                   pooltString ...      320.00 kB. Count      8 Ok
+                  poolrContent ...      320.00 kB. Count     28 Ok
+                 pooltInstrVar ...      256.00 kB. Count     28 Ok
+                pooltClassData ...      320.00 kB. Count    430 Ok
+                  pooltVarList ...      128.00 kB. Count      8 Ok
+                   pooltMethod ...      320.00 kB. Count    847 Ok
+                  poolMemLists ...      768.00 kB. Count    236 Ok
+                 poolMemStrRef ...     1792.00 kB. Count   2543 Ok
+                 poolMemStream ...      384.00 kB. Count      2 Ok
+           Default Memory Pool ...    12416.00 kB. Count  13697 Ok
+
+           TOTAL POOLED MEMORY ...    20160.00 kB.
+
+
+----------- OS Memory Summary -------------
+MemTotal:       16289852 kB		MemFree:          998724 kB		
+Active:          9134904 kB		Inactive:        4772924 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+
+----------- APP Memory Summary ------------
+        Server Memory Capacity ...    32768.000 MB.
+      Service Addressed Memory ...     1366.906 MB.
+       Service Resident Memory ...      116.734 MB.
+
+
+ (Turn on DebugThreadUsedMemory to see more detailed information of allocation)
+2025-03-19T14:44:52.571352+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Stopping Threads...
+2025-03-19T14:44:52.572440+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 10 Live Threads 10
+2025-03-19T14:44:52.813041+00:00 24|
+[INFO ][SERVER] [Thread 24] Memory Monitor END
+2025-03-19T14:44:53.019938+00:00 44|
+[INFO ][SERVER] [MPPORT] quitting multi protocol port server
+2025-03-19T14:44:53.021243+00:00 44|[VDRPORT] 250319_144453 72DBCEA0 APP0376 W stopping context manager...
+2025-03-19T14:44:53.022668+00:00 44|
+[INFO ][SERVER] [MPPORT] stopped multi protocol port server ret=0
+2025-03-19T14:44:53.073886+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 3
+2025-03-19T14:44:53.574973+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 0
+2025-03-19T14:44:54.076230+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Stopped Successfully
+2025-03-19T14:44:54.077672+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Stopping All Other Threads...
+2025-03-19T14:44:54.078933+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T14:44:54.579964+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:44:55.081269+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:44:55.582901+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:44:56.084349+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:44:56.585649+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:44:57.087881+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 2 Live Threads 0
+2025-03-19T14:44:57.589666+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Stopped Successfully
+2025-03-19T14:44:57.591149+00:00 19|
+[INFO ][SERVER] [Thread 19] All Threads Stopped Successfully 
+2025-03-19T14:44:57.592260+00:00 19|
+[INFO ][SSL] SSL global finalization
+2025-03-19T14:47:16.455213+00:00 99|
+[INFO ][SERVER] BTMonitor start time: 1742395392.455210 sec
+2025-03-19T14:47:16.457118+00:00 99|
+[INFO ][SERVER] Loading translate file (/totvs/appserver/appserver_en_en). 
+
+2025-03-19T14:47:16.458630+00:00 99|
+[WARN ][SERVER] [Thread 99] Monitored Calls - No records found.
+2025-03-19T14:47:16.459675+00:00 99|Starting (totvs | appserver 12)...
+Please wait...
+2025-03-19T14:47:16.460937+00:00 99|Operating System - maximum open files: 32767
+2025-03-19T14:47:16.462033+00:00 99|Current process  - maximum open files: 1048576
+2025-03-19T14:47:16.463527+00:00 99|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2025-03-19T14:47:16.464416+00:00 99|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2025-03-19T14:47:16.465234+00:00 99|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2025-03-19T14:47:16.466342+00:00 99|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2025-03-19T14:47:16.467493+00:00 99|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2025-03-19T14:47:16.468350+00:00 99|*** DEFAULT SOCKET BIND IS IPV4 
+2025-03-19T14:47:16.469154+00:00 99|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2025-03-19T14:47:16.470241+00:00 99|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2025-03-19T14:47:16.471342+00:00 99|
+2025-03-19T14:47:16.473229+00:00 99|
+---------------- OS System Info -----------------------------------------------
+Linux Distribution: Oracle Linux Server 8.10
+GLIBC Version: 2.28
+Kernel Version: Linux version 6.8.0-52-generic (buildd@lcy02-amd64-046) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:25 UTC 2025
+Version ID: 8.10
+ID: ol
+Version Codename: 
+Home page: https://linux.oracle.com/
+Support URL: 
+Error: Power scheme information is unavailable.
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+MemTotal:       16289852 kB		MemFree:         1029536 kB		
+Active:          9101484 kB		Inactive:        4774296 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+-------------------------------------------------------------------------------
+
+
+---------------- OS Environment Limits ----------------------------------------
+Maximum processes .......:  UNLIMITED	Maximum open files ......:  1048576
+CPU time in seconds .....:  UNLIMITED	Maximum core file size ..:  UNLIMITED
+Maximum filesize ........:  UNLIMITED	Maximum data size .......:  UNLIMITED
+Maximum resident size ...:  UNLIMITED	Maximum locked memory ...:  8.00 MB.
+Address Space (v) limit .:  UNLIMITED	Maximum stack size ......:  8.00 MB.
+*** WARNING : Maximum stack size TOO HIGH. Adjust ulimit -s to 1024 (1.0 Mb).
+2025-03-19T14:47:16.575499+00:00 99|
+[INFO ][SERVER] [Thread 99] APP Virtual Address Allocation Limit .... 32768.00 MB.
+2025-03-19T14:47:16.576874+00:00 99|
+[INFO ][SERVER] [Thread 99] Memory Monitor Virtual Address LIMIT .... 32768.00  MB.
+2025-03-19T14:47:16.589313+00:00 104|
+[WARN ][SERVER] [POWERSCHEMES] [Thread 104] [19/03/2025 14:47:16] 
+The current power scheme in cpu 0 (1/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 1 (2/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 2 (3/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 3 (4/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 4 (5/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 5 (6/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 6 (7/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 7 (8/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 8 (9/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 9 (10/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 10 (11/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 11 (12/12) is 'schedutil' - 'performance' is recommended.
+2025-03-19T14:47:16.678459+00:00 99|
+[INFO ][SSL] SSL global initialization
+2025-03-19T14:47:16.679962+00:00 99|
+[INFO ][SSL] OpenSSL 3.0.13 30 Jan 2024
+2025-03-19T14:47:16.783067+00:00 99|
+[INFO ][SERVER] [WEBMONITOR] - Starting Appserver WebMonitor
+2025-03-19T14:47:17.022910+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP server WEBMONITOR, port: 44885, started on ID: 1
+2025-03-19T14:47:17.024111+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP Server - WEBMONITOR, started on port:  44885.
+2025-03-19T14:47:17.035283+00:00 99|
+[INFO ][SERVER] Server not found, ID: '/webmonitor'
+2025-03-19T14:47:17.037415+00:00 99|
+[INFO ][SERVER] [WEBMONITOR] - Started Appserver WebMonitor on port 44885 on URI /webmonitor
+2025-03-19T14:47:17.038176+00:00 99|
+[INFO ][SERVER] [APPMON] - Starting Application Monitor
+2025-03-19T14:47:17.152070+00:00 99|[APPMON] starting on port 32033
+2025-03-19T14:47:17.755013+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP server APP_MONITOR_SERVER, port: 32033, started on ID: 2
+2025-03-19T14:47:17.756104+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP Server - APP_MONITOR_SERVER, started on port:  32033.
+2025-03-19T14:47:17.757849+00:00 99|[APPMON] Started on port: 32033 on /api
+2025-03-19T14:47:17.768949+00:00 99|
+[INFO ][SERVER] Server not found, ID: '/api'
+2025-03-19T14:47:17.772226+00:00 99|
+[INFO ][SERVER] [APPMON] - Started Application Monitor on port 32033 on URI /api
+2025-03-19T14:47:17.773156+00:00 99|
+[INFO ][SERVER] *** N_MAX_FILES=1048576 FD_SETSIZE=131073
+2025-03-19T14:47:17.774325+00:00 99|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 59845
+2025-03-19T14:47:17.775424+00:00 99|
+[INFO ][SERVER] [MPPORT] Multi Protocol Port using: port 1234
+2025-03-19T14:47:17.776217+00:00 99|
+[WARN ][SERVER] [MPPORT] Incomplete SSL values. Ignoring Method 'TLSV1.2', using default
+2025-03-19T14:47:17.777184+00:00 99|
+[INFO ][SERVER] [MPPORT] Multi Protocol using default SSL: (totvs_certificate.crt | totvs_certificate_key.pem | -)
+2025-03-19T14:47:17.778234+00:00 99|
+[INFO ][SERVER] [MPPORT] Default Rest environment not configured. To enable: [general]app_environment=environment
+2025-03-19T14:47:17.779593+00:00 124|
+[INFO ][SERVER] [MPPORT] Starting Multi Protocol Port Server
+2025-03-19T14:47:17.786510+00:00 124|[VDRPORT] * 
+2025-03-19T14:47:17.788008+00:00 124|[VDRPORT] * 
+2025-03-19T14:47:17.790001+00:00 124|[VDRPORT] 250319_144717 766EC560 SGB0725 N balance table with 4 servers
+2025-03-19T14:47:17.879712+00:00 99|
+[INFO ][SERVER] [MPPORT] [Thread 99] Application Server started on internal port
+2025-03-19T14:47:18.228731+00:00 99|
+[INFO ][SERVER] [Thread 99] WebApp started on http port  8080.
+2025-03-19T14:47:18.230661+00:00 99|
+----------- Services Start Time  ----------
+2025-03-19T14:47:18.231455+00:00 99|         JOB MANAGER	0.101 s	
+2025-03-19T14:47:18.232459+00:00 99|          WebMonitor	0.255 s	
+2025-03-19T14:47:18.233847+00:00 99|         APP Monitor	0.735 s	
+2025-03-19T14:47:18.235258+00:00 99|                 TCP	0.210 s	
+2025-03-19T14:47:18.236640+00:00 99|         LOCK SERVER	0.000 s	
+2025-03-19T14:47:18.238337+00:00 99|              WEBAPP	0.247 s	
+2025-03-19T14:47:18.239362+00:00 99|  HTTPSERVER - VADER	0.000 s	
+2025-03-19T14:47:18.240141+00:00 99|
+--- Application Server Start Time: 1.548 s
+2025-03-19T14:47:18.240857+00:00 99|
+[19/03/2025 14:47:18] Totvs Application Server is running
+2025-03-19T14:47:18.687508+00:00 105|
+Starting Job [1C85F02F82FC4E17950018F9796A2A8BAPP_MONITOR_THREADPOOL]
+2025-03-19T14:47:18.688910+00:00 105|
+Starting Job [F44487049BE348D69B8286DB2A1D8863WEBMONITOR_THREADPOOL]
+2025-03-19T14:47:49.887082+00:00 152|
+ *********** RPO file (/totvs/protheus/apo/tttm120.rpo) not found. Creating... ***********
+2025-03-19T14:47:49.888537+00:00 152|
+[FATAL][SERVER] 19/03/2025 14:47:49[Thread 152] [THROW] 
+Failed to load APPMAP - Environment Error opening repository file /totvs/protheus/apo/tttm120.rpo
+ (The system cannot find the file specified.) - baselinux  RPO DEFAULT at file /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/advpl/application.cpp line 461
+2025-03-19T14:48:53.680464+00:00 99|Wait....
+2025-03-19T14:48:53.681963+00:00 99|
+[INFO ][SERVER] [Thread 99] Application Server Abort Signal (2) Received...
+2025-03-19T14:48:53.682981+00:00 99|
+[INFO ][SERVER] [Thread 99] Application Server (UNIX version) in shutdown....
+2025-03-19T14:48:53.683983+00:00 99|
+[INFO ][SERVER] [Thread 99] * ---------------------------------------------------------------------- *
+2025-03-19T14:48:53.685216+00:00 99|
+[INFO ][SERVER] [Thread 99] [socksrvint.cpp:10660] Stopping all HTTP servers
+2025-03-19T14:48:53.686457+00:00 99|
+[INFO ][SERVER] [Thread 99] Thread Pool WEBMONITOR_THREADPOOL stopping (F44487049BE348D69B8286DB2A1D8863)
+2025-03-19T14:48:53.687447+00:00 99|
+[INFO ][SERVER] [Thread 99] Deleting jobs from Threadpool WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T14:48:53.688468+00:00 99|
+[INFO ][SERVER] [Thread 99] Thread Pool WEBMONITOR_THREADPOOL stopped
+2025-03-19T14:48:53.689726+00:00 99|
+[INFO ][SERVER] [Thread 99] Thread Pool APP_MONITOR_THREADPOOL stopping (1C85F02F82FC4E17950018F9796A2A8B)
+2025-03-19T14:48:53.691133+00:00 99|
+[INFO ][SERVER] [Thread 99] Deleting jobs from Threadpool APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T14:48:53.692187+00:00 99|
+[INFO ][SERVER] [Thread 99] Thread Pool APP_MONITOR_THREADPOOL stopped
+2025-03-19T14:48:53.693089+00:00 99|
+[ERROR][SERVER] [Thread 99] deleting thread Pool, WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T14:48:53.694322+00:00 99|
+[ERROR][SERVER] [Thread 99] deleting thread Pool, APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T14:48:53.695568+00:00 99|
+[INFO ][SERVER] [Thread 99] stopping HTTP server on ID 1
+2025-03-19T14:48:53.696575+00:00 99|
+[INFO ][SERVER] [Thread 99] stopping HTTP server on ID 2
+2025-03-19T14:48:53.697635+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP server stopped on ID 1
+2025-03-19T14:48:53.698826+00:00 99|
+[ERROR][SERVER] [Thread 99] deleting server, WEBMONITOR
+2025-03-19T14:48:53.700202+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP server stopped on ID 2
+2025-03-19T14:48:53.701084+00:00 99|
+[ERROR][SERVER] [Thread 99] deleting server, APP_MONITOR_SERVER
+2025-03-19T14:48:53.702285+00:00 99|
+[INFO ][SERVER] [Thread 99] HTTP servers Stopped
+2025-03-19T14:48:53.703535+00:00 99|
+[INFO ][SERVER] [Thread 99] [socksrvint.cpp:10841] All HTTP servers have been stopped
+2025-03-19T14:48:53.705252+00:00 99|
+[INFO ][SERVER] [Thread 99] * ---------------------------------------------------------------------- *
+
+2025-03-19T14:48:53.706255+00:00 99|
+[INFO ][SERVER] [Thread 99][19/03/2025 14:48:53] Application SHUTDOWN in progress...
+2025-03-19T14:48:53.707272+00:00 99|
+ *********** RPO file (/totvs/protheus/apo/custom.rpo) not found. Creating... ***********
+2025-03-19T14:48:53.708522+00:00 99|
+ *********** RPO file (/totvs/protheus/apo/custom.rpo) not found. Creating... ***********
+2025-03-19T14:48:53.709893+00:00 99|
+ *********** RPO file (/totvs/protheus/apo/tttm120.rpo) not found. Creating... ***********
+2025-03-19T14:48:53.710889+00:00 99|
+ *********** RPO file (/totvs/protheus/apo/tttm120.rpo) not found. Creating... ***********
+2025-03-19T14:48:53.713459+00:00 99|
+-------------- Build Version --------------
+Application Server: 24.3.0.4
+
+
+-------------- APO Map List ---------------
+Users [01] MAP [0.00 MB.] APO [/totvs/appserver/tlpp.rpo] SYM [0.01 MB.] CODECACHE [0.00 MB.]
+Users [01] MAP [0.00 MB.] APO [(null)] SYM [0.00 MB.] CODECACHE [0.00 MB.]
+Users [01] MAP [0.00 MB.] APO [(null)] SYM [0.00 MB.] CODECACHE [0.00 MB.]
+
+----------- Total Thread Count ------------
+                 Total Threads ... 16
+                        Thread ... 4
+                       WThread ... 10
+                 RmtSockThread ... 1
+                    SockServer ... 1
+
+----------- Detailed Thread List ----------
+[       152][       0.000 Kb]		0fb2941c8146	0fb2941c8146 : 1234	SIGAADV	baselinux	Wed Mar 19 14:47:49 2025	00:01:04	0	0		[]
+
+[     TOTAL][       0.000 Kb][Num: 1         ]
+
+----------- Detailed Process List ---- (*1)
+[       103][       0.000 Kb][         Thread][tLicenseManagerThread][]
+[       104][       0.000 Kb][         Thread][ tMemoryMonitor][]
+[       105][       0.000 Kb][         Thread][    tJobManager][]
+[       124][       0.000 Kb][         Thread][tMultiPortServer][]
+[       133][       0.000 Kb][     SockServer][    tMainServer][]
+[       163][       0.000 Kb][        WThread][   tWThreadBase][]
+[       165][       0.000 Kb][        WThread][   tWThreadBase][]
+[       166][       0.000 Kb][        WThread][   tWThreadBase][]
+[       167][       0.000 Kb][        WThread][   tWThreadBase][]
+[       168][       0.000 Kb][        WThread][   tWThreadBase][]
+[       169][       0.000 Kb][        WThread][   tWThreadBase][]
+[       170][       0.000 Kb][        WThread][   tWThreadBase][]
+[       156][       0.000 Kb][        WThread][   tWThreadBase][]
+[       171][       0.000 Kb][        WThread][   tWThreadBase][]
+[       172][       0.000 Kb][        WThread][   tWThreadBase][]
+
+[     TOTAL][       0.000 Kb][Num: 15        ][               ][]
+
+----------- Global List Info --------------
+                 IMAP Glb List ...        0.000 kB. Count 0
+             Variable Glb List ...        0.000 kB. Count 0
+              Session Glb List ...        0.000 kB. Count 0
+                   SymTab List ...       14.314 kB. Count 1183 Hits 6124
+                  TCP Glb List ... Count 0
+
+----------- Global Stack Info --------------
+
+----------- Global Queue Info --------------
+
+----------- Global File Queue Info --------------
+
+----------- Global Table and Hash Map Info --------------
+                Global Table X ...        0.556 Kb.	Keys X: 13
+                Global Table A ...        0.000 Kb.	Keys A: 0
+        Total (X + A + extras) ...      140.556 Kb.	Num Tables: 2
+
+                      Hash Map ...        0.000 Kb.
+
+----------- Multi Protocol Port - Allocation --------------
+------
+
+*** Message Pool Info ***
+Free             :0
+Posted In Accept :1
+Posted           :0
+Handled          :0
+Total            :1
+Buffer Memory    :20480bytes
+------
+
+*** Handle Pool Info ***
+Listen     = 1
+Accepting  = 1
+Total      = 2
+------
+                 IntClass List ...        0.000 Kb. Count 117
+                  IntFunc List ...        0.000 Kb. Count 2136
+                  APPMAP Array ...        0.000 Kb. Count 3
+
+
+----------- SmartHeap Pools Info ----------
+                   pooltString ...      320.00 kB. Count      8 Ok
+                  poolrContent ...      384.00 kB. Count     31 Ok
+                 pooltInstrVar ...      320.00 kB. Count     44 Ok
+                   pooltApoReg ...      192.00 kB. Count    197 Ok
+                pooltCodeBlock ...      256.00 kB. Count      1 Ok
+                pooltClassData ...      448.00 kB. Count    759 Ok
+          pooltPrgFunctXRefEle ...      192.00 kB. Count    677 Ok
+                  pooltVarList ...      128.00 kB. Count      8 Ok
+                 pooltStatList ...      256.00 kB. Count      1 Ok
+                   pooltMethod ...      448.00 kB. Count   1493 Ok
+                  poolMemLists ...     1408.00 kB. Count    353 Ok
+                 poolMemStrRef ...     2112.00 kB. Count   3533 Ok
+                 poolMemStream ...      576.00 kB. Count     13 Ok
+           Default Memory Pool ...    13696.00 kB. Count  13715 Ok
+
+           TOTAL POOLED MEMORY ...    23232.00 kB.
+
+
+----------- OS Memory Summary -------------
+MemTotal:       16289852 kB		MemFree:          997060 kB		
+Active:          9132320 kB		Inactive:        4775120 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+
+----------- APP Memory Summary ------------
+        Server Memory Capacity ...    32768.000 MB.
+      Service Addressed Memory ...     1028.859 MB.
+       Service Resident Memory ...      108.160 MB.
+
+
+ (Turn on DebugThreadUsedMemory to see more detailed information of allocation)
+2025-03-19T14:48:53.715352+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority 20] Stopping Threads...
+2025-03-19T14:48:53.716605+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority 20] Notified finalization for 11 Live Threads 11
+2025-03-19T14:48:53.801810+00:00 124|
+[INFO ][SERVER] [MPPORT] quitting multi protocol port server
+2025-03-19T14:48:53.802811+00:00 124|[VDRPORT] 250319_144853 766EC560 APP0376 W stopping context manager...
+2025-03-19T14:48:53.804100+00:00 124|
+[INFO ][SERVER] [MPPORT] stopped multi protocol port server ret=0
+2025-03-19T14:48:54.217714+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority 20] Notified finalization for 0 Live Threads 6
+2025-03-19T14:48:54.584618+00:00 152|
+[ERROR][SERVER] [Thread 152] ReceiveDataPack - Status not reading - 5
+2025-03-19T14:48:54.626974+00:00 152|
+[WARN ][SERVER] [THROW][Thread  152] tConnnErrorException (18:Connection interrupted by the Administrator) on /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/lib_comm/msgmanager.cpp:478
+2025-03-19T14:48:54.629888+00:00 152|
+[ERROR][SERVER] [RmtSockThread 152] [19/03/2025 14:48:54] tConnnErrorException [18:Connection interrupted by the Administrator] in file /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/lib_comm/msgmanager.cpp at line 478
+2025-03-19T14:48:54.637945+00:00 104|
+[INFO ][SERVER] [Thread 104] Memory Monitor END
+2025-03-19T14:48:54.719053+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority 20] Notified finalization for 0 Live Threads 0
+2025-03-19T14:48:55.220162+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority 20] Stopped Successfully
+2025-03-19T14:48:55.221639+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Stopping All Other Threads...
+2025-03-19T14:48:55.223222+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T14:48:55.724838+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T14:48:56.226798+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:56.728725+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:57.230921+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:57.732237+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:58.233708+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:58.735457+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:59.236832+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:48:59.738321+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:49:00.239479+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:49:00.740899+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:49:01.242526+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T14:49:01.744140+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Notified finalization for 2 Live Threads 0
+2025-03-19T14:49:02.245447+00:00 99|
+[INFO ][SERVER] [Thread 99][Thread Priority XX] Stopped Successfully
+2025-03-19T14:49:02.246711+00:00 99|
+[INFO ][SERVER] [Thread 99] All Threads Stopped Successfully 
+2025-03-19T14:49:02.248195+00:00 99|
+[INFO ][SSL] SSL global finalization
+2025-03-19T15:00:01.414666+00:00 189|
+[INFO ][SERVER] BTMonitor start time: 1742396160.414663 sec
+2025-03-19T15:00:01.416917+00:00 189|
+[INFO ][SERVER] Loading translate file (/totvs/appserver/appserver_en_en). 
+
+2025-03-19T15:00:01.418157+00:00 189|
+[WARN ][SERVER] [Thread 189] Monitored Calls - No records found.
+2025-03-19T15:00:01.419585+00:00 189|Starting (totvs | appserver 12)...
+Please wait...
+2025-03-19T15:00:01.421030+00:00 189|Operating System - maximum open files: 32767
+2025-03-19T15:00:01.422402+00:00 189|Current process  - maximum open files: 1048576
+2025-03-19T15:00:01.423281+00:00 189|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2025-03-19T15:00:01.424088+00:00 189|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2025-03-19T15:00:01.424884+00:00 189|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2025-03-19T15:00:01.426172+00:00 189|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2025-03-19T15:00:01.426948+00:00 189|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2025-03-19T15:00:01.427730+00:00 189|*** DEFAULT SOCKET BIND IS IPV4 
+2025-03-19T15:00:01.428568+00:00 189|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2025-03-19T15:00:01.430101+00:00 189|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2025-03-19T15:00:01.430833+00:00 189|
+2025-03-19T15:00:01.432711+00:00 189|
+---------------- OS System Info -----------------------------------------------
+Linux Distribution: Oracle Linux Server 8.10
+GLIBC Version: 2.28
+Kernel Version: Linux version 6.8.0-52-generic (buildd@lcy02-amd64-046) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:25 UTC 2025
+Version ID: 8.10
+ID: ol
+Version Codename: 
+Home page: https://linux.oracle.com/
+Support URL: 
+Error: Power scheme information is unavailable.
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+MemTotal:       16289852 kB		MemFree:         1025688 kB		
+Active:          9090008 kB		Inactive:        4792208 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952508 kB		
+-------------------------------------------------------------------------------
+
+
+---------------- OS Environment Limits ----------------------------------------
+Maximum processes .......:  UNLIMITED	Maximum open files ......:  1048576
+CPU time in seconds .....:  UNLIMITED	Maximum core file size ..:  UNLIMITED
+Maximum filesize ........:  UNLIMITED	Maximum data size .......:  UNLIMITED
+Maximum resident size ...:  UNLIMITED	Maximum locked memory ...:  8.00 MB.
+Address Space (v) limit .:  UNLIMITED	Maximum stack size ......:  8.00 MB.
+*** WARNING : Maximum stack size TOO HIGH. Adjust ulimit -s to 1024 (1.0 Mb).
+2025-03-19T15:00:01.534248+00:00 189|
+[INFO ][SERVER] [Thread 189] APP Virtual Address Allocation Limit .... 32768.00 MB.
+2025-03-19T15:00:01.535850+00:00 189|
+[INFO ][SERVER] [Thread 189] Memory Monitor Virtual Address LIMIT .... 32768.00  MB.
+2025-03-19T15:00:01.547586+00:00 194|
+[WARN ][SERVER] [POWERSCHEMES] [Thread 194] [19/03/2025 15:00:01] 
+The current power scheme in cpu 0 (1/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 1 (2/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 2 (3/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 3 (4/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 4 (5/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 5 (6/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 6 (7/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 7 (8/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 8 (9/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 9 (10/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 10 (11/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 11 (12/12) is 'schedutil' - 'performance' is recommended.
+2025-03-19T15:00:01.636895+00:00 189|
+[INFO ][SSL] SSL global initialization
+2025-03-19T15:00:01.637959+00:00 189|
+[INFO ][SSL] OpenSSL 3.0.13 30 Jan 2024
+2025-03-19T15:00:01.741632+00:00 189|
+[INFO ][SERVER] [WEBMONITOR] - Starting Appserver WebMonitor
+2025-03-19T15:00:01.984954+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP server WEBMONITOR, port: 41289, started on ID: 1
+2025-03-19T15:00:01.986295+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP Server - WEBMONITOR, started on port:  41289.
+2025-03-19T15:00:01.997649+00:00 189|
+[INFO ][SERVER] Server not found, ID: '/webmonitor'
+2025-03-19T15:00:01.999808+00:00 189|
+[INFO ][SERVER] [WEBMONITOR] - Started Appserver WebMonitor on port 41289 on URI /webmonitor
+2025-03-19T15:00:02.000742+00:00 189|
+[INFO ][SERVER] [APPMON] - Starting Application Monitor
+2025-03-19T15:00:02.115098+00:00 189|[APPMON] starting on port 32033
+2025-03-19T15:00:02.696879+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP server APP_MONITOR_SERVER, port: 32033, started on ID: 2
+2025-03-19T15:00:02.698233+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP Server - APP_MONITOR_SERVER, started on port:  32033.
+2025-03-19T15:00:02.699680+00:00 189|[APPMON] Started on port: 32033 on /api
+2025-03-19T15:00:02.710526+00:00 189|
+[INFO ][SERVER] Server not found, ID: '/api'
+2025-03-19T15:00:02.713230+00:00 189|
+[INFO ][SERVER] [APPMON] - Started Application Monitor on port 32033 on URI /api
+2025-03-19T15:00:02.714366+00:00 189|
+[INFO ][SERVER] *** N_MAX_FILES=1048576 FD_SETSIZE=131073
+2025-03-19T15:00:02.715134+00:00 189|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 34833
+2025-03-19T15:00:02.715848+00:00 189|
+[INFO ][SERVER] [MPPORT] Multi Protocol Port using: port 1234
+2025-03-19T15:00:02.716864+00:00 189|
+[WARN ][SERVER] [MPPORT] Incomplete SSL values. Ignoring Method 'TLSV1.2', using default
+2025-03-19T15:00:02.717943+00:00 189|
+[INFO ][SERVER] [MPPORT] Multi Protocol using default SSL: (totvs_certificate.crt | totvs_certificate_key.pem | -)
+2025-03-19T15:00:02.718831+00:00 189|
+[INFO ][SERVER] [MPPORT] Default Rest environment not configured. To enable: [general]app_environment=environment
+2025-03-19T15:00:02.719977+00:00 214|
+[INFO ][SERVER] [MPPORT] Starting Multi Protocol Port Server
+2025-03-19T15:00:02.733819+00:00 214|[VDRPORT] * 
+2025-03-19T15:00:02.735559+00:00 214|[VDRPORT] * 
+2025-03-19T15:00:02.736425+00:00 214|[VDRPORT] 250319_150002 77428940 SGB0725 N balance table with 4 servers
+2025-03-19T15:00:02.820101+00:00 189|
+[INFO ][SERVER] [MPPORT] [Thread 189] Application Server started on internal port
+2025-03-19T15:00:03.150306+00:00 189|
+[INFO ][SERVER] [Thread 189] WebApp started on http port  8080.
+2025-03-19T15:00:03.152480+00:00 189|
+----------- Services Start Time  ----------
+2025-03-19T15:00:03.153380+00:00 189|         JOB MANAGER	0.101 s	
+2025-03-19T15:00:03.154465+00:00 189|          WebMonitor	0.259 s	
+2025-03-19T15:00:03.155585+00:00 189|         APP Monitor	0.714 s	
+2025-03-19T15:00:03.156423+00:00 189|                 TCP	0.209 s	
+2025-03-19T15:00:03.157224+00:00 189|         LOCK SERVER	0.000 s	
+2025-03-19T15:00:03.158301+00:00 189|              WEBAPP	0.229 s	
+2025-03-19T15:00:03.159339+00:00 189|  HTTPSERVER - VADER	0.000 s	
+2025-03-19T15:00:03.160072+00:00 189|
+--- Application Server Start Time: 1.512 s
+2025-03-19T15:00:03.160808+00:00 189|
+[19/03/2025 15:00:03] Totvs Application Server is running
+2025-03-19T15:00:03.645228+00:00 195|
+Starting Job [3F3AB107BE7F43C7BAB2A43BF64465BFWEBMONITOR_THREADPOOL]
+2025-03-19T15:00:03.646437+00:00 195|
+Starting Job [F7EA46D340DA490FAB1AE6EE9E079700APP_MONITOR_THREADPOOL]
+2025-03-19T15:00:12.413982+00:00 242|
+ *********** RPO file (/totvs/protheus_data/apo/custom.rpo) not found. Creating... ***********
+2025-03-19T15:00:12.417294+00:00 242|
+[WARN ][SERVER] [Thread 242] OPEN EMPTY RPO - Environment baselinux - File /totvs/protheus_data/apo/custom.rpo
+2025-03-19T15:00:12.421875+00:00 242|
+[INFO ][SERVER] [19/03/2025 15:00:12] Starting Program SIGAADV Thread 242 (,0fb2941c8146) 
+(/totvs/protheus_data/apo/tttm120.rpo, /totvs/appserver/tlpp.rpo, /totvs/protheus_data/apo/custom.rpo)
+2025-03-19T15:00:12.458834+00:00 242|
+*** Loading /totvs/appserver/dbapi.so
+2025-03-19T15:00:12.460541+00:00 242|*** /totvs/appserver/dbapi.so Build 20240224-20250203 RELEASE (API Version: 24.1.0.2)
+2025-03-19T15:00:12.505314+00:00 242|
+[ERROR][SERVER] ###### read: fail to open: /totvs/appserver/language.ini error: 2 try: 0
+2025-03-19T15:00:12.506163+00:00 242|
+[FATAL][SERVER] [19/03/2025 15:00:12] Failed to read status of inifile [/totvs/appserver/language.ini][2][No such file or directory]2025-03-19T15:00:12.507484+00:00 242|
+[ERROR][SERVER] ###### read: fail to open: /totvs/appserver/language.ini error: 2 try: 0
+2025-03-19T15:00:12.514641+00:00 242|
+[ERROR][SERVER] ###### read: fail to open: /totvs/appserver/language.ini error: 2 try: 0
+2025-03-19T15:00:12.515484+00:00 242|
+[FATAL][SERVER] [19/03/2025 15:00:12] Failed to read status of inifile [/totvs/appserver/language.ini][2][No such file or directory]2025-03-19T15:00:12.516266+00:00 242|
+[ERROR][SERVER] ###### read: fail to open: /totvs/appserver/language.ini error: 2 try: 0
+2025-03-19T15:00:12.517651+00:00 242|
+[ERROR][SERVER] ###### read: fail to open: /totvs/appserver/language.ini error: 2 try: 0
+2025-03-19T15:00:13.076859+00:00 242|
+Loading Ctree Local [/totvs/appserver/libctreestd.so]
+2025-03-19T15:01:05.424305+00:00 263|FWMenuToDB Error:
+2025-03-19T15:01:05.425910+00:00 263|Arquivo de menu não encontrado : /SYSTEM/SIGAAPT.XNU
+/SYSTEM/SIGAAPT.XNU
+64|Processos Trabalhistas|.T.|MENU255                                                                                                                                                                                                                          
+2025-03-19T15:01:07.202259+00:00 277|FWMenuToDB Error:
+2025-03-19T15:01:07.203267+00:00 277|Arquivo de menu não encontrado : /SYSTEM/SIGAGE.XNU
+/SYSTEM/SIGAGE.XNU
+49|Gestão Educacional|.T.|MENU255                                                                                                                                                                                                                              
+2025-03-19T15:01:07.466924+00:00 277|FWMenuToDB Error:
+2025-03-19T15:01:07.468289+00:00 277|Arquivo de menu não encontrado : /SYSTEM/SIGAEIF.XNU
+/SYSTEM/SIGAEIF.XNU
+27|Importação - Financeiro|.T.|MENU255                                                                                                                                                                                                                         
+2025-03-19T15:01:07.778598+00:00 281|FWMenuToDB Error:
+2025-03-19T15:01:07.779770+00:00 281|Arquivo de menu não encontrado : /SYSTEM/SIGABPM.XNU
+/SYSTEM/SIGABPM.XNU
+74|Business Process Management|.T.|MENU255                                                                                                                                                                                                                     
+2025-03-19T15:01:08.829628+00:00 273|FWMenuToDB Error:
+2025-03-19T15:01:08.830739+00:00 273|Arquivo de menu não encontrado : /SYSTEM/SIGATFL.XNU
+/SYSTEM/SIGATFL.XNU
+92|TOTVS Automação Fiscal|.T.|MENU255                                                                                                                                                                                                                          
+2025-03-19T15:01:09.080956+00:00 273|FWMenuToDB Error:
+2025-03-19T15:01:09.081845+00:00 273|Arquivo de menu não encontrado : /SYSTEM/SIGARPM.XNU
+/SYSTEM/SIGARPM.XNU
+15|Protheus Report Utility|.T.|MENU255                                                                                                                                                                                                                         
+2025-03-19T15:01:09.676422+00:00 285|FWMenuToDB Error:
+2025-03-19T15:01:09.677390+00:00 285|Arquivo de menu não encontrado : /SYSTEM/SIGAHSP.XNU
+/SYSTEM/SIGAHSP.XNU
+51|Gestão Hospitalar|.T.|MENU255                                                                                                                                                                                                                               
+2025-03-19T15:01:14.565895+00:00 275|FWMenuToDB Error:
+2025-03-19T15:01:14.567083+00:00 275|Arquivo de menu não encontrado : /SYSTEM/SIGAESP1.XNU
+/SYSTEM/SIGAESP1.XNU
+98|Específicos I|.T.|MENU255                                                                                                                                                                                                                                   
+2025-03-19T15:01:18.310269+00:00 277|FWMenuToDB Error:
+2025-03-19T15:01:18.311177+00:00 277|Arquivo de menu não encontrado : /SYSTEM/SIGAPRA.XNU
+/SYSTEM/SIGAPRA.XNU
+60|Portos e Recintos Alfandegários|.T.|MENU255                                                                                                                                                                                                                 
+2025-03-19T15:01:27.225653+00:00 269|FWMenuToDB Error:
+2025-03-19T15:01:27.227226+00:00 269|Arquivo de menu não encontrado : /SYSTEM/SIGAAPON.XNU
+/SYSTEM/SIGAAPON.XNU
+75|Apontamento/Ponto Eletrônico|.T.|MENU255                                                                                                                                                                                                                    
+2025-03-19T15:01:27.476055+00:00 271|FWMenuToDB Error:
+2025-03-19T15:01:27.477409+00:00 271|Arquivo de menu não encontrado : /SYSTEM/SIGALOG.XNU
+/SYSTEM/SIGALOG.XNU
+81|Monitoramento de Desempenho Logístico|.T.|MENU255                                                                                                                                                                                                           
+2025-03-19T15:01:28.440887+00:00 281|FWMenuToDB Error:
+2025-03-19T15:01:28.442389+00:00 281|Arquivo de menu não encontrado : /SYSTEM/SIGALVE.XNU
+/SYSTEM/SIGALVE.XNU
+71|Locação de Veículos|.T.|MENU255                                                                                                                                                                                                                             
+2025-03-19T15:01:30.986223+00:00 267|FWMenuToDB Error:
+2025-03-19T15:01:30.987466+00:00 267|Arquivo de menu não encontrado : /SYSTEM/SIGAVDOC.XNU
+/SYSTEM/SIGAVDOC.XNU
+52|Viewer|.T.|MENU255                                                                                                                                                                                                                                          
+2025-03-19T15:01:31.116259+00:00 267|FWMenuToDB Error:
+2025-03-19T15:01:31.118062+00:00 267|Arquivo de menu não encontrado : /SYSTEM/SIGAACV.XNU
+/SYSTEM/SIGAACV.XNU
+80|Acessibilidade Visual|.T.|MENU255                                                                                                                                                                                                                           
+2025-03-19T15:01:31.240225+00:00 267|FWMenuToDB Error:
+2025-03-19T15:01:31.241516+00:00 267|Arquivo de menu não encontrado : /SYSTEM/SIGAGSP.XNU
+/SYSTEM/SIGAGSP.XNU
+54|Gestão de Prefeituras|.T.|MENU255                                                                                                                                                                                                                           
+2025-03-19T15:01:32.467671+00:00 285|FWMenuToDB Error:
+2025-03-19T15:01:32.469201+00:00 285|Arquivo de menu não encontrado : /SYSTEM/SIGAFAS.XNU
+/SYSTEM/SIGAFAS.XNU
+8|Faturamento Serviço|.T.|MENU255                                                                                                                                                                                                                              
+2025-03-19T15:01:32.598669+00:00 285|FWMenuToDB Error:
+2025-03-19T15:01:32.599873+00:00 285|Arquivo de menu não encontrado : /SYSTEM/SIGAAFV.XNU
+/SYSTEM/SIGAAFV.XNU
+32|Administração de Força de Vendas|.T.|MENU255                                                                                                                                                                                                                
+2025-03-19T15:01:33.805032+00:00 275|FWMenuToDB Error:
+2025-03-19T15:01:33.806743+00:00 275|Arquivo de menu não encontrado : /SYSTEM/SIGAICE.XNU
+/SYSTEM/SIGAICE.XNU
+66|Gestão de Riscos|.T.|MENU255                                                                                                                                                                                                                                
+2025-03-19T15:01:51.537599+00:00 281|FWMenuToDB Error:
+2025-03-19T15:01:51.538773+00:00 281|Arquivo de menu não encontrado : /SYSTEM/SIGAGAC.XNU
+/SYSTEM/SIGAGAC.XNU
+59|Gestão de Acervos|.T.|MENU255                                                                                                                                                                                                                               
+2025-03-19T15:02:00.842068+00:00 267|FWMenuToDB Error:
+2025-03-19T15:02:00.843878+00:00 267|arquivo vazio
+Modulo 90 | SIGAGCV
+/SYSTEM/SIGAGCV.XNU
+90|Gestão Comercial do Varejo|.T.|MENU255                                                                                                                                                                                                                      
+2025-03-19T15:02:01.093616+00:00 267|FWMenuToDB Error:
+2025-03-19T15:02:01.098293+00:00 267|Arquivo de menu não encontrado : /SYSTEM/SIGAQCP.XNU
+/SYSTEM/SIGAQCP.XNU
+38|Controle Estatístico de Processos|.T.|MENU255                                                                                                                                                                                                               
+2025-03-19T15:02:04.387717+00:00 269|FWMenuToDB Error:
+2025-03-19T15:02:04.389110+00:00 269|Arquivo de menu não encontrado : /SYSTEM/SIGAARM.XNU
+/SYSTEM/SIGAARM.XNU
+68|Gestão de Armazens Gerais|.T.|MENU255                                                                                                                                                                                                                       
+2025-03-19T15:02:29.085110+00:00 271|FWMenuToDB Error:
+2025-03-19T15:02:29.086685+00:00 271|Arquivo de menu não encontrado : /SYSTEM/SIGAHHG.XNU
+/SYSTEM/SIGAHHG.XNU
+62|HRP Ferramentas de Informação|.T.|MENU255                                                                                                                                                                                                                   
+2025-03-19T15:02:29.315112+00:00 271|FWMenuToDB Error:
+2025-03-19T15:02:29.316310+00:00 271|Arquivo de menu não encontrado : /SYSTEM/SIGAHPL.XNU
+/SYSTEM/SIGAHPL.XNU
+63|HRP Planejamento e Desenvolvimento|.T.|MENU255                                                                                                                                                                                                              
+2025-03-19T15:02:45.849934+00:00 267|FWMenuToDB Error:
+2025-03-19T15:02:45.851296+00:00 267|Arquivo de menu não encontrado : /SYSTEM/SIGACON.XNU
+/SYSTEM/SIGACON.XNU
+3|Contabilidade |.T.|MENU255                                                                                                                                                                                                                                   
+2025-03-19T15:03:15.622059+00:00 277|FWMenuToDB Error:
+2025-03-19T15:03:15.623582+00:00 277|Arquivo de menu não encontrado : /SYSTEM/SIGAESP2.XNU
+/SYSTEM/SIGAESP2.XNU
+96|Específicos II|.T.|MENU255                                                                                                                                                                                                                                  
+2025-03-19T15:03:32.151462+00:00 263|FWMenuToDB Error:
+2025-03-19T15:03:32.152538+00:00 263|Arquivo de menu não encontrado : /SYSTEM/SIGAPDS.XNU
+/SYSTEM/SIGAPDS.XNU
+91|Promoção da Saúde|.T.|MENU255                                                                                                                                                                                                                               
+2025-03-19T15:03:32.402727+00:00 263|FWMenuToDB Error:
+2025-03-19T15:03:32.404775+00:00 263|Arquivo de menu não encontrado : /SYSTEM/SIGATUR.XNU
+/SYSTEM/SIGATUR.XNU
+89|Gestão de Viagens e Turismo|.T.|MENU255                                                                                                                                                                                                                     
+2025-03-19T15:03:34.733029+00:00 271|FWMenuToDB Error:
+2025-03-19T15:03:34.734505+00:00 271|Arquivo de menu não encontrado : /SYSTEM/SIGAGAV.XNU
+/SYSTEM/SIGAGAV.XNU
+65|Gestão Advocatícia|.T.|MENU255                                                                                                                                                                                                                              
+2025-03-19T15:03:51.851852+00:00 271|FWMenuToDB Error:
+2025-03-19T15:03:51.853180+00:00 271|Arquivo de menu não encontrado : /SYSTEM/SIGAVPON.XNU
+/SYSTEM/SIGAVPON.XNU
+83|Monitoramento de Apontamentos|.T.|MENU255                                                                                                                                                                                                                   
+2025-03-19T15:04:11.804952+00:00 273|FWMenuToDB Error:
+2025-03-19T15:04:11.806186+00:00 273|Arquivo de menu não encontrado : /SYSTEM/SIGAREP.XNU
+/SYSTEM/SIGAREP.XNU
+48|Réplica|.T.|MENU255                                                                                                                                                                                                                                         
+2025-03-19T15:05:00.008568+00:00 255|Parando monitor ID[ FWIPCMONITOR_MIG_IPC_BASELINUX_0FB2941C8146_255_]...-15:05:00
+2025-03-19T15:05:10.692630+00:00 255|Monitor finalizado ID [FWIPCMONITOR_MIG_IPC_BASELINUX_0FB2941C8146_255_]...-15:05:10
+2025-03-19T15:05:13.976143+00:00 255|Migração finalizada - 15:05:13
+2025-03-19T15:05:13.977225+00:00 255|Tempo total: 290.587
+2025-03-19T15:08:34.492218+00:00 242|
+[INFO ][SERVER] [Thread 242] INACTIVETIMEOUT changed from [0] seconds to [0] seconds.
+2025-03-19T15:08:34.507237+00:00 242|
+[INFO ][SERVER] [Thread 242] [19/03/2025 15:08:34] Thread finished (, 0fb2941c8146) 
+2025-03-19T15:08:42.922805+00:00 381|
+[WARN ][SERVER] [Thread 381] OPEN EMPTY RPO - Environment baselinux - File /totvs/protheus_data/apo/custom.rpo
+2025-03-19T15:08:42.926973+00:00 381|
+[INFO ][SERVER] [19/03/2025 15:08:42] Starting Program SIGACFG Thread 381 (,0fb2941c8146) 
+(/totvs/protheus_data/apo/tttm120.rpo, /totvs/appserver/tlpp.rpo, /totvs/protheus_data/apo/custom.rpo)
+2025-03-19T15:08:42.946999+00:00 381|
+*** Loading /totvs/appserver/dbapi.so
+2025-03-19T15:08:42.948552+00:00 381|*** /totvs/appserver/dbapi.so Build 20240224-20250203 RELEASE (API Version: 24.1.0.2)
+2025-03-19T15:14:57.764838+00:00 482|[INFO ][TPH][19/03/2025-15:14:57][Processo TPH não iniciado. Não foi possível identificar o número desta instalação no License Server. Entre em contato com o administrador do sistema para verificar esta validação.]
+2025-03-19T15:14:58.455386+00:00 486|[INFO ][TPH][19/03/2025-15:14:58][Diagnostic Center - Starting...]
+2025-03-19T15:14:58.732644+00:00 486|[INFO ][TPH][19/03/2025-15:14:58][Diagnostic Center - Finished...: 0.32 seconds.]
+2025-03-19T15:25:24.261159+00:00 381|
+[INFO ][SERVER] [Thread 381] [19/03/2025 15:25:24] Thread finished (, 0fb2941c8146) 
+2025-03-19T15:25:29.423567+00:00 668|
+[INFO ][SERVER] [19/03/2025 15:25:29] Starting Program SIGAADV Thread 668 (,0fb2941c8146) 
+(/totvs/protheus_data/apo/tttm120.rpo, /totvs/appserver/tlpp.rpo, /totvs/protheus_data/apo/custom.rpo)
+2025-03-19T15:27:05.270694+00:00 189|Wait....
+2025-03-19T15:27:05.272573+00:00 189|
+[INFO ][SERVER] [Thread 189] Application Server Abort Signal (2) Received...
+2025-03-19T15:27:05.273984+00:00 189|
+[INFO ][SERVER] [Thread 189] Application Server (UNIX version) in shutdown....
+2025-03-19T15:27:05.275379+00:00 189|
+[INFO ][SERVER] [Thread 189] * ---------------------------------------------------------------------- *
+2025-03-19T15:27:05.276319+00:00 189|
+[INFO ][SERVER] [Thread 189] [socksrvint.cpp:10660] Stopping all HTTP servers
+2025-03-19T15:27:05.277945+00:00 189|
+[INFO ][SERVER] [Thread 189] Thread Pool WEBMONITOR_THREADPOOL stopping (3F3AB107BE7F43C7BAB2A43BF64465BF)
+2025-03-19T15:27:05.279287+00:00 189|
+[INFO ][SERVER] [Thread 189] Deleting jobs from Threadpool WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T15:27:05.280889+00:00 189|
+[INFO ][SERVER] [Thread 189] Thread Pool WEBMONITOR_THREADPOOL stopped
+2025-03-19T15:27:05.282382+00:00 189|
+[INFO ][SERVER] [Thread 189] Thread Pool APP_MONITOR_THREADPOOL stopping (F7EA46D340DA490FAB1AE6EE9E079700)
+2025-03-19T15:27:05.283781+00:00 189|
+[INFO ][SERVER] [Thread 189] Deleting jobs from Threadpool APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T15:27:05.285452+00:00 189|
+[INFO ][SERVER] [Thread 189] Thread Pool APP_MONITOR_THREADPOOL stopped
+2025-03-19T15:27:05.286969+00:00 189|
+[ERROR][SERVER] [Thread 189] deleting thread Pool, WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T15:27:05.287861+00:00 189|
+[ERROR][SERVER] [Thread 189] deleting thread Pool, APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T15:27:05.289489+00:00 189|
+[INFO ][SERVER] [Thread 189] stopping HTTP server on ID 1
+2025-03-19T15:27:05.290950+00:00 189|
+[INFO ][SERVER] [Thread 189] stopping HTTP server on ID 2
+2025-03-19T15:27:05.292464+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP server stopped on ID 1
+2025-03-19T15:27:05.293878+00:00 189|
+[ERROR][SERVER] [Thread 189] deleting server, WEBMONITOR
+2025-03-19T15:27:05.295691+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP server stopped on ID 2
+2025-03-19T15:27:05.297045+00:00 189|
+[ERROR][SERVER] [Thread 189] deleting server, APP_MONITOR_SERVER
+2025-03-19T15:27:05.299257+00:00 189|
+[INFO ][SERVER] [Thread 189] HTTP servers Stopped
+2025-03-19T15:27:05.301888+00:00 189|
+[INFO ][SERVER] [Thread 189] [socksrvint.cpp:10841] All HTTP servers have been stopped
+2025-03-19T15:27:05.303347+00:00 189|
+[INFO ][SERVER] [Thread 189] * ---------------------------------------------------------------------- *
+
+2025-03-19T15:27:05.304889+00:00 189|
+[INFO ][SERVER] [Thread 189][19/03/2025 15:27:05] Application SHUTDOWN in progress...
+2025-03-19T15:27:05.350712+00:00 189|
+-------------- Build Version --------------
+Application Server: 24.3.0.4
+
+
+-------------- APO Map List ---------------
+Users [02] MAP [0.00 MB.] APO [/totvs/appserver/tlpp.rpo] SYM [0.01 MB.] CODECACHE [0.01 MB.]
+Users [02] MAP [0.00 MB.] APO [/totvs/protheus_data/apo/custom.rpo] SYM [0.00 MB.] CODECACHE [0.00 MB.]
+Users [02] MAP [0.00 MB.] APO [/totvs/protheus_data/apo/tttm120.rpo] SYM [3.02 MB.] CODECACHE [3.98 MB.]
+
+----------- Total Thread Count ------------
+                 Total Threads ... 19
+                        Thread ... 4
+                       WThread ... 10
+                 RmtSockThread ... 1
+                     JobThread ... 1
+                    SockServer ... 1
+                     RPCThread ... 2
+
+----------- Detailed Thread List ----------
+[       668][       0.000 Kb]		0fb2941c8146	0fb2941c8146 : 1234	SIGAADV	baselinux	Wed Mar 19 15:25:28 2025	00:01:37	0	6990	105	[Emp :99/01Logado:Administrador             SIGAATF obj:Janela Principal]
+[       484][       0.000 Kb]	_	0fb2941c8146		TPHUPDOBJ	baselinux	Wed Mar 19 15:14:54 2025	00:12:11	244979	6602	78	[|Emp :01/99Logado:             SIGAFAT Obj :]
+
+[     TOTAL][       0.000 Kb][Num: 2         ]
+
+----------- Detailed Process List ---- (*1)
+[       193][       0.000 Kb][         Thread][tLicenseManagerThread][]
+[       194][       0.000 Kb][         Thread][ tMemoryMonitor][]
+[       195][       0.000 Kb][         Thread][    tJobManager][]
+[       214][       0.000 Kb][         Thread][tMultiPortServer][]
+[       223][       0.000 Kb][     SockServer][    tMainServer][]
+[       712][       0.000 Kb][        WThread][   tWThreadBase][]
+[       717][       0.000 Kb][        WThread][   tWThreadBase][]
+[       714][       0.000 Kb][        WThread][   tWThreadBase][]
+[       711][       0.000 Kb][        WThread][   tWThreadBase][]
+[       719][       0.000 Kb][        WThread][   tWThreadBase][]
+[       720][       0.000 Kb][        WThread][   tWThreadBase][]
+[       718][       0.000 Kb][        WThread][   tWThreadBase][]
+[       716][       0.000 Kb][        WThread][   tWThreadBase][]
+[       715][       0.000 Kb][        WThread][   tWThreadBase][]
+[       713][       0.000 Kb][        WThread][   tWThreadBase][]
+[       683][       0.000 Kb][      RPCThread][     tRPCThread][]
+[       485][       0.000 Kb][      RPCThread][     tRPCThread][]
+
+[     TOTAL][       0.000 Kb][Num: 17        ][               ][]
+
+----------- Global List Info --------------
+                 IMAP Glb List ...        0.000 kB. Count 0
+             Variable Glb List ...     1440.620 kB. Count 2968
+              Session Glb List ...        0.000 kB. Count 0
+                   SymTab List ...     2440.072 kB. Count 141015 Hits 860488
+                  TCP Glb List ... Count 0
+
+----------- Global Stack Info --------------
+
+----------- Global Queue Info --------------
+
+----------- Global File Queue Info --------------
+
+----------- Global Table and Hash Map Info --------------
+                Global Table X ...        0.556 Kb.	Keys X: 13
+                Global Table A ...        0.000 Kb.	Keys A: 0
+        Total (X + A + extras) ...     1610.556 Kb.	Num Tables: 23
+
+                      Hash Map ...        0.000 Kb.
+
+----------- Multi Protocol Port - Allocation --------------
+------
+
+*** Message Pool Info ***
+Free             :0
+Posted In Accept :1
+Posted           :0
+Handled          :0
+Total            :1
+Buffer Memory    :20480bytes
+------
+
+*** Handle Pool Info ***
+Listen     = 1
+Accepting  = 1
+Total      = 2
+------
+                 IntClass List ...        0.000 Kb. Count 117
+                  IntFunc List ...        0.000 Kb. Count 2136
+                  APPMAP Array ...        0.000 Kb. Count 3
+
+
+----------- SmartHeap Pools Info ----------
+                   pooltString ...     7424.00 kB. Count 222372 Ok
+                  poolrContent ...    11840.00 kB. Count 239990 Ok
+                 pooltInstrVar ...    10048.00 kB. Count 121823 Ok
+                    pooltConst ...     3136.00 kB. Count  34285 Ok
+        poolrContentTypeSimple ...      448.00 kB. Count    566 Ok
+                 pooltNamedVar ...     5184.00 kB. Count  20392 Ok
+                      pooltSum ...     2240.00 kB. Count  18970 Ok
+                  pooltCompare ...     1152.00 kB. Count   6616 Ok
+                 pooltLocalEnv ...     1280.00 kB. Count   2148 Ok
+        pooltInterFunctionCall ...     1856.00 kB. Count  11265 Ok
+       pooltDirectFunctionCall ...     1408.00 kB. Count  10069 Ok
+                   pooltApoReg ...    19456.00 kB. Count 136218 Ok
+               pooltAssignBase ...     1984.00 kB. Count  16027 Ok
+                pooltCodeBlock ...     1984.00 kB. Count   6987 Ok
+             pooltCodeBlockEnv ...      512.00 kB. Count    315 Ok
+             pooltCodeBlockRef ...     1152.00 kB. Count   1710 Ok
+           pooltCodeBlockInstr ...      512.00 kB. Count   1710 Ok
+                pooltClassData ...     1024.00 kB. Count   2487 Ok
+          pooltPrgFunctXRefEle ...     8192.00 kB. Count 253628 Ok
+               pooltIdentifier ...     1024.00 kB. Count   7700 Ok
+          pooltNamedVarXVarRef ...      704.00 kB. Count   6300 Ok
+               pooltParmDefDet ...     1152.00 kB. Count  15816 Ok
+                  pooltVarList ...     2432.00 kB. Count  21262 Ok
+                 pooltStatList ...     1152.00 kB. Count   5369 Ok
+                 pooltParmList ...     3904.00 kB. Count  27553 Ok
+             pooltArrayElement ...      512.00 kB. Count   1437 Ok
+                   pooltBaseIf ...     1408.00 kB. Count   8586 Ok
+                   pooltMethod ...      768.00 kB. Count   2139 Ok
+               pooltFindObject ...     1216.00 kB. Count   6534 Ok
+                  pooltSelfVar ...      768.00 kB. Count   1460 Ok
+                pooltClassProp ...      448.00 kB. Count    179 Ok
+            pooltClassInstance ...      512.00 kB. Count    542 Ok
+               pooltMethodCall ...     1664.00 kB. Count   4418 Ok
+                   pooltReturn ...      512.00 kB. Count   2107 Ok
+                pooltStaticEnv ...     1536.00 kB. Count   2484 Ok
+               pooltPrivateEnv ...     1216.00 kB. Count   2035 Ok
+           pooltSrcSafeXRefEle ...     1408.00 kB. Count  24900 Ok
+                  poolMemLists ...    18944.00 kB. Count 146397 Ok
+                 poolMemStrRef ...    53440.00 kB. Count 217751 Ok
+                 poolMemStream ...     3200.00 kB. Count   3447 Ok
+           Default Memory Pool ...   186176.00 kB. Count 534997 Ok
+
+           TOTAL POOLED MEMORY ...   366080.00 kB.
+
+
+----------- OS Memory Summary -------------
+MemTotal:       16289852 kB		MemFree:          749068 kB		
+Active:          7001052 kB		Inactive:        7156676 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952252 kB		
+
+----------- APP Memory Summary ------------
+        Server Memory Capacity ...    32768.000 MB.
+      Service Addressed Memory ...     4895.914 MB.
+       Service Resident Memory ...      504.453 MB.
+
+
+ (Turn on DebugThreadUsedMemory to see more detailed information of allocation)
+2025-03-19T15:27:05.352113+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Stopping Threads...
+2025-03-19T15:27:05.353577+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 14 Live Threads 14
+2025-03-19T15:27:05.369376+00:00 194|
+[INFO ][SERVER] [Thread 194] Memory Monitor END
+2025-03-19T15:27:05.854924+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 6
+2025-03-19T15:27:06.356701+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:06.813896+00:00 214|
+[INFO ][SERVER] [MPPORT] quitting multi protocol port server
+2025-03-19T15:27:06.815376+00:00 214|[VDRPORT] 250319_152706 77428940 APP0376 W stopping context manager...
+2025-03-19T15:27:06.816713+00:00 214|
+[INFO ][SERVER] [MPPORT] stopped multi protocol port server ret=0
+2025-03-19T15:27:06.858383+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:07.359807+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:07.861364+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:08.363143+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:08.864886+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:09.196452+00:00 668|
+[ERROR][SERVER] [Thread 668] ReceiveDataPack - Status not reading - 5
+2025-03-19T15:27:09.238899+00:00 668|
+[WARN ][SERVER] [THROW][Thread  668] tConnnErrorException (18:Connection interrupted by the Administrator) on /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/lib_comm/msgmanager.cpp:478
+2025-03-19T15:27:09.240450+00:00 668|
+/*-------------------------------------------------------
+THREAD ERROR ([668], , 0fb2941c8146)   19/03/2025   15:27:09
+Connection interrupted by the Administrator in file /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/lib_comm/msgmanager.cpp line 478 on MSAPP:ACTIVATE(FWAPP.PRW) 03/10/2024 14:22:33 line : 602
+
+[build: 7.00.240223P-20250220]
+* SVN Revision: 43882
+[platform: x64]
+[appversion: 24.3.0.4]
+[environment: baselinux]
+[thread: 668]
+[dbthread: 105]
+[dbversion: 24.1.0.0]
+[dbapibuild: 20240224-20250203]
+[dbapiversion: 24.1.0.2]
+[dbarch: 64]
+[dbso: LINUX]
+[rpodb: top]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] Emp :99/01Logado:Administrador             SIGAATF obj:Janela Principal]
+[threadtype: RmtSockThread]
+Called from SIGAADV(APLIB000.PRW) 03/10/2024 14:22:27 line : 80
+
+Stack : 
+Connection interrupted by the Administrator in file /usr/local/bamboo/xml-data/build-dir/TP11-OF2430X-APPSRVLIN64/lib_comm/msgmanager.cpp line 478 on MSAPP:ACTIVATE(FWAPP.PRW) 03/10/2024 14:22:33 line : 602
+
+[build: 7.00.240223P-20250220]
+* SVN Revision: 43882
+[platform: x64]
+[appversion: 24.3.0.4]
+[environment: baselinux]
+[thread: 668]
+[dbthread: 105]
+[dbversion: 24.1.0.0]
+[dbapibuild: 20240224-20250203]
+[dbapiversion: 24.1.0.2]
+[dbarch: 64]
+[dbso: LINUX]
+[rpodb: top]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] Emp :99/01Logado:Administrador             SIGAATF obj:Janela Principal]
+[threadtype: RmtSockThread]
+Called from SIGAADV(APLIB000.PRW) 03/10/2024 14:22:27 line : 80
+-------------------------------------------------------*/
+2025-03-19T15:27:09.244354+00:00 668|
+[INFO ][SERVER] [Thread 668] [19/03/2025 15:27:09] Thread finished (, 0fb2941c8146) 
+2025-03-19T15:27:09.366299+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 2
+2025-03-19T15:27:09.868203+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:10.369699+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:10.871588+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:11.372972+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:11.874743+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:12.376357+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:12.877704+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:13.363479+00:00 484|
+/*-------------------------------------------------------
+THREAD ERROR ([484], _, 0fb2941c8146)   19/03/2025   15:27:13
+Application Server is Shutting Down. on ENGTPHGET(ENGPHCONTROLER.PRW) 02/10/2024 11:50:28
+
+[build: 7.00.240223P-20250220]
+* SVN Revision: 43882
+[platform: x64]
+[appversion: 24.3.0.4]
+[environment: baselinux]
+[thread: 484]
+[dbthread: 78]
+[dbversion: 24.1.0.0]
+[dbapibuild: 20240224-20250203]
+[dbapiversion: 24.1.0.2]
+[dbarch: 64]
+[dbso: LINUX]
+[rpodb: top]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] |Emp :01/99Logado:             SIGAFAT Obj :]
+[threadtype: JobThread]
+Called from TPHGETUPD(ENGPHJOBINTEG.PRW) 02/10/2024 11:50:28 line : 1455
+Called from TPHUPDOBJ(ENGPHJOBINTEG.PRW) 02/10/2024 11:50:28 line : 1397
+
+Stack : 
+Application Server is Shutting Down. on ENGTPHGET(ENGPHCONTROLER.PRW) 02/10/2024 11:50:28
+
+[build: 7.00.240223P-20250220]
+* SVN Revision: 43882
+[platform: x64]
+[appversion: 24.3.0.4]
+[environment: baselinux]
+[thread: 484]
+[dbthread: 78]
+[dbversion: 24.1.0.0]
+[dbapibuild: 20240224-20250203]
+[dbapiversion: 24.1.0.2]
+[dbarch: 64]
+[dbso: LINUX]
+[rpodb: top]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] |Emp :01/99Logado:             SIGAFAT Obj :]
+[threadtype: JobThread]
+Called from TPHGETUPD(ENGPHJOBINTEG.PRW) 02/10/2024 11:50:28 line : 1455
+Called from TPHUPDOBJ(ENGPHJOBINTEG.PRW) 02/10/2024 11:50:28 line : 1397
+-------------------------------------------------------*/
+2025-03-19T15:27:13.379441+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-19T15:27:13.880911+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Notified finalization for 0 Live Threads 0
+2025-03-19T15:27:14.382393+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority 20] Stopped Successfully
+2025-03-19T15:27:14.384030+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Stopping All Other Threads...
+2025-03-19T15:27:14.385973+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T15:27:14.887211+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:27:15.388850+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:27:15.890774+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:27:16.392048+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:27:16.893932+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Notified finalization for 2 Live Threads 0
+2025-03-19T15:27:17.395783+00:00 189|
+[INFO ][SERVER] [Thread 189][Thread Priority XX] Stopped Successfully
+2025-03-19T15:27:17.397279+00:00 189|
+[INFO ][SERVER] [Thread 189] All Threads Stopped Successfully 
+2025-03-19T15:27:17.398395+00:00 189|
+[INFO ][SSL] SSL global finalization
+2025-03-19T15:27:45.482447+00:00 17|
+[INFO ][SERVER] BTMonitor start time: 1742397952.482443 sec
+2025-03-19T15:27:45.484253+00:00 17|
+[INFO ][SERVER] Loading translate file (/totvs/appserver/appserver_en_en). 
+
+2025-03-19T15:27:45.486013+00:00 17|
+[WARN ][SERVER] [Thread 17] Monitored Calls - No records found.
+2025-03-19T15:27:45.487646+00:00 17|Starting (totvs | appserver 12)...
+Please wait...
+2025-03-19T15:27:45.489376+00:00 17|Operating System - maximum open files: 32767
+2025-03-19T15:27:45.490407+00:00 17|Current process  - maximum open files: 1048576
+2025-03-19T15:27:45.491496+00:00 17|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2025-03-19T15:27:45.492810+00:00 17|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2025-03-19T15:27:45.494097+00:00 17|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2025-03-19T15:27:45.495108+00:00 17|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2025-03-19T15:27:45.496126+00:00 17|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2025-03-19T15:27:45.497407+00:00 17|*** DEFAULT SOCKET BIND IS IPV4 
+2025-03-19T15:27:45.498704+00:00 17|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2025-03-19T15:27:45.499855+00:00 17|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2025-03-19T15:27:45.500909+00:00 17|
+2025-03-19T15:27:45.503683+00:00 17|
+---------------- OS System Info -----------------------------------------------
+Linux Distribution: Oracle Linux Server 8.10
+GLIBC Version: 2.28
+Kernel Version: Linux version 6.8.0-52-generic (buildd@lcy02-amd64-046) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:25 UTC 2025
+Version ID: 8.10
+ID: ol
+Version Codename: 
+Home page: https://linux.oracle.com/
+Support URL: 
+Error: Power scheme information is unavailable.
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+MemTotal:       16289852 kB		MemFree:         1160328 kB		
+Active:          6653024 kB		Inactive:        7107300 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952252 kB		
+-------------------------------------------------------------------------------
+
+
+---------------- OS Environment Limits ----------------------------------------
+Maximum processes .......:  UNLIMITED	Maximum open files ......:  1048576
+CPU time in seconds .....:  UNLIMITED	Maximum core file size ..:  UNLIMITED
+Maximum filesize ........:  UNLIMITED	Maximum data size .......:  UNLIMITED
+Maximum resident size ...:  UNLIMITED	Maximum locked memory ...:  8.00 MB.
+Address Space (v) limit .:  UNLIMITED	Maximum stack size ......:  8.00 MB.
+*** WARNING : Maximum stack size TOO HIGH. Adjust ulimit -s to 1024 (1.0 Mb).
+2025-03-19T15:27:45.606116+00:00 17|
+[INFO ][SERVER] [Thread 17] APP Virtual Address Allocation Limit .... 32768.00 MB.
+2025-03-19T15:27:45.607399+00:00 17|
+[INFO ][SERVER] [Thread 17] Memory Monitor Virtual Address LIMIT .... 32768.00  MB.
+2025-03-19T15:27:45.620467+00:00 22|
+[WARN ][SERVER] [POWERSCHEMES] [Thread 22] [19/03/2025 15:27:45] 
+The current power scheme in cpu 0 (1/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 1 (2/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 2 (3/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 3 (4/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 4 (5/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 5 (6/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 6 (7/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 7 (8/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 8 (9/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 9 (10/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 10 (11/12) is 'schedutil' - 'performance' is recommended.
+The current power scheme in cpu 11 (12/12) is 'schedutil' - 'performance' is recommended.
+2025-03-19T15:27:45.708714+00:00 17|
+[INFO ][SSL] SSL global initialization
+2025-03-19T15:27:45.710354+00:00 17|
+[INFO ][SSL] OpenSSL 3.0.13 30 Jan 2024
+2025-03-19T15:27:45.812621+00:00 17|
+[INFO ][SERVER] [WEBMONITOR] - Starting Appserver WebMonitor
+2025-03-19T15:27:46.042503+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP server WEBMONITOR, port: 45131, started on ID: 1
+2025-03-19T15:27:46.044208+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP Server - WEBMONITOR, started on port:  45131.
+2025-03-19T15:27:46.055625+00:00 17|
+[INFO ][SERVER] Server not found, ID: '/webmonitor'
+2025-03-19T15:27:46.057707+00:00 17|
+[INFO ][SERVER] [WEBMONITOR] - Started Appserver WebMonitor on port 45131 on URI /webmonitor
+2025-03-19T15:27:46.058849+00:00 17|
+[INFO ][SERVER] [APPMON] - Starting Application Monitor
+2025-03-19T15:27:46.173945+00:00 17|[APPMON] starting on port 32033
+2025-03-19T15:27:46.788551+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP server APP_MONITOR_SERVER, port: 32033, started on ID: 2
+2025-03-19T15:27:46.790453+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP Server - APP_MONITOR_SERVER, started on port:  32033.
+2025-03-19T15:27:46.792353+00:00 17|[APPMON] Started on port: 32033 on /api
+2025-03-19T15:27:46.803557+00:00 17|
+[INFO ][SERVER] Server not found, ID: '/api'
+2025-03-19T15:27:46.806700+00:00 17|
+[INFO ][SERVER] [APPMON] - Started Application Monitor on port 32033 on URI /api
+2025-03-19T15:27:46.808251+00:00 17|
+[INFO ][SERVER] *** N_MAX_FILES=1048576 FD_SETSIZE=131073
+2025-03-19T15:27:46.809541+00:00 17|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 37007
+2025-03-19T15:27:46.810691+00:00 17|
+[INFO ][SERVER] [MPPORT] Multi Protocol Port using: port 1234
+2025-03-19T15:27:46.811983+00:00 17|
+[WARN ][SERVER] [MPPORT] Incomplete SSL values. Ignoring Method 'TLSV1.2', using default
+2025-03-19T15:27:46.813267+00:00 17|
+[INFO ][SERVER] [MPPORT] Multi Protocol using default SSL: (totvs_certificate.crt | totvs_certificate_key.pem | -)
+2025-03-19T15:27:46.814279+00:00 17|
+[INFO ][SERVER] [MPPORT] Default Rest environment not configured. To enable: [general]app_environment=environment
+2025-03-19T15:27:46.816549+00:00 42|
+[INFO ][SERVER] [MPPORT] Starting Multi Protocol Port Server
+2025-03-19T15:27:46.825401+00:00 42|[VDRPORT] * 
+2025-03-19T15:27:46.827225+00:00 42|[VDRPORT] * 
+2025-03-19T15:27:46.828303+00:00 42|[VDRPORT] 250319_152746 7C09AD20 SGB0725 N balance table with 4 servers
+2025-03-19T15:27:46.916666+00:00 17|
+[INFO ][SERVER] [MPPORT] [Thread 17] Application Server started on internal port
+2025-03-19T15:27:47.264531+00:00 17|
+[INFO ][SERVER] [Thread 17] WebApp started on http port  8080.
+2025-03-19T15:27:47.267091+00:00 17|
+----------- Services Start Time  ----------
+2025-03-19T15:27:47.268123+00:00 17|         JOB MANAGER	0.101 s	
+2025-03-19T15:27:47.269422+00:00 17|          WebMonitor	0.246 s	
+2025-03-19T15:27:47.270699+00:00 17|         APP Monitor	0.749 s	
+2025-03-19T15:27:47.271761+00:00 17|                 TCP	0.213 s	
+2025-03-19T15:27:47.272809+00:00 17|         LOCK SERVER	0.000 s	
+2025-03-19T15:27:47.274112+00:00 17|              WEBAPP	0.246 s	
+2025-03-19T15:27:47.275393+00:00 17|  HTTPSERVER - VADER	0.000 s	
+2025-03-19T15:27:47.276400+00:00 17|
+--- Application Server Start Time: 1.555 s
+2025-03-19T15:27:47.277391+00:00 17|
+[19/03/2025 15:27:47] Totvs Application Server is running
+2025-03-19T15:27:47.716807+00:00 23|
+Starting Job [0B75DA54A87B4BC684CD3087D947F9E2WEBMONITOR_THREADPOOL]
+2025-03-19T15:27:47.718443+00:00 23|
+Starting Job [4BD7D0A9D22D4E9480AC87855D514316APP_MONITOR_THREADPOOL]
+2025-03-19T15:27:59.141624+00:00 72|
+[WARN ][SERVER] [Thread 72] OPEN EMPTY RPO - Environment baselinux - File /totvs/protheus_data/apo/custom.rpo
+2025-03-19T15:27:59.146449+00:00 72|
+[INFO ][SERVER] [19/03/2025 15:27:59] Starting Program SIGAADV Thread 72 (,8119589a4d32) 
+(/totvs/protheus_data/apo/tttm120.rpo, /totvs/appserver/tlpp.rpo, /totvs/protheus_data/apo/custom.rpo)
+2025-03-19T15:27:59.171675+00:00 72|
+*** Loading /totvs/appserver/dbapi.so
+2025-03-19T15:27:59.173448+00:00 72|*** /totvs/appserver/dbapi.so Build 20240224-20250203 RELEASE (API Version: 24.1.0.2)
+2025-03-19T15:28:00.190497+00:00 72|
+Loading Ctree Local [/totvs/appserver/libctreestd.so]
+2025-03-19T15:28:22.894168+00:00 72|
+[INFO ][SERVER] [Thread 72] INACTIVETIMEOUT changed from [0] seconds to [0] seconds.
+2025-03-19T15:28:22.902477+00:00 72|
+[INFO ][SERVER] [Thread 72] [19/03/2025 15:28:22] Thread finished (, 8119589a4d32) 
+2025-03-19T15:28:26.448909+00:00 17|Wait....
+2025-03-19T15:28:26.450893+00:00 17|
+[INFO ][SERVER] [Thread 17] Application Server Abort Signal (2) Received...
+2025-03-19T15:28:26.452149+00:00 17|
+[INFO ][SERVER] [Thread 17] Application Server (UNIX version) in shutdown....
+2025-03-19T15:28:26.453527+00:00 17|
+[INFO ][SERVER] [Thread 17] * ---------------------------------------------------------------------- *
+2025-03-19T15:28:26.455059+00:00 17|
+[INFO ][SERVER] [Thread 17] [socksrvint.cpp:10660] Stopping all HTTP servers
+2025-03-19T15:28:26.456638+00:00 17|
+[INFO ][SERVER] [Thread 17] Thread Pool WEBMONITOR_THREADPOOL stopping (0B75DA54A87B4BC684CD3087D947F9E2)
+2025-03-19T15:28:26.458437+00:00 17|
+[INFO ][SERVER] [Thread 17] Deleting jobs from Threadpool WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T15:28:26.459821+00:00 17|
+[INFO ][SERVER] [Thread 17] Thread Pool WEBMONITOR_THREADPOOL stopped
+2025-03-19T15:28:26.461407+00:00 17|
+[INFO ][SERVER] [Thread 17] Thread Pool APP_MONITOR_THREADPOOL stopping (4BD7D0A9D22D4E9480AC87855D514316)
+2025-03-19T15:28:26.462951+00:00 17|
+[INFO ][SERVER] [Thread 17] Deleting jobs from Threadpool APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T15:28:26.464366+00:00 17|
+[INFO ][SERVER] [Thread 17] Thread Pool APP_MONITOR_THREADPOOL stopped
+2025-03-19T15:28:26.465508+00:00 17|
+[ERROR][SERVER] [Thread 17] deleting thread Pool, WEBMONITOR.WEBMONITOR_THREADPOOL
+2025-03-19T15:28:26.466985+00:00 17|
+[ERROR][SERVER] [Thread 17] deleting thread Pool, APP_MONITOR_SERVER.APP_MONITOR_THREADPOOL
+2025-03-19T15:28:26.468417+00:00 17|
+[INFO ][SERVER] [Thread 17] stopping HTTP server on ID 1
+2025-03-19T15:28:26.469791+00:00 17|
+[INFO ][SERVER] [Thread 17] stopping HTTP server on ID 2
+2025-03-19T15:28:26.471138+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP server stopped on ID 1
+2025-03-19T15:28:26.472602+00:00 17|
+[ERROR][SERVER] [Thread 17] deleting server, WEBMONITOR
+2025-03-19T15:28:26.474304+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP server stopped on ID 2
+2025-03-19T15:28:26.475631+00:00 17|
+[ERROR][SERVER] [Thread 17] deleting server, APP_MONITOR_SERVER
+2025-03-19T15:28:26.477183+00:00 17|
+[INFO ][SERVER] [Thread 17] HTTP servers Stopped
+2025-03-19T15:28:26.478598+00:00 17|
+[INFO ][SERVER] [Thread 17] [socksrvint.cpp:10841] All HTTP servers have been stopped
+2025-03-19T15:28:26.480011+00:00 17|
+[INFO ][SERVER] [Thread 17] * ---------------------------------------------------------------------- *
+
+2025-03-19T15:28:26.481161+00:00 17|
+[INFO ][SERVER] [Thread 17][19/03/2025 15:28:26] Application SHUTDOWN in progress...
+2025-03-19T15:28:26.484328+00:00 17|
+-------------- Build Version --------------
+Application Server: 24.3.0.4
+
+
+-------------- APO Map List ---------------
+*** EMPTY ***
+
+----------- Total Thread Count ------------
+                 Total Threads ... 15
+                        Thread ... 4
+                       WThread ... 10
+                    SockServer ... 1
+
+----------- Detailed Process List ---- (*1)
+[        21][       0.000 Kb][         Thread][tLicenseManagerThread][]
+[        22][       0.000 Kb][         Thread][ tMemoryMonitor][]
+[        23][       0.000 Kb][         Thread][    tJobManager][]
+[        42][       0.000 Kb][         Thread][tMultiPortServer][]
+[        51][       0.000 Kb][     SockServer][    tMainServer][]
+[        52][       0.000 Kb][        WThread][   tWThreadBase][]
+[        53][       0.000 Kb][        WThread][   tWThreadBase][]
+[        55][       0.000 Kb][        WThread][   tWThreadBase][]
+[        56][       0.000 Kb][        WThread][   tWThreadBase][]
+[        69][       0.000 Kb][        WThread][   tWThreadBase][]
+[        70][       0.000 Kb][        WThread][   tWThreadBase][]
+[        78][       0.000 Kb][        WThread][   tWThreadBase][]
+[        74][       0.000 Kb][        WThread][   tWThreadBase][]
+[        76][       0.000 Kb][        WThread][   tWThreadBase][]
+[        79][       0.000 Kb][        WThread][   tWThreadBase][]
+
+[     TOTAL][       0.000 Kb][Num: 15        ][               ][]
+
+----------- Global List Info --------------
+                 IMAP Glb List ...        0.000 kB. Count 0
+             Variable Glb List ...        0.000 kB. Count 0
+              Session Glb List ...        0.000 kB. Count 0
+                   SymTab List ...     2421.982 kB. Count 139172 Hits 316613
+                  TCP Glb List ... Count 0
+
+----------- Global Stack Info --------------
+
+----------- Global Queue Info --------------
+
+----------- Global File Queue Info --------------
+
+----------- Global Table and Hash Map Info --------------
+                Global Table X ...        0.556 Kb.	Keys X: 13
+                Global Table A ...        0.000 Kb.	Keys A: 0
+        Total (X + A + extras) ...      210.556 Kb.	Num Tables: 3
+
+                      Hash Map ...        0.000 Kb.
+
+----------- Multi Protocol Port - Allocation --------------
+------
+
+*** Message Pool Info ***
+Free             :0
+Posted In Accept :1
+Posted           :0
+Handled          :0
+Total            :1
+Buffer Memory    :20480bytes
+------
+
+*** Handle Pool Info ***
+Listen     = 1
+Accepting  = 1
+Total      = 2
+------
+                 IntClass List ...        0.000 Kb. Count 117
+                  IntFunc List ...        0.000 Kb. Count 2136
+                  APPMAP Array ...        0.000 Kb. Count 0
+
+
+----------- SmartHeap Pools Info ----------
+                   pooltString ...      448.00 kB. Count      8 Ok
+                  poolrContent ...      384.00 kB. Count     28 Ok
+                 pooltInstrVar ...      320.00 kB. Count     28 Ok
+                pooltClassData ...      384.00 kB. Count    430 Ok
+                  pooltVarList ...      256.00 kB. Count      8 Ok
+                   pooltMethod ...      320.00 kB. Count    847 Ok
+                  poolMemLists ...      896.00 kB. Count    237 Ok
+                 poolMemStrRef ...     1856.00 kB. Count   2545 Ok
+                 poolMemStream ...      512.00 kB. Count      2 Ok
+           Default Memory Pool ...    15936.00 kB. Count  14152 Ok
+
+           TOTAL POOLED MEMORY ...    28032.00 kB.
+
+
+----------- OS Memory Summary -------------
+MemTotal:       16289852 kB		MemFree:          943836 kB		
+Active:          6748060 kB		Inactive:        7175408 kB		
+SwapTotal:       1953788 kB		SwapFree:        1952252 kB		
+
+----------- APP Memory Summary ------------
+        Server Memory Capacity ...    32768.000 MB.
+      Service Addressed Memory ...     1392.566 MB.
+       Service Resident Memory ...      151.832 MB.
+
+
+ (Turn on DebugThreadUsedMemory to see more detailed information of allocation)
+2025-03-19T15:28:26.486279+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority 20] Stopping Threads...
+2025-03-19T15:28:26.487741+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority 20] Notified finalization for 10 Live Threads 10
+2025-03-19T15:28:26.651376+00:00 22|
+[INFO ][SERVER] [Thread 22] Memory Monitor END
+2025-03-19T15:28:26.835869+00:00 42|
+[INFO ][SERVER] [MPPORT] quitting multi protocol port server
+2025-03-19T15:28:26.837674+00:00 42|[VDRPORT] 250319_152826 7C09AD20 APP0376 W stopping context manager...
+2025-03-19T15:28:26.839223+00:00 42|
+[INFO ][SERVER] [MPPORT] stopped multi protocol port server ret=0
+2025-03-19T15:28:26.989090+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority 20] Notified finalization for 0 Live Threads 0
+2025-03-19T15:28:27.490820+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority 20] Stopped Successfully
+2025-03-19T15:28:27.492562+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Stopping All Other Threads...
+2025-03-19T15:28:27.494064+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 2
+2025-03-19T15:28:27.995428+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:28:28.497008+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:28:28.998955+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:28:29.500965+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:28:30.002821+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:28:30.504421+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 1
+2025-03-19T15:28:31.006271+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Notified finalization for 2 Live Threads 0
+2025-03-19T15:28:31.508164+00:00 17|
+[INFO ][SERVER] [Thread 17][Thread Priority XX] Stopped Successfully
+2025-03-19T15:28:31.509871+00:00 17|
+[INFO ][SERVER] [Thread 17] All Threads Stopped Successfully 
+2025-03-19T15:28:31.511046+00:00 17|
+[INFO ][SSL] SSL global finalization

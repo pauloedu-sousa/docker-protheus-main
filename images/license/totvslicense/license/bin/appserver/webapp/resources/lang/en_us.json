@@ -1,0 +1,388 @@
+{
+  "totvs": "TOTVS",
+  "appserver": "Application Server",
+  "smartclient": "SmartClient",
+  "smartclienthtml": "TOTVS SmartClient HTML",
+  "protheus": "Protheus",
+  "attention": "Attention!",
+  "click": "Click",
+  "here": "here",
+  "seconds": "seconds",
+  "browserdialogbox": "Browser dialog box",
+  "startpage": {
+    "build": "Build",
+    "version": "Version",
+    "program": {
+      "caption": "Starting Program",
+      "title": "Enter the Starting Program"
+    },
+    "communication": {
+      "caption": "Connection",
+      "title": "Enter the connection"
+    },
+    "environment": {
+      "caption": "Server Environment",
+      "title": "Enter the Server Environment"
+    },
+    "localAgent": {
+      "caption": "Local Agent",
+      "title": "Enable/Disable Local Agent",
+      "port": "Port",
+      "setup": "Enter the Local Agent Port"
+    },
+    "updates": {
+      "caption": "Updates",
+      "enabled": "Check for updates on startup",
+      "channel": {
+        "title": "Updating channel",
+        "latest": "Stable",
+        "rc": "Release Candidates",
+        "alpha": "Builds Noturnos e Snapshots"
+      }
+    },
+    "button": {
+      "setup": "Setup Button",
+      "confirm": "Confirm Button",
+      "bcancel": "Cancel Button",
+      "up": "Move Up",
+      "down": "Move Down",
+      "add": "Add",
+      "remove": "Remove",
+      "ok": "Ok",
+      "cancel": "Cancel"
+    },
+    "language": {
+      "caption": "Interface",
+      "language": "Language",
+      "title": "Select Language",
+      "portuguese": "Portuguese",
+      "spanish": "Spanish",
+      "english": "English",
+      "russian": "Russian"
+    },
+    "rotation": {
+      "caption": "Rotate your device",
+      "message": "TOTVS SmartClient HTML must be operated only in landscape orientation."
+    },
+    "compatibility": {
+      "msg": "Your browser is running in compatibility mode.",
+      "msg1": "It is recommended to disable this option.",
+      "msg2": "To learn more, click "
+    },
+    "homologated": {
+      "msg": "Your browser is not homologated by TOTVS and may have unexpected behavior.",
+      "msg1": "To learn more about supported browsers, click "
+    },
+    "about": {
+      "caption": "About",
+      "information": "Server Information",
+      "help": "Help",
+      "zendesk": "Report a problem",
+      "tdn": "TDN Page",
+      "slack": "Slack TOTVS Developers"
+    },
+    "osName": "OS AppServer",
+    "operatingSystem": "Operating system",
+    "versionHTML": "Version HTML",
+    "appserver": {
+      "build": "AppServer Build"
+    },
+    "listcollection": {
+      "remove": "Remove",
+      "reorder": "Reorder items"
+    },
+    "settings": "Settings",
+    "general": "General",
+    "viewmode": {
+      "caption": "View Mode",
+      "title": "Select View Mode",
+      "tabletmode": "Tablet Mode",
+      "desktopmode": "Desktop Mode",
+      "autodetect": "Auto Detect"
+    }
+  },
+  "downloadpool": {
+    "todownload": "to download."
+  },
+  "colorpicker": {
+    "title": "Select a color"
+  },
+  "sbutton": {
+    "hint": {
+      "ok": "OK",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "add": "Insert",
+      "parameters": "Parameters",
+      "print": "Print",
+      "printsuspend": "Susp. Print",
+      "printcancel": "Cancel Print",
+      "order": "Order",
+      "priority": "Priority",
+      "edit": "Edit",
+      "listen": "Listen",
+      "save": "Save",
+      "open": "Open",
+      "view": "View",
+      "condition_neg": "Negotiated Condition",
+      "filter": "Filter",
+      "financing": "Financing",
+      "next": "Next",
+      "previous": "Back",
+      "chart": "Graph"
+    },
+    "caption": {
+      "printsuspend": "Susp.Print.",
+      "printcancel": "Canc.Print.",
+      "condition_neg": "Nego.Con.",
+      "financing": "Financ."
+    }
+  },
+  "tmsgrunhook": {
+    "text": {
+      "default": "Please, wait..."
+    }
+  },
+  "tmediaplayer": {
+    "errormessage": {
+      "line1": "File format not supported by SmartClient HTML.",
+      "line2": "Click here to download file."
+    }
+  },
+  "tmscalendar": {
+    "weekdays": {
+      "sunday": "Sun.",
+      "monday": "Mon.",
+      "tuesday": "Tue.",
+      "wednesday": "Wed.",
+      "thursday": "Thu.",
+      "friday": "Fri.",
+      "saturday": "Sat."
+    },
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    },
+    "backYear": "back year",
+    "backMonth": "back month",
+    "nextYear": "next year",
+    "nextMonth": "next month",
+    "today": "Today"
+  },
+  "connerr": {
+    "disabled": "Communication error: Server disabled",
+    "version": "Communication error: Incompatible versions",
+    "noresponse": "Communication error: No answer from client",
+    "invalidprotocol": "Communication error: Windows 95/98 does not support PIPE on server",
+    "unknownprotocol": "Communication error: Invalid protocol",
+    "invalidos": "Communication error: Unsupported operating system",
+    "syncfail": "Communication error: Sync error",
+    "memoryfail": "Communication error: Memory protocol not supported anymore",
+    "unabletoconnect": "Communication error: Error connecting",
+    "jobmessage": "Communication error: Attempt to communicate in a program running as job.",
+    "conndisabled": "Communication error: Connection lost or disabled by the Administrator.",
+    "fsremote": "Communication error: Remote File System doesn't support compilation/debug.",
+    "inactive": "Disconnection by inactivity",
+    "receive_data": "Communication error: Protheus Server didn't return valid data within the minimum wait time (TIMEOUT).",
+    "killed": "Interrupted by the administrator",
+    "default": "Communication error: Undefined",
+    "noerror2": "Protheus Remote and Protheus Server conexion was broken by Protheus Server (Administrator).",
+    "unabletoconnect2": "Protheus Remote and Server Protheus connected with no error except in early connection validation.",
+    "version2": "Protheus Remote and Protheus Server are incompatible in version. Contact the System Administrator to carry out the Protheus Remote version update.",
+    "undefined": "Protheus Remote and Protheus Server conexion was suspended. Contact the System Administrator.",
+    "offline": "Could not connect to the Internet. Check your settings.",
+    "invalidserver": "The address you entered is not from an SmartClient HTML."
+  },
+  "notSupported": "The component is not supported by SmartClient HTML or is deprecated.",
+  "label": {
+    "problem": "Problem",
+    "solution": "Solution"
+  },
+  "tmscalendargrid": {
+    "weekdays": {
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday"
+    },
+    "topMessage": {
+      "minutes": "minute(s)",
+      "hours": "hours",
+      "day": "day",
+      "interval": "Interval"
+    }
+  },
+  "tpageview": {
+    "btnZoomUp": "Zoom in (+)",
+    "btnZoomDown": "Zoom out (-)",
+    "btnPriorPage": "Previous Page",
+    "btnGoTo": "Go to page",
+    "btnNextPage": "Next Page",
+    "btnMaximize": "Maximize",
+    "btnMinimize": "Minimize"
+  },
+  "tremoteopensave": {
+    "FileName": "File Name",
+    "localFile": "Local Files: click here",
+    "dir": "Directories",
+    "server": "SERVER",
+    "backward": "Backward",
+    "backAll": "Back to All",
+    "updateFiles": "Update all Files",
+    "typeFiles": "List only files of type",
+    "size": "size",
+    "datehour": "Date/Hour",
+    "upload": "Transferring file to Web Server",
+    "uploadcomplete": "Complete Upload",
+    "filenotfound": "File Not Found!",
+    "fileisnotreadable": "File is not readable",
+    "errorreading": "An error occurred reading this file.",
+    "readcancelled": "File read canceled"
+  },
+  "error": {
+    "caption": "SmartClient HTML has encountered an error and can not proceed.",
+    "message": "If the problem persists, please contact support by stating the error below."
+  },
+  "window": {
+    "title": "Initial Parameters",
+    "unload": "TOTVS SmartClient will be terminated!"
+  },
+  "twebviewerror": "Unable to load",
+  "inactiveWarning": {
+    "title": "Your session will be disconnected due to inactivity!",
+    "text1": "Because of the inactivity time interval configured in the TOTVS Application Server, ",
+    "text2": "your session will be disconnected in",
+    "text3": "to renew your session!",
+    "text4": "to go back to the beginning."
+  },
+  "reconnector": {
+    "caption": "Communication failure!",
+    "processing": "Please wait while TOTVS SmartClient HTML tries to reestablish the connection to the server.",
+    "retry1": "Reconnecting ...",
+    "retry2": "Trying again",
+    "retry3": "Attempt",
+    "error": "Unable to reestablish connection.",
+    "retry4": "to try again."
+  },
+  "camera": "Camera",
+  "tcolortriangle": {
+    "red": "Red",
+    "green": "Green",
+    "blue": "Blue",
+    "notSupported": "your browser does not support the canvas tag"
+  },
+  "tget": {
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "couldnotload": "Unable to load",
+  "tmessagebox": {
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "helpballoon": {
+    "help": "Help",
+    "validation": "Validation"
+  },
+  "tparseprint": {
+    "documentname": "Protheus Remote Printer Document"
+  },
+  "config": {
+    "caption": "",
+    "message1": "Please wait, the environment is being loaded.",
+    "message2": "This process may take some minutes."
+  },
+  "agent": {
+    "dialog": {
+      "title": "TOTVS WebAgent",
+      "desc": [
+        [
+          "WebAgent will allow your device to securely integrate with applications such as Microsoft Office, learn more",
+          {
+            "text": "here",
+            "link": "https://tdn.totvs.com/display/tec/2.+WebApp+-+WebAgent",
+            "target": "_blank"
+          },
+          "."
+        ],
+        [
+          "Consult your company's System Administrator to install the tool."
+        ]
+      ],
+      "doNotShowAgain": "Don't show again",
+      "buttons": {
+        "showInstallOptions": "Display installation options",
+        "moreOptions": "More options",
+        "install": "Install",
+        "installFor": {
+          "windows": "Install for Windows",
+          "darwin": "Install for Mac",
+          "linux": "Install for Linux"
+        }
+      }
+    },
+    "installer": {
+      "windows_x64": "Windows (64 bits)",
+      "windows_x86": "Windows (32 bits)",
+      "windows_arm64": "Windows (ARM 64)",
+      "linux_x64": "Linux (64 bits)",
+      "linux_arm": "Linux (ARM)",
+      "linux_arm64": "Linux (ARM 64)",
+      "linux_x64_deb": "Linux (64 bits) .deb",
+      "linux_arm_deb": "Linux (ARM) .deb",
+      "linux_arm64_deb": "Linux (ARM 64) .deb",
+      "linux_x64_rpm": "Linux (64 bits) .rpm",
+      "linux_arm_rpm": "Linux (ARM) .rpm",
+      "linux_arm64_rpm": "Linux (ARM 64) .rpm",
+      "darwin_x64": "Mac (Intel Chip)",
+      "darwin_arm64": "Mac (Apple Silicon)",
+      "darwin_universal": "Mac (Universal)"
+    },
+    "connect-error": {
+      "title": "Failed to connect to the WebAgent!",
+      "desc": "Check if it was correctly installed in your system, and if it was authorized to open when requested."
+    },
+    "agentDisable": {
+      "title": "WebAgent Disabled!",
+      "desc": "Unapproved Operating System for webAgent use."
+    },
+    "reconnect": "Trying to reconnect to WebAgent.",
+    "connect": "Trying to connect to WebAgent.",
+    "update": {
+      "title": "New version of WebAgent!",
+      "desc": "Starting automatic WebAgent update.\n\n Please, Wait..."
+    },
+    "updated": {
+      "title": "Success!",
+      "desc": "Installer executed successfully, please wait for completion."
+    },
+    "updateError": {
+      "title": "Update failed!",
+      "desc": "An error occurred during the update."
+    }
+  },
+  "contextmenu": {
+    "undo": "Undo",
+    "redo": "Redo",
+    "cut": "Cut",
+    "copy": "Copy",
+    "paste": "Paste",
+    "clear": "Clear",
+    "selectAll": "Select All"
+  }
+}

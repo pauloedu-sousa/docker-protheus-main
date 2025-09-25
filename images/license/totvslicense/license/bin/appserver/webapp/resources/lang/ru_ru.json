@@ -1,0 +1,381 @@
+{
+  "totvs": "НП",
+  "appserver": "Application Server",
+  "smartclient": "SmartClient",
+  "smartclienthtml": "НП SmartClient HTML",
+  "protheus": "Protheus",
+  "attention": "Внимание!",
+  "click": "Нажмите",
+  "here": "здесь",
+  "seconds": "сек.",
+  "browserdialogbox": "Диалоговое окно браузера",
+  "startpage": {
+    "build": "сборка",
+    "version": "версия",
+    "program": {
+      "caption": "Запуск программы",
+      "title": "Переход в раздел «Запуск программы»"
+    },
+    "communication": {
+      "caption": "Соединение",
+      "title": "Переход в раздел «Соединение»"
+    },
+    "environment": {
+      "caption": "Среда сервера",
+      "title": "Переход в раздел «Среда сервера»"
+    },
+    "localAgent": {
+      "caption": "Локальный агент",
+      "title": "Включить/отключить локальный агент",
+      "port": "Порт",
+      "setup": "Переход в раздел «Порт локального агента»"
+    },
+    "updates": {
+      "caption": "Обновления",
+      "enabled": "Проверить обновления при запуске",
+      "channel": {
+        "title": "Обновить канал",
+        "latest": "Стабильная версия",
+        "rc": "Рилиз кандидат",
+        "alpha": "Builds Noturnos e Snapshots"
+      }
+    },
+    "button": {
+      "setup": "Кнопка «Установить»",
+      "confirm": "Кнопка «Подтвердить»",
+      "bcancel": "Кнопка «Отмена»",
+      "up": "Вверх",
+      "down": "Вниз",
+      "add": "Доб.",
+      "remove": "Удал.",
+      "ok": "OK",
+      "cancel": "Отмена"
+    },
+    "language": {
+      "caption": "Интерфейс",
+      "language": "язык",
+      "title": "Выбрать язык",
+      "portuguese": "Португ.",
+      "spanish": "Испан.",
+      "english": "Англ.",
+      "russian": "Рус."
+    },
+    "rotation": {
+      "caption": "Поверните устройство",
+      "message": "НП SmartClient HTML может использоваться только в альбомной ориентации."
+    },
+    "compatibility": {
+      "msg": "Браузер работает в режиме совместимости.",
+      "msg1": "Рекомендуется отключить этот режим.",
+      "msg2": "Для получения дополнительных сведений нажмите "
+    },
+    "homologated": {
+      "msg": "Используемый браузер не утвержден НП и может работать непредвиденным образом.",
+      "msg1": "Для получения дополнительных сведений о поддерживаемых браузерах нажмите "
+    },
+    "about": {
+      "caption": "Около",
+      "information": "Информация о сервере",
+      "help": "Справка",
+      "zendesk": "XXXX",
+      "tdn": "XXXX",
+      "slack": "XXXX"
+    },
+    "osName": "OS AppServer",
+    "operatingSystem": "Операционная система",
+    "versionHTML": "версия HTML",
+    "appserver": {
+      "build": "Cборка AppServer"
+    },
+    "listcollection": {
+      "remove": "Удал.",
+      "reorder": "Перегруппировать элементы"
+    },
+    "settings": "Настройки",
+    "general": "Общие"
+  },
+  "downloadpool": {
+    "todownload": "для загрузки."
+  },
+  "colorpicker": {
+    "title": "Выберите цвет"
+  },
+  "sbutton": {
+    "hint": {
+      "ok": "OK",
+      "cancel": "Отмена",
+      "delete": "Удалить",
+      "add": "Вставить",
+      "parameters": "Параметры",
+      "print": "Печать",
+      "printsuspend": "Приост. Печать",
+      "printcancel": "Отм. печать",
+      "order": "Заказ",
+      "priority": "Приоритет",
+      "edit": "Редактировать",
+      "listen": "Прослушать",
+      "save": "Сохранить",
+      "open": "Открыть",
+      "view": "Просмотр",
+      "condition_neg": "Согласованное условие",
+      "filter": "Фильтр",
+      "financing": "Финансирование",
+      "next": "След.",
+      "previous": "Наз.",
+      "chart": "Диаграмма"
+    },
+    "caption": {
+      "printsuspend": "Приост. печать.",
+      "printcancel": "Отменить печать.",
+      "condition_neg": "Согл. усл.",
+      "financing": "Финанс."
+    }
+  },
+  "tmsgrunhook": {
+    "text": {
+      "default": "Пожалуйста, подождите..."
+    }
+  },
+  "tmediaplayer": {
+    "errormessage": {
+      "line1": "Формат файла не поддерживается в SmartClient HTML.",
+      "line2": "Нажмите здесь, чтобы загрузить файл."
+    }
+  },
+  "tmscalendar": {
+    "weekdays": {
+      "sunday": "Вс.",
+      "monday": "Пн.",
+      "tuesday": "Вт.",
+      "wednesday": "Ср.",
+      "thursday": "Чт.",
+      "friday": "Пт.",
+      "saturday": "Сб."
+    },
+    "months": {
+      "january": "Январь",
+      "february": "Февраль",
+      "march": "Март",
+      "april": "Апрель",
+      "may": "Май",
+      "june": "Июнь",
+      "july": "Июль",
+      "august": "Август",
+      "september": "Сентябрь",
+      "october": "Октябрь",
+      "november": "Ноябрь",
+      "december": "Декабрь"
+    },
+    "backYear": "пред. год",
+    "backMonth": "пред. месяц",
+    "nextYear": "след. год",
+    "nextMonth": "след. месяц",
+    "today": "Сегодня"
+  },
+  "connerr": {
+    "disabled": "Ошибка связи: сервер отключен",
+    "version": "Ошибка связи: несовместимая версия",
+    "noresponse": "Ошибка связи: нет ответа от клиента",
+    "invalidprotocol": "Ошибка связи: в Windows 95/98 не поддерживается использование PIPE на сервере",
+    "unknownprotocol": "Ошибка связи: недопустимый протокол",
+    "invalidos": "Ошибка связи: операционная система не поддерживается",
+    "syncfail": "Ошибка связи: ошибка синхронизации",
+    "memoryfail": "Ошибка связи: протокол управления памятью более не поддерживается",
+    "unabletoconnect": "Ошибка связи: ошибка соединения",
+    "jobmessage": "Ошибка связи: попытка обмена данными в экземпляре программы, выполняемом в виде задания.",
+    "conndisabled": "Ошибка связи: соединение потеряно или отменено администратором.",
+    "fsremote": "Ошибка связи: удаленная файловая система не поддерживает компиляцию/отладку.",
+    "inactive": "Разрыв соединения при отсутствии активности",
+    "receive_data": "Ошибка связи: Protheus Server не передал допустимых данных по истечении минимального времени ожидания (ТАЙМ-АУТ).",
+    "killed": "Прервано администратором",
+    "default": "Ошибка связи: не определено",
+    "noerror2": "Соединение программы Protheus Remote с сервером Protheus Server прервано сервером Protheus Server (администратор).",
+    "unabletoconnect2": "Соединение между программой Protheus Remote и сервером Server Protheus установлено без ошибок, за исключением преждевременной проверки соединения.",
+    "version2": "Версии программы Protheus Remote и сервера Protheus Server несовместимы. Обратитесь к системному администратору, чтобы обновить программу Protheus Remote.",
+    "undefined": "Соединение между программой Protheus Remote и сервером Protheus Server прервано. Обратитесь к системному администратору.",
+    "offline": "Не удалось подключиться к интернету. Проверьте ваши настройки.",
+    "invalidserver": "Введенный вами адрес не из SmartClient HTML."
+  },
+  "notSupported": "Этот компонент не поддерживается в SmartClient HTML или устарел.",
+  "label": {
+    "problem": "Пробл.",
+    "solution": "Решение"
+  },
+  "tmscalendargrid": {
+    "weekdays": {
+      "sunday": "Воскресенье",
+      "monday": "Понедельник",
+      "tuesday": "Вторник",
+      "wednesday": "Среда",
+      "thursday": "Четверг",
+      "friday": "Пятница",
+      "saturday": "Суббота"
+    },
+    "topMessage": {
+      "minutes": "мин.",
+      "hours": "ч.",
+      "day": "дн.",
+      "interval": "Интервал"
+    }
+  },
+  "tpageview": {
+    "btnZoomUp": "Увеличить (+)",
+    "btnZoomDown": "Уменьшить (-)",
+    "btnPriorPage": "Пред. стр.",
+    "btnGoTo": "Перейти на страницу",
+    "btnNextPage": "След. стр.",
+    "btnMaximize": "Максимизировать",
+    "btnMinimize": "Минимизировать"
+  },
+  "tremoteopensave": {
+    "FileName": "Имя файла",
+    "localFile": "Локальные файлы: нажмите здесь",
+    "dir": "Каталоги",
+    "server": "СЕРВЕР",
+    "backward": "Назад",
+    "backAll": "Вернуться к общему списку",
+    "updateFiles": "Обновить все файлы",
+    "typeFiles": "Отобразить только файлы типа",
+    "size": "размер",
+    "datehour": "Дата / время",
+    "upload": "Передача файла на веб-сервер",
+    "uploadcomplete": "Завершить передачу",
+    "filenotfound": "Файл не найден.",
+    "fileisnotreadable": "Невозможно прочитать файл",
+    "errorreading": "Произошла ошибка при чтении этого файла.",
+    "readcancelled": "Чтение файла отменено"
+  },
+  "error": {
+    "caption": "Ошибка SmartClient HTML, невозможно продолжить работу.",
+    "message": "Если проблему не удалось устранить, обратитесь в службу поддержки и сообщите об ошибке, указанной ниже."
+  },
+  "window": {
+    "title": "Исх. параметры",
+    "unload": "Работа НП SmartClient будет завершена."
+  },
+  "twebviewerror": "Невозможно загрузить",
+  "inactiveWarning": {
+    "title": "Сеанс будет завершен из-за отсутствия активности.",
+    "text1": "Истек период неактивности, заданный на сервере НП Application Server, ",
+    "text2": "сеанс будет прерван через",
+    "text3": "чтобы возобновить сеанс.",
+    "text4": "чтобы перейти к началу."
+  },
+  "reconnector": {
+    "caption": "Сбой подключения.",
+    "processing": "Подождите, НП SmartClient HTML пытается восстановить соединение с сервером.",
+    "retry1": "Соединение…",
+    "retry2": "Повторная попытка",
+    "retry3": "Попытка",
+    "error": "Невозможно восстановить соединение.",
+    "retry4": "чтобы попробовать еще раз."
+  },
+  "camera": "камера",
+  "tcolortriangle": {
+    "red": "Кр.",
+    "green": "Зел.",
+    "blue": "Син.",
+    "notSupported": "используемый браузер не поддерживает данный тег Canvas"
+  },
+  "tget": {
+    "ok": "OK",
+    "cancel": "Отмена"
+  },
+  "couldnotload": "Невозможно загрузить",
+  "tmessagebox": {
+    "ok": "OK",
+    "cancel": "Отмена",
+    "yes": "да",
+    "no": "нет"
+  },
+  "helpballoon": {
+    "help": "Помощь",
+    "validation": "Проверки"
+  },
+  "tparseprint": {
+    "documentname": "Документация по Protheus Remote Printer"
+  },
+  "config": {
+    "caption": "",
+    "message1": "Пожалуйста, подождите загрузки окружения",
+    "message2": "Данный процесс может занять несколько минут"
+  },
+  "agent": {
+    "dialog": {
+      "title": "НП WebAgent",
+      "desc": [
+        [
+          "WebAgent позволит вашему устройству безопасно интегрироваться с приложениями, такими как Microsoft Office, узнать больше.",
+          {
+            "text": "здесь",
+            "link": "https://tdn.totvs.com/display/tec/2.+WebApp+-+WebAgent",
+            "target": "_blank"
+          },
+          "."
+        ],
+        [
+          "Пожалуйста, проконсультируйтесь с системным администратором вашей компании для установки инструмента."
+        ]
+      ],
+      "doNotShowAgain": "Больше не показывать",
+      "buttons": {
+        "showInstallOptions": "Отобразить варианты установки",
+        "moreOptions": "Дополнительные опции",
+        "install": "Установить",
+        "installFor": {
+          "windows": "Установить для Windows",
+          "darwin": "Установить для Mac",
+          "linux": "Установить для Linux"
+        }
+      }
+    },
+    "installer": {
+      "windows_x64": "Windows (64 bits)",
+      "windows_x86": "Windows (32 bits)",
+      "windows_arm64": "Windows (ARM 64)",
+      "linux_x64": "Linux (64 bits)",
+      "linux_arm": "Linux (ARM)",
+      "linux_arm64": "Linux (ARM 64)",
+      "linux_x64_deb": "Linux (64 bits) .deb",
+      "linux_arm_deb": "Linux (ARM) .deb",
+      "linux_arm64_deb": "Linux (ARM 64) .deb",
+      "linux_x64_rpm": "Linux (64 bits) .rpm",
+      "linux_arm_rpm": "Linux (ARM) .rpm",
+      "linux_arm64_rpm": "Linux (ARM 64) .rpm",
+      "darwin_x64": "Mac (Intel Chip)",
+      "darwin_arm64": "Mac (Apple Silicon)",
+      "darwin_universal": "Mac (Universal)"
+    },
+    "connect-error": {
+      "title": "Не удалось установить соединение с WebAgent!",
+      "desc": "При появлении данного сообщения, проверьте правильность установки WebAgent и наличие прав доступа на его запуск."
+    },
+    "agentDisable": {
+      "title": "WebAgent отключен!",
+      "desc": "Неподдерживаемая операционная система для использования WebAgent."
+    },
+    "reconnect": "Попытка переподключения к WebAgent.",
+    "connect": "Попытка подключения к WebAgent.",
+    "update": {
+      "title": "Новая версия WebAgent!",
+      "desc": "Запуск автоматического обновления WebAgent.\n\n Пожалуйста, подождите..."
+    },
+    "updated": {
+      "title": "Успех!",
+      "desc": "Установка выполнена успешно, подождите завершения."
+    },
+    "updateError": {
+      "title": "Ошибка обновления!",
+      "desc": "Произошла ошибка во время обновления."
+    }
+  },
+  "contextmenu": {
+    "undo": "Отменить",
+    "redo": "Повторить",
+    "cut": "Вырезать",
+    "copy": "Копировать",
+    "paste": "Вставить",
+    "clear": "Очистить",
+    "selectAll": "Выделить все"
+  }
+}

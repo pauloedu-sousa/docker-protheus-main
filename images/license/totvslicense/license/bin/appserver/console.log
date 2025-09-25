@@ -1,0 +1,742 @@
+2025-03-18T17:13:22.070619+00:00 436|ONSTART -> IPC_ActiveTimeOut -> 300
+2025-03-18T17:13:22.070727+00:00 436|GENERAL -> SQLITE_IntegrityCheck -> 1
+2025-03-18T17:13:22.070738+00:00 436|GENERAL -> SQLITE_DBSysRecovery -> 1
+2025-03-18T17:13:22.070747+00:00 436|GENERAL -> SQLITE_CheckImproperShutdown -> 2
+2025-03-18T17:13:22.072975+00:00 436|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Nov 18 2024 - 17:04:02 
+* Build: 64 bits
+* SVN Revision: 43135
+* Build Version: 20.3.2.14_1
+
+2025-03-18T17:13:22.072996+00:00 436|
+### Using ini file 'appserver.ini'
+2025-03-18T17:13:22.073011+00:00 436|InitGlbs already initialized
+2025-03-18T17:13:22.073084+00:00 436|
+[INFO ][SERVER] BTMonitor start time: 1742317824.073082 sec
+2025-03-18T17:13:22.073212+00:00 436|
+[INFO ][SERVER] Loading translate file (/totvs/license/bin/appserver/appserver_en_en). 
+
+2025-03-18T17:13:22.073464+00:00 436|
+[WARN ][SERVER] [Thread 436] Monitored Calls - No records found.
+2025-03-18T17:13:22.073541+00:00 436|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Nov 18 2024 - 17:04:02 
+* Build: 64 bits
+* SVN Revision: 43135
+* Build Version: 20.3.2.14_1
+
+2025-03-18T17:13:22.073558+00:00 436|Starting (TOTVS)...
+Please wait...
+2025-03-18T17:13:22.073915+00:00 436|Numero maximo de arquivos insuficiente. Limite atual: -1
+2025-03-18T17:13:22.073930+00:00 436|
+[ERROR][SERVER] OPERATIONAL LIMITS ARE INSUFFICIENT, CHECK THE INSTALATION PROCEDURES AS WELL AS 'ULIMIT' CONFIGURATION
+2025-03-18T17:17:36.890931+00:00 439|ONSTART -> IPC_ActiveTimeOut -> 300
+2025-03-18T17:17:36.891035+00:00 439|GENERAL -> SQLITE_IntegrityCheck -> 1
+2025-03-18T17:17:36.891053+00:00 439|GENERAL -> SQLITE_DBSysRecovery -> 1
+2025-03-18T17:17:36.891065+00:00 439|GENERAL -> SQLITE_CheckImproperShutdown -> 2
+2025-03-18T17:17:36.894024+00:00 439|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Nov 18 2024 - 17:04:02 
+* Build: 64 bits
+* SVN Revision: 43135
+* Build Version: 20.3.2.14_1
+
+2025-03-18T17:17:36.894052+00:00 439|
+### Using ini file 'appserver.ini'
+2025-03-18T17:17:36.894070+00:00 439|InitGlbs already initialized
+2025-03-18T17:17:36.894159+00:00 439|
+[INFO ][SERVER] BTMonitor start time: 1742318080.894157 sec
+2025-03-18T17:17:36.894284+00:00 439|
+[INFO ][SERVER] Loading translate file (/totvs/license/bin/appserver/appserver_en_en). 
+
+2025-03-18T17:17:36.894625+00:00 439|
+[WARN ][SERVER] [Thread 439] Monitored Calls - No records found.
+2025-03-18T17:17:36.894794+00:00 439|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Nov 18 2024 - 17:04:02 
+* Build: 64 bits
+* SVN Revision: 43135
+* Build Version: 20.3.2.14_1
+
+2025-03-18T17:17:36.894832+00:00 439|Starting (TOTVS)...
+Please wait...
+2025-03-18T17:17:36.895361+00:00 439|Numero maximo de arquivos insuficiente. Limite atual: -1
+2025-03-18T17:17:36.895389+00:00 439|
+[ERROR][SERVER] OPERATIONAL LIMITS ARE INSUFFICIENT, CHECK THE INSTALATION PROCEDURES AS WELL AS 'ULIMIT' CONFIGURATION
+2025-03-18T17:22:46.544137+00:00 19|ONSTART -> IPC_ActiveTimeOut -> 300
+2025-03-18T17:22:46.544362+00:00 19|GENERAL -> SQLITE_IntegrityCheck -> 1
+2025-03-18T17:22:46.544383+00:00 19|GENERAL -> SQLITE_DBSysRecovery -> 1
+2025-03-18T17:22:46.544400+00:00 19|GENERAL -> SQLITE_CheckImproperShutdown -> 2
+2025-03-18T17:22:46.547176+00:00 19|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Nov 18 2024 - 17:04:02 
+* Build: 64 bits
+* SVN Revision: 43135
+* Build Version: 20.3.2.14_1
+
+2025-03-18T17:22:46.547213+00:00 19|
+### Using ini file 'appserver.ini'
+2025-03-18T17:22:46.547233+00:00 19|InitGlbs already initialized
+2025-03-18T17:22:46.547639+00:00 19|
+[INFO ][SERVER] BTMonitor start time: 1742318336.547635 sec
+2025-03-18T17:22:46.548578+00:00 19|
+[INFO ][SERVER] Loading translate file (/totvs/license/bin/appserver/appserver_en_en). 
+
+2025-03-18T17:22:46.550666+00:00 19|
+[WARN ][SERVER] [Thread 19] Monitored Calls - No records found.
+2025-03-18T17:22:46.550864+00:00 19|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Nov 18 2024 - 17:04:02 
+* Build: 64 bits
+* SVN Revision: 43135
+* Build Version: 20.3.2.14_1
+
+2025-03-18T17:22:46.550912+00:00 19|Starting (TOTVS)...
+Please wait...
+2025-03-18T17:22:46.551595+00:00 19|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2025-03-18T17:22:46.551619+00:00 19|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2025-03-18T17:22:46.551625+00:00 19|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2025-03-18T17:22:46.551632+00:00 19|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2025-03-18T17:22:46.551639+00:00 19|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2025-03-18T17:22:46.551645+00:00 19|*** DEFAULT SOCKET BIND IS IPV4 
+2025-03-18T17:22:46.551651+00:00 19|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2025-03-18T17:22:46.551664+00:00 19|*** STARTING SERVER WITH MAXIMUM STRING SIZE LIMIT SET TO 500 MB. ***
+2025-03-18T17:22:46.551672+00:00 19|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2025-03-18T17:22:46.551678+00:00 19|
+2025-03-18T17:22:46.552449+00:00 19|
+---------------- OS System Info -----------------------------------------------
+\S	Kernel \r on an \m		
+Linux version 6.11.0-19-generic (buildd@lcy02-amd64-014) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #19~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Feb 17 11:51:52 UTC 2
+OS Power Scheme ....: cpu 0 (1/16): performance
+OS Power Scheme ....: cpu 1 (2/16): performance
+OS Power Scheme ....: cpu 2 (3/16): performance
+OS Power Scheme ....: cpu 3 (4/16): performance
+OS Power Scheme ....: cpu 4 (5/16): performance
+OS Power Scheme ....: cpu 5 (6/16): performance
+OS Power Scheme ....: cpu 6 (7/16): performance
+OS Power Scheme ....: cpu 7 (8/16): performance
+OS Power Scheme ....: cpu 8 (9/16): performance
+OS Power Scheme ....: cpu 9 (10/16): performance
+OS Power Scheme ....: cpu 10 (11/16): performance
+OS Power Scheme ....: cpu 11 (12/16): performance
+OS Power Scheme ....: cpu 12 (13/16): performance
+OS Power Scheme ....: cpu 13 (14/16): performance
+OS Power Scheme ....: cpu 14 (15/16): performance
+OS Power Scheme ....: cpu 15 (16/16): performance
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+MemTotal:        7457280 kB		MemFree:          832804 kB		
+Active:          2306492 kB		Inactive:        3003292 kB		
+SwapTotal:       3906556 kB		SwapFree:        3866364 kB		
+-------------------------------------------------------------------------------
+
+
+---------------- OS Environment Limits ----------------------------------------
+Maximum processes .......:  UNLIMITED	Maximum open files ......:  1048576
+CPU time in seconds .....:  UNLIMITED	Maximum core file size ..:  UNLIMITED
+Maximum filesize ........:  UNLIMITED	Maximum data size .......:  UNLIMITED
+Maximum resident size ...:  UNLIMITED	Maximum locked memory ...:  8.00 MB.
+Address Space (v) limit .:  UNLIMITED	Maximum stack size ......:  8.00 MB.
+*** WARNING : Maximum stack size TOO HIGH. Adjust ulimit -s to 1024 (1.0 Mb).
+2025-03-18T17:22:46.552509+00:00 19|
+[INFO ][SERVER] [Thread 19] *** Connections from IDE/Debugger are DISABLED
+2025-03-18T17:22:46.552530+00:00 19|
+[INFO ][SERVER] [Thread 19] *** Connections of type RPC are DISABLED
+2025-03-18T17:22:46.553191+00:00 19|
+[INFO ][SERVER] [Thread 19] APP Virtual Address Allocation Limit .... 32768.00 MB.
+2025-03-18T17:22:46.553218+00:00 19|
+[INFO ][SERVER] [Thread 19] Memory Monitor Virtual Address LIMIT .... 32768.00  MB.
+2025-03-18T17:22:46.553892+00:00 22|
+[WARN ][SERVER] [Thread 22] [18/03/2025 17:22:46] *** The current power scheme in cpu 0 (1/16) is 'performance'.
+The current power scheme in cpu 1 (2/16) is 'performance'.
+The current power scheme in cpu 2 (3/16) is 'performance'.
+The current power scheme in cpu 3 (4/16) is 'performance'.
+The current power scheme in cpu 4 (5/16) is 'performance'.
+The current power scheme in cpu 5 (6/16) is 'performance'.
+The current power scheme in cpu 6 (7/16) is 'performance'.
+The current power scheme in cpu 7 (8/16) is 'performance'.
+The current power scheme in cpu 8 (9/16) is 'performance'.
+The current power scheme in cpu 9 (10/16) is 'performance'.
+The current power scheme in cpu 10 (11/16) is 'performance'.
+The current power scheme in cpu 11 (12/16) is 'performance'.
+The current power scheme in cpu 12 (13/16) is 'performance'.
+The current power scheme in cpu 13 (14/16) is 'performance'.
+The current power scheme in cpu 14 (15/16) is 'performance'.
+The current power scheme in cpu 15 (16/16) is 'performance'. ***
+2025-03-18T17:22:46.653793+00:00 19|
+[INFO ][SSL] SSL global initialization
+2025-03-18T17:22:46.653904+00:00 19|
+[INFO ][SSL] OpenSSL 1.1.1t  7 Feb 2023
+2025-03-18T17:22:46.660285+00:00 19|
+[INFO ][LICENSESERVER] *** USING LICENSE FILE  lsinitialize.inf ***
+2025-03-18T17:22:46.661338+00:00 19|
+[INFO ][LICENSESERVER] License Numbering file ..... /totvs/license/bin/appserver/lsnumber.val
+2025-03-18T17:22:46.661392+00:00 19|
+[INFO ][LICENSESERVER] *** Numbering file - AUTOSAVENUMBER ENABLED ***
+2025-03-18T17:22:46.661424+00:00 19|
+[INFO ][LICENSESERVER] Stateless Reuse Connection Time-Out Enable -- 60 second(s).
+2025-03-18T17:22:46.661472+00:00 19|
+[INFO ][LICENSESERVER] Automatic Numbering ENABLED. Key names are UPPERCASE.2025-03-18T17:22:46.661481+00:00 19|
+
+2025-03-18T17:22:46.661684+00:00 23|
+[INFO ][LICENSESERVER] [Thread 23] BEGIN tSaveNumberThread.
+2025-03-18T17:22:46.761723+00:00 19|
+[INFO ][LICENSESERVER] IPC Internal call limit set to 45000 ms.
+2025-03-18T17:22:46.761812+00:00 19|
+[INFO ][LICENSESERVER] IPC Internal return limit set to 90000 ms.
+2025-03-18T17:22:46.761909+00:00 19|
+[INFO ][SERVER] *** N_MAX_FILES=1048576 FD_SETSIZE=131073
+2025-03-18T17:22:46.762076+00:00 19|
+[INFO ][SERVER] [Thread 19] LicenseServer Server started on port 5555.
+2025-03-18T17:22:46.762125+00:00 19|
+License Server: Listening port 5555
+2025-03-18T17:22:46.862547+00:00 19|* reading configuration to LICENSE SERVER NG
+2025-03-18T17:22:47.064838+00:00 19|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 2234
+2025-03-18T17:22:47.064978+00:00 19|
+[WARN ][SERVER] [MPPORT] Multi Protocol Port disabled.
+2025-03-18T17:22:47.065000+00:00 19|
+[WARN ][SERVER] [MPPORT] Some applications may not work properly.
+2025-03-18T17:22:47.065028+00:00 19|
+[INFO ][SERVER] [Thread 19] Application Server started on port 2234
+2025-03-18T17:22:47.278133+00:00 19|[WEBAPP] 2025-03-18T17:22:47.278151+00:00 19|[INFO] Creating Temporary directories...
+2025-03-18T17:22:47.278610+00:00 19|[WEBAPP] 2025-03-18T17:22:47.278617+00:00 19|[INFO] Server not protected, using non encrypted data
+2025-03-18T17:22:47.278928+00:00 19|[WEBAPP] 2025-03-18T17:22:47.278950+00:00 19|
+2025-03-18T17:22:47.278961+00:00 19|[WEBAPP] 2025-03-18T17:22:47.278966+00:00 19|***  TOTVS S. A.  ***
+2025-03-18T17:22:47.278975+00:00 19|[WEBAPP] 2025-03-18T17:22:47.278979+00:00 19|*** www.totvs.com ***
+2025-03-18T17:22:47.278987+00:00 19|[WEBAPP] 2025-03-18T17:22:47.278991+00:00 19|
+2025-03-18T17:22:47.279000+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279004+00:00 19|TOTVS WebApp
+2025-03-18T17:22:47.279014+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279017+00:00 19|Build 7.00.210324P
+2025-03-18T17:22:47.279025+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279029+00:00 19|Version 9.1.7
+2025-03-18T17:22:47.279037+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279042+00:00 19|Press Ctrl+C to terminate.
+2025-03-18T17:22:47.279053+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279058+00:00 19|
+2025-03-18T17:22:47.279067+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279072+00:00 19|[INFO] Root Path is "/totvs/license/bin/appserver/webapp/".
+2025-03-18T17:22:47.279499+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279506+00:00 19|[INFO] WebApp HTTP Server started on port 8020.
+2025-03-18T17:22:47.279517+00:00 19|[WEBAPP] 2025-03-18T17:22:47.279521+00:00 19|[INFO] Using WebSocket communication protocol.
+2025-03-18T17:22:47.279593+00:00 19|
+[INFO ][SERVER] [Thread 19] WebApp started on http port  8020.
+2025-03-18T17:22:47.279670+00:00 19|
+----------- Services Start Time  ----------
+2025-03-18T17:22:47.279678+00:00 19|      LICENSE SERVER	0.303 s	
+2025-03-18T17:22:47.279698+00:00 19|         JOB MANAGER	0.101 s	
+2025-03-18T17:22:47.279706+00:00 19|                 TCP	0.110 s	
+2025-03-18T17:22:47.279713+00:00 19|         LOCK SERVER	0.000 s	
+2025-03-18T17:22:47.279721+00:00 19|              WEBAPP	0.105 s	
+2025-03-18T17:22:47.279728+00:00 19|  HTTPSERVER - VADER	0.000 s	
+2025-03-18T17:22:47.279738+00:00 19|
+--- Application Server Start Time: 0.619 s
+2025-03-18T17:22:47.279749+00:00 19|
+[18/03/2025 17:22:47] Totvs Application Server is running
+2025-03-18T17:22:47.975076+00:00 31|
+Starting Job [LSInit]
+2025-03-18T17:22:48.022092+00:00 31|
+ *********** RPO file (/totvs/license/bin/appserver/custom.rpo) not found. Creating... ***********
+2025-03-18T17:22:48.042470+00:00 65|
+Loading Ctree Local [/totvs/license/bin/appserver/libctreestd.so]
+2025-03-18T17:22:48.055455+00:00 65|
+*** Loading SQLITE DRIVER (wait) ... 2025-03-18T17:22:48.056960+00:00 65|
+*** SQLITE DRIVER 3.35.4 LOADED ***
+2025-03-18T17:22:48.056989+00:00 65|
+[INFO ][SERVER] [SQLITE] Begin SQLITE QUICK Integrity Check ...
+2025-03-18T17:22:48.056998+00:00 65|
+[INFO ][SERVER] [SQLITE] DB_SYS FILE ..... /totvs/license/data/db_sys/SYSTEM.db
+2025-03-18T17:22:48.057832+00:00 65|
+[INFO ][SERVER] [SQLITE] DB_SYS SIZE ..... 0.00 MB.
+2025-03-18T17:22:48.057924+00:00 65|
+[INFO ][SERVER] [SQLITE] SQLITE Integrity Check OK
+2025-03-18T17:22:48.057953+00:00 65|
+[INFO ][SERVER] [SQLITE] END SQLITE Integrity Check - Timer(0.00 s.)...
+2025-03-18T17:22:48.060985+00:00 65|
+[INFO ][SERVER] [SQLITE] Begin SQLITE Tables Collate Check ...
+2025-03-18T17:22:48.061079+00:00 65|
+[INFO ][SERVER] [SQLITE] END Tables Check - Objects(0) Checked(0) Rebuild(0) Errors(0) Timer(0.00 s.)...
+2025-03-18T17:22:48.062175+00:00 65|
+[INFO ][SERVER] [SQLITE] Begin SQLITE Orphan Field Info Tables Check ....
+2025-03-18T17:22:48.062304+00:00 65|
+[INFO ][SERVER] [SQLITE] END SQLITE Orphan Field Info Tables Check.
+2025-03-18T17:22:48.085022+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:48.085103+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:48] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:48.085115+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:48.086159+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:48] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:48.086208+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:48.086242+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:48] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:48.086255+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:49.756006+00:00 65|Conectado com sucesso ao endereço https://lscloud.totvs.app
+2025-03-18T17:22:49.775441+00:00 65|LicenseServerVirtual - sessões iniciadas
+2025-03-18T17:22:49.775482+00:00 65|Version: 3.6.3_1
+2025-03-18T17:22:49.804426+00:00 30|
+[INFO ][LICENSESERVER] [Client connected] * 18/03/2025 17:22:49: 172.17.0.2 Port: 2234 Thread: 65
+2025-03-18T17:22:50.662724+00:00 23|
+[INFO ][LICENSESERVER] Saving /totvs/license/bin/appserver/lsnumber.val...
+2025-03-18T17:22:50.665653+00:00 23|
+[INFO ][LICENSESERVER] Saving file /totvs/license/bin/appserver/lsnumber.val OK.
+2025-03-18T17:22:50.707140+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.707234+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.707258+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.707355+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.707382+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.707689+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.707725+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.707795+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.707823+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.707899+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.707927+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.708001+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.708017+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.708045+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.708061+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.708093+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.708107+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.708140+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.708156+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.708189+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.708203+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.708229+00:00 69|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.708240+00:00 69|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.824657+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.824699+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.824737+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.824748+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.824772+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.824793+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.824820+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.824830+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.825225+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.825250+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.825357+00:00 65|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.825373+00:00 65|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.828813+00:00 65|LicenseServerVirtual (aviso) - Atenção. License Server Virtual disponível com restrições. Verifique seus termos de licença
+2025-03-18T17:22:50.979396+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.979464+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.979476+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.980245+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.980277+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:50.980306+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:50] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:50.980318+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.078459+00:00 84|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.078522+00:00 84|
+[FATAL][SERVER] [18/03/2025 17:22:52] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:52.078543+00:00 84|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.078569+00:00 84|
+[FATAL][SERVER] [18/03/2025 17:22:52] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:52.078579+00:00 84|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.079146+00:00 84|
+[FATAL][SERVER] [18/03/2025 17:22:52] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:52.079176+00:00 84|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.079204+00:00 84|
+[FATAL][SERVER] [18/03/2025 17:22:52] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:52.079214+00:00 84|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.082610+00:00 84|
+[FATAL][SERVER] [18/03/2025 17:22:52] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:52.082675+00:00 84|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:52.176318+00:00 65|License Server: Application ready
+2025-03-18T17:22:52.177310+00:00 30|
+[INFO ][LICENSESERVER] [Preparing to Disconnect] * 18/03/2025 17:22:52 172.17.0.2 Port: 2234 Thread: 65
+2025-03-18T17:22:52.177371+00:00 30|
+[INFO ][LICENSESERVER] [Disconnecting] * 18/03/2025 17:22:52 172.17.0.2 Port: 2234 Thread: 65
+2025-03-18T17:22:52.666359+00:00 23|
+[INFO ][LICENSESERVER] Saving /totvs/license/bin/appserver/lsnumber.val...
+2025-03-18T17:22:52.672668+00:00 23|
+[INFO ][LICENSESERVER] Saving file /totvs/license/bin/appserver/lsnumber.val OK.
+2025-03-18T17:22:53.455108+00:00 86|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.455170+00:00 86|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.455183+00:00 86|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.554952+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.555015+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.555125+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.555138+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.571587+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.571639+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.571708+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.571723+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.571749+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.571762+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.571787+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.571800+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.582620+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.582665+00:00 70|
+[FATAL][SERVER] [18/03/2025 17:22:53] Failed to read status of inifile [/totvs/license/bin/appserver/licenseserver.ini][2][No such file or directory]2025-03-18T17:22:53.582676+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:22:53.582688+00:00 70|
+[ERROR][SERVER] ###### read: fail to open: /totvs/license/bin/appserver/licenseserver.ini error: 2 try: 0
+2025-03-18T17:23:23.446906+00:00 19|Wait....
+2025-03-18T17:23:23.446995+00:00 19|
+[INFO ][SERVER] [Thread 19] Application Server Abort Signal (2) Received...
+2025-03-18T17:23:23.447012+00:00 19|
+[INFO ][SERVER] [Thread 19] Application Server (UNIX version) in shutdown....
+2025-03-18T17:23:23.447109+00:00 19|
+[INFO ][SERVER] [Thread 19][18/03/2025 17:23:23] Application SHUTDOWN in progress...
+2025-03-18T17:23:23.450495+00:00 19|
+-------------- Build Version --------------
+Application Server: 20.3.2.14_1
+
+
+-------------- APO Map List ---------------
+Users [14] MAP [0.00 MB.] APO [/totvs/license/bin/appserver/custom.rpo] SYM [0.00 MB.] CODECACHE [0.00 MB.]
+Users [14] MAP [0.00 MB.] APO [/totvs/license/bin/appserver/tlpp.rpo] SYM [0.00 MB.] CODECACHE [0.00 MB.]
+Users [14] MAP [0.00 MB.] APO [/totvs/license/data/apo//tttm120.rpo] SYM [0.19 MB.] CODECACHE [0.84 MB.]
+
+----------- Total Thread Count ------------
+                 Total Threads ... 40
+                        Thread ... 4
+                       WThread ... 10
+                      LSThread ... 10
+                  IPCJobThread ... 14
+                    SockServer ... 2
+
+----------- Detailed Thread List ----------
+[        67][       0.000 Kb]	LSCHECKHEALTH	THIS		LSINITHEALTH	ENVIRONMENT	Tue Mar 18 17:22:50 2025	00:00:33	0	43		[[LS Virtual] LsInitHealth: Inicializando a rotina de avaliação da saúde do log e uso.]
+[        68][       0.000 Kb]	LSAUDIT	THIS		LSAUDITPERSIST	ENVIRONMENT	Tue Mar 18 17:22:50 2025	00:00:33	0	33		[]
+[        70][       0.000 Kb]	LSTXLSLOGMNG	THIS		LSTXLSLOGMNG	ENVIRONMENT	Tue Mar 18 17:22:50 2025	00:00:33	0	2405		[[LS Virtual] LsTxLsLogMng: Aguardando horario 17:41:00 para inicio da transmissão]
+[        74][       0.000 Kb]	TOTVSLICENSESERVER_CHKPULSE	THIS		LSONCHKPULSE	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	6		[]
+[        72][       0.000 Kb]	LSTXAGREEMENT	THIS		LSTXAGREEMENT	ENVIRONMENT	Tue Mar 18 17:22:50 2025	00:00:33	0	223		[[LS Virtual] LsTxAStart: Thread iniciada]
+[        75][       0.000 Kb]	TOTVSLICENSESERVER_PULSE	THIS		LSSTART	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+[        76][       0.000 Kb]	TOTVSLICENSESERVER_GETLICENSE	THIS		LSSTLICENSE	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+[        77][       0.000 Kb]	TOTVSLICENSESERVER_RELEASELICENSE	THIS		LSONRLICENSE	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	7		[{"METHOD":"RELEASELICENSE"}]
+[        78][       0.000 Kb]	TOTVSLICENSESERVER_LOCALGETINFO	THIS		LSLOCALGETINFO	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	19		[]
+[        79][       0.000 Kb]	TOTVSLICENSESERVER_DEFAULT	THIS		LSSTART	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+[        80][       0.000 Kb]	TOTVSLICENSESERVER_GETINFO	THIS		LSSTART	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+[        81][       0.000 Kb]	TOTVSLICENSESERVER_GETONDEMAND	THIS		LSSTART	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+[        82][       0.000 Kb]	TOTVSLICENSESERVER_GETAVAIBLE	THIS		LSSTART	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+[        83][       0.000 Kb]	CALLBACK_TOTVSLICENSESERVER_GETLICENSE	THIS		LSSTART	ENVIRONMENT	Tue Mar 18 17:22:51 2025	00:00:32	0	1		[]
+
+[     TOTAL][       0.000 Kb][Num: 14        ]
+
+----------- Detailed Process List ---- (*1)
+[        22][       0.000 Kb][         Thread][ tMemoryMonitor][]
+[        23][       0.000 Kb][         Thread][tSaveNumberThread][]
+[        24][       0.000 Kb][         Thread][LicenseStatelessGarbage][]
+[        25][       0.000 Kb][     SockServer][tTTLicenseServer][]
+[        30][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        31][       0.000 Kb][         Thread][    tJobManager][]
+[        32][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        33][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        34][       0.000 Kb][     SockServer][    tMainServer][]
+[        35][       0.000 Kb][        WThread][   tWThreadBase][]
+[        36][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        37][       0.000 Kb][        WThread][   tWThreadBase][]
+[        39][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        52][       0.000 Kb][        WThread][   tWThreadBase][]
+[        53][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        54][       0.000 Kb][        WThread][   tWThreadBase][]
+[        55][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        56][       0.000 Kb][        WThread][   tWThreadBase][]
+[        57][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        58][       0.000 Kb][        WThread][   tWThreadBase][]
+[        59][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        60][       0.000 Kb][        WThread][   tWThreadBase][]
+[        61][       0.000 Kb][       LSThread][   tWThreadBase][]
+[        62][       0.000 Kb][        WThread][   tWThreadBase][]
+[        63][       0.000 Kb][        WThread][   tWThreadBase][]
+[        64][       0.000 Kb][        WThread][   tWThreadBase][]
+
+[     TOTAL][       0.000 Kb][Num: 26        ][               ][]
+
+----------- Global List Info --------------
+                 IMAP Glb List ...        0.000 kB. Count 0
+             Variable Glb List ...      571.708 kB. Count 1169
+              Session Glb List ...        0.000 kB. Count 0
+                   SymTab List ...      169.043 kB. Count 10720 Hits 43119
+                  TCP Glb List ... Count 0
+
+----------- Global Stack Info --------------
+
+----------- Global Queue Info --------------
+
+----------- Global File Queue Info --------------
+
+----------- Global Table and Hash Map Info --------------
+                Global Table X ...        0.647 Kb.	Keys X: 14
+                Global Table A ...        0.127 Kb.	Keys A: 2
+        Total (X + A + extras) ...     2030.774 Kb.	Num Tables: 29
+
+                      Hash Map ...        0.000 Kb.
+                 IntClass List ...        0.000 Kb. Count 117
+                  IntFunc List ...        0.000 Kb. Count 1047
+                  APPMAP Array ...        0.000 Kb. Count 3
+
+
+----------- SmartHeap Pools Info ----------
+                   pooltString ...      960.00 kB. Count   4560 Ok
+                  poolrContent ...     2240.00 kB. Count   8600 Ok
+                 pooltInstrVar ...     1536.00 kB. Count   3535 Ok
+                    pooltConst ...     1216.00 kB. Count   4063 Ok
+        poolrContentTypeSimple ...      640.00 kB. Count     26 Ok
+                 pooltNamedVar ...     1600.00 kB. Count   2285 Ok
+                      pooltSum ...     1024.00 kB. Count   2073 Ok
+                  pooltCompare ...      896.00 kB. Count    878 Ok
+                 pooltLocalEnv ...      896.00 kB. Count    411 Ok
+        pooltInterFunctionCall ...      896.00 kB. Count    944 Ok
+       pooltDirectFunctionCall ...     1024.00 kB. Count   1965 Ok
+                   pooltApoReg ...     1600.00 kB. Count  10003 Ok
+               pooltAssignBase ...     1088.00 kB. Count   2729 Ok
+                pooltCodeBlock ...      896.00 kB. Count     71 Ok
+             pooltCodeBlockEnv ...      704.00 kB. Count     13 Ok
+             pooltCodeBlockRef ...      768.00 kB. Count     34 Ok
+           pooltCodeBlockInstr ...      640.00 kB. Count     34 Ok
+                pooltClassData ...     1920.00 kB. Count   5149 Ok
+          pooltPrgFunctXRefEle ...      640.00 kB. Count  14673 Ok
+               pooltIdentifier ...      768.00 kB. Count    892 Ok
+          pooltNamedVarXVarRef ...      704.00 kB. Count   1241 Ok
+               pooltParmDefDet ...      960.00 kB. Count   6036 Ok
+                  pooltVarList ...      832.00 kB. Count    367 Ok
+                 pooltStatList ...      832.00 kB. Count    965 Ok
+                 pooltParmList ...     1216.00 kB. Count   3170 Ok
+             pooltArrayElement ...      640.00 kB. Count     65 Ok
+                   pooltBaseIf ...      960.00 kB. Count   1113 Ok
+                   pooltMethod ...     1984.00 kB. Count   9555 Ok
+               pooltFindObject ...      896.00 kB. Count    797 Ok
+                  pooltSelfVar ...      704.00 kB. Count    171 Ok
+            pooltClassInstance ...      640.00 kB. Count     14 Ok
+               pooltMethodCall ...      896.00 kB. Count    304 Ok
+                   pooltReturn ...      640.00 kB. Count    401 Ok
+                pooltStaticEnv ...     1024.00 kB. Count    576 Ok
+               pooltPrivateEnv ...      896.00 kB. Count    418 Ok
+           pooltSrcSafeXRefEle ...      192.00 kB. Count   1226 Ok
+                  poolMemLists ...     8896.00 kB. Count  18173 Ok
+                 poolMemStrRef ...    12096.00 kB. Count  30505 Ok
+                 poolMemStream ...     3392.00 kB. Count   1422 Ok
+           Default Memory Pool ...    65472.00 kB. Count  55711 Ok
+
+           TOTAL POOLED MEMORY ...   127296.00 kB.
+
+
+----------- OS Memory Summary -------------
+MemTotal:        7457280 kB		MemFree:          656856 kB		
+Active:          2453768 kB		Inactive:        3028760 kB		
+SwapTotal:       3906556 kB		SwapFree:        3866364 kB		
+
+----------- APP Memory Summary ------------
+        Server Memory Capacity ...    32768.000 MB.
+      Service Addressed Memory ...      776.645 MB.
+       Service Resident Memory ...      178.754 MB.
+
+
+ (Turn on DebugThreadUsedMemory to see more detailed information of allocation)
+2025-03-18T17:23:23.450727+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Stopping Threads...
+2025-03-18T17:23:23.450750+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 34 Live Threads 34
+2025-03-18T17:23:23.453183+00:00 25|$2025-03-18T17:23:23.457351+00:00 72|
+/*-------------------------------------------------------
+THREAD ERROR ([72], LSTXAGREEMENT, THIS)   18/03/2025   17:23:23
+Application Server is Shutting Down. on LSTXAGREEMENT(LSLOGAUDIT.PRX) 16/12/2024 17:25:52
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 72]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] [LS Virtual] LsTxAStart: Thread iniciada]
+[threadtype: IPCJobThread]
+
+Stack : 
+Application Server is Shutting Down. on LSTXAGREEMENT(LSLOGAUDIT.PRX) 16/12/2024 17:25:52
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 72]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] [LS Virtual] LsTxAStart: Thread iniciada]
+[threadtype: IPCJobThread]
+-------------------------------------------------------*/
+2025-03-18T17:23:23.457495+00:00 72|
+[ERROR][SERVER] [Thread 72] **** Could not write /totvs/license/data/system/error.log. (The system cannot find the file specified.)
+2025-03-18T17:23:23.484653+00:00 68|
+/*-------------------------------------------------------
+THREAD ERROR ([68], LSAUDIT, THIS)   18/03/2025   17:23:23
+Application Server is Shutting Down. on LSAUDITPERSIST(LSLOGAUDIT.PRX) 16/12/2024 17:25:52
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 68]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] ]
+[threadtype: IPCJobThread]
+
+Stack : 
+Application Server is Shutting Down. on LSAUDITPERSIST(LSLOGAUDIT.PRX) 16/12/2024 17:25:52
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 68]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] ]
+[threadtype: IPCJobThread]
+-------------------------------------------------------*/
+2025-03-18T17:23:23.484838+00:00 68|
+[ERROR][SERVER] [Thread 68] **** Could not write /totvs/license/data/system/error.log. (The system cannot find the file specified.)
+2025-03-18T17:23:23.511433+00:00 70|
+/*-------------------------------------------------------
+THREAD ERROR ([70], LSTXLSLOGMNG, THIS)   18/03/2025   17:23:23
+Application Server is Shutting Down. on LSTXLSLOGMNG(LSLOGAUDIT.PRX) 16/12/2024 17:25:52
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 70]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] [LS Virtual] LsTxLsLogMng: Aguardando horario 17:41:00 para inicio da transmissão]
+[threadtype: IPCJobThread]
+
+Stack : 
+Application Server is Shutting Down. on LSTXLSLOGMNG(LSLOGAUDIT.PRX) 16/12/2024 17:25:52
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 70]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] [LS Virtual] LsTxLsLogMng: Aguardando horario 17:41:00 para inicio da transmissão]
+[threadtype: IPCJobThread]
+-------------------------------------------------------*/
+2025-03-18T17:23:23.511569+00:00 70|
+[ERROR][SERVER] [Thread 70] **** Could not write /totvs/license/data/system/error.log. (The system cannot find the file specified.)
+2025-03-18T17:23:23.525006+00:00 74|
+/*-------------------------------------------------------
+THREAD ERROR ([74], TOTVSLICENSESERVER_CHKPULSE, THIS)   18/03/2025   17:23:23
+Application Server is Shutting Down. on LSONCHKPULSE(FWLSSERVER.PRX) 16/12/2024 17:26:30
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 74]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] ]
+[threadtype: IPCJobThread]
+
+Stack : 
+Application Server is Shutting Down. on LSONCHKPULSE(FWLSSERVER.PRX) 16/12/2024 17:26:30
+
+[build: 7.00.210324P-20241118]
+* SVN Revision: 43135
+[platform: x64]
+[appversion: 20.3.2.14_1]
+[environment: ENVIRONMENT]
+[thread: 74]
+[rpodb: SQLite]
+[localfiles: CTREE]
+[remark: [KILL] [APPKILL] [TERM] ]
+[threadtype: IPCJobThread]
+-------------------------------------------------------*/
+2025-03-18T17:23:23.525123+00:00 74|
+[ERROR][SERVER] [Thread 74] **** Could not write /totvs/license/data/system/error.log. (The system cannot find the file specified.)
+2025-03-18T17:23:23.577484+00:00 22|
+[INFO ][SERVER] [Thread 22] Memory Monitor END
+2025-03-18T17:23:23.681444+00:00 23|
+[INFO ][LICENSESERVER] [Thread 23] END tSaveNumberThread -- Update #9
+2025-03-18T17:23:23.950848+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 16
+2025-03-18T17:23:24.451017+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 10
+2025-03-18T17:23:24.453311+00:00 25|$2025-03-18T17:23:24.951476+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 10
+2025-03-18T17:23:25.451996+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 10
+2025-03-18T17:23:25.453462+00:00 25|$2025-03-18T17:23:25.952411+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 10
+2025-03-18T17:23:26.452871+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 10
+2025-03-18T17:23:26.453627+00:00 25|$2025-03-18T17:23:26.953415+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 10
+2025-03-18T17:23:27.453743+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 5
+2025-03-18T17:23:27.453853+00:00 25|$2025-03-18T17:23:27.954234+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:28.454260+00:00 25|$2025-03-18T17:23:28.454504+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:28.954860+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:29.454450+00:00 25|$2025-03-18T17:23:29.455168+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:29.955526+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:30.454773+00:00 25|$2025-03-18T17:23:30.455891+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:30.956478+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:31.455202+00:00 25|$2025-03-18T17:23:31.456990+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:31.957223+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 1
+2025-03-18T17:23:32.455629+00:00 25|
+[INFO ][LICENSESERVER] Saving /totvs/license/bin/appserver/lsnumber.val...
+2025-03-18T17:23:32.457429+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Notified finalization for 0 Live Threads 0
+2025-03-18T17:23:32.462523+00:00 25|
+[INFO ][LICENSESERVER] Saving file /totvs/license/bin/appserver/lsnumber.val OK.
+2025-03-18T17:23:32.959359+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority 20] Stopped Successfully
+2025-03-18T17:23:32.959444+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Stopping All Other Threads...
+2025-03-18T17:23:32.959472+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 1 Live Threads 1
+2025-03-18T17:23:33.459644+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Notified finalization for 1 Live Threads 0
+2025-03-18T17:23:33.959879+00:00 19|
+[INFO ][SERVER] [Thread 19][Thread Priority XX] Stopped Successfully
+2025-03-18T17:23:33.959986+00:00 19|
+[INFO ][SERVER] [Thread 19] All Threads Stopped Successfully 

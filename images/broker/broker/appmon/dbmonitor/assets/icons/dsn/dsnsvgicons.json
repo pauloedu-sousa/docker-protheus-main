@@ -1,0 +1,38 @@
+[
+    {
+        "name": "db2.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/db2.svg"
+    },
+    {
+        "name": "informix.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/informix.svg"
+    },
+    {
+        "name": "mssql.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/mssql.svg"
+    },
+    {
+        "name": "mysql.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/mysql.svg"
+    },
+    {
+        "name": "odbc.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/odbc.svg"
+    },
+    {
+        "name": "openedge.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/openedge.svg"
+    },
+    {
+        "name": "oracle.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/oracle.svg"
+    },
+    {
+        "name": "postgresql-vertical.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/postgresql-vertical.svg"
+    },
+    {
+        "name": "postgres.svg",
+        "content": "apps/dbmonitor/src/assets/icons/dsn/postgres.svg"
+    }
+]
